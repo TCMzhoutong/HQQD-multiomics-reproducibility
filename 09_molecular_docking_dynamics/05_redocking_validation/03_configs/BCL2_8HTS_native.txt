@@ -1,0 +1,12 @@
+receptor = .\03_receptor_preparation\04_receptor_pdbqt\BCL2_8HTS.pdbqt
+ligand = .\05_redocking_validation\02_native_pdbqt\BCL2_8HTS_native.pdbqt
+center_x = -0.21
+center_y = 9.374
+center_z = 7.186
+size_x = 31.915
+size_y = 32.833
+size_z = 32.118
+exhaustiveness = 10
+num_modes = 9
+seed = 2026062199
+

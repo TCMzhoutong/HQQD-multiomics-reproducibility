@@ -1,0 +1,4 @@
+"Set","QueryCount","KEGGAnnotatedQueryCount","AnalysisStatus","EnrichedPathways","RawP_lt_0.05","FDR_lt_0.05","FDR_lt_0.10"
+"All_reverse_candidates",32,9,"Tested",35,18,1,18
+"Model_Up_HQQD_Down",3,1,"Not tested: fewer than 3 KEGG-annotated query metabolites",0,0,0,0
+"Model_Down_HQQD_Up",29,8,"Tested",25,15,13,16

@@ -1,0 +1,44 @@
+﻿PubChem_CID,Ingredient_name,SMILES,Formula,Annot. Source: Predicted Compositions,Annot. Source: mzCloud Search,Annot. Source: ChemSpider Search,Annot. Source: MassList Search,Annot. DeltaMass [ppm],Calc. MW,m/z,RT [min],Area (Max.),# ChemSpider Results,# mzCloud Results,mzCloud Best Match,mzCloud Best Match Confidence,GI absorption,Lipinski #violations,Ghose #violations,Veber #violations,Egan #violations,Muegge #violations
+124211,"5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone",COC1=CC=CC(=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)OC)OC)OC)O)O,C19 H18 O8,Not the top hit,Full match,No match,Full match,-1.37,374.09965,375.10654,14.292,1068198956.0,1,4,93.2,9.7,High,0,0,0,0,0
+5280373,Biochanin A,COC1=CC=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O,C16 H12 O5,Full match,Full match,Partial match,Not the top hit,-3.51,284.06748,285.07471,9.479,856319643.8,191,14,92.1,9.6,High,0,0,0,0,0
+5280378,Formononetin,COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O,C16 H12 O4,Full match,Full match,Full match,Full match,-0.45,268.07344,267.06628,14.089,304127392.0,225,1,91.0,9.5,High,0,0,0,0,0
+68077,Tangeritin,COC1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC,C20 H20 O7,Full match,Full match,Partial match,Partial match,-2.59,372.11994,373.1272,15.514,11135036138.0,108,3,93.5,9.7,High,0,0,0,0,0
+14332,"3,5-Dimethoxybenzoic acid",COC1=CC(=CC(=C1)C(=O)O)OC,C9 H10 O4,Full match,Full match,Partial match,Partial match,-3.65,182.05724,181.04988,8.35,455185841.0,104,4,82.1,9.1,High,0,0,0,0,1
+4114,Methoxsalen,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,C12 H8 O4,Full match,Full match,Not the top hit,Partial match,-1.8,216.04187,217.04915,13.266,213391948.9,30,4,91.6,9.6,High,0,0,0,0,0
+2353,Berberine,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,C20 H17 N O4,No results,Full match,Partial match,No match,-2.42,335.11495,336.12222,8.966,29847495955.0,238,9,80.8,9.0,High,0,0,0,0,0
+1183,Vanillin,COC1=C(C=CC(=C1)C=O)O,C8 H8 O3,Full match,Full match,Not the top hit,Not the top hit,-2.92,152.0469,153.05437,7.128,312068270.8,66,9,93.4,94.7,High,0,2,0,0,1
+8417,Scoparone,COC1=C(C=C2C(=C1)C=CC(=O)O2)OC,C11 H10 O4,Full match,Full match,Full match,Not the top hit,-0.81,206.05774,207.06502,12.868,507797036.5,78,2,94.3,9.7,High,0,0,0,0,0
+5317750,Glycitein,COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)O,C16 H12 O5,Full match,Full match,Not the top hit,Not the top hit,-2.27,284.06783,285.0751,9.092,2397100432.0,191,14,97.6,9.9,High,0,0,0,0,0
+72281,Hesperetin,COC1=C(C=C(C=C1)C2CC(=O)C3=C(C=C(C=C3O2)O)O)O,C16 H14 O6,Full match,Full match,Full match,Full match,-2.26,302.07836,303.08563,8.014,1860468368.0,132,7,96.2,55.3,High,0,0,0,0,0
+72344,Nobiletin,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,C21 H22 O8,Full match,Full match,Full match,Not the top hit,-3.38,402.13011,403.13739,14.256,37576477703.0,58,7,94.7,9.7,High,0,0,0,0,0
+98570,"7,8-dimethoxy-11-methyl-17,19-dioxa-11-azatetracyclo[12.7.0.04,9.016,20]henicosa-1(21),4(9),5,7,14,16(20)-hexaen-2-one",CN1CCC2=CC3=C(C=C2C(=O)CC4=C(C1)C(=C(C=C4)OC)OC)OCO3,C21 H23 N O5,Not the top hit,Full match,No match,Not the top hit,-2.43,369.15672,370.164,8.942,953744050.0,22,3,90.8,69.5,High,0,0,0,0,0
+248575,"2-Amino-1,3,4-octadecanetriol",CCCCCCCCCCCCCCC(C(C(CO)N)O)O,C18 H39 N O3,Full match,Full match,Full match,Full match,-1.94,317.29238,318.29965,13.974,496285686.9,3,1,86.0,9.3,High,0,0,1,0,1
+1742210,(-)-Caryophyllene oxide,CC1(CC2C1CCC3(C(O3)CCC2=C)C)C,C15 H24 O,Full match,Full match,Full match,Full match,-1.68,220.18234,221.18962,12.426,199954881.8,141,2,86.0,81.7,High,0,0,0,0,1
+9294,Ephedrine,CC(C(C1=CC=CC=C1)O)NC,C10 H15 N O,Full match,Full match,Full match,Full match,-1.98,165.11504,166.12231,3.735,6868419577.0,94,3,99.8,70.2,High,0,0,0,0,1
+7410,Acetophenone,CC(=O)C1=CC=CC=C1,C8 H8 O,Full match,Full match,Partial match,Partial match,-0.28,120.05748,121.06476,2.306,5242636456.0,12,1,80.6,53.8,High,0,3,0,0,2
+68073,"2,4,6-Trihydroxyacetophenone",CC(=O)C1=C(C=C(C=C1O)O)O,C8 H8 O4,Full match,Full match,Not the top hit,Not the top hit,-3.14,168.04173,167.03423,5.893,270341177.3,63,11,95.8,9.8,High,0,0,0,0,1
+24864132,Oxymatrine,C1CC2C3CCC[N+]4(C3C(CCC4)CN2C(=O)C1)[O-],C15 H24 N2 O2,Full match,Full match,Full match,Full match,-0.05,264.18376,265.19104,3.027,324049994.5,198,3,88.9,9.4,High,0,0,0,0,0
+8988,D-(+)-Proline,C1CC(NC1)C(=O)O,C5 H9 N O2,Full match,Full match,Full match,Full match,0.67,115.06341,116.07067,2.61,2894323610.0,42,2,91.9,9.6,High,0,4,0,0,2
+11095,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one",C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC(=C(C=C3)O)O,C15 H12 O6,Full match,Full match,Full match,Full match,-2.07,288.06279,289.07007,6.939,152187349.4,113,7,91.5,40.6,High,0,0,0,0,0
+1889,"4',7-Dihydroxyflavanone",C1C(OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,C15 H12 O4,Full match,Full match,Full match,Full match,-1.88,256.07308,257.08035,7.15,511111411.0,174,9,89.8,66.1,High,0,0,0,0,0
+190,Adenine,C1=NC2=NC=NC(=C2N1)N,C5 H5 N5,Full match,Full match,Partial match,Partial match,-1.39,135.05431,136.06158,1.862,14853810488.0,8,1,99.7,10.0,High,0,3,0,0,1
+9060,D-(+)-Tryptophan,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,C11 H12 N2 O2,Full match,Full match,Full match,Full match,-2.34,204.0894,205.09666,4.068,16492356752.0,189,3,97.6,60.8,High,0,0,0,0,0
+6140,L-Phenylalanine,C1=CC=C(C=C1)CC(C(=O)O)N,C9 H11 N O2,Full match,Full match,Full match,Full match,-0.63,165.07887,166.08615,2.885,5770124100.0,129,1,98.5,64.7,High,0,0,0,0,1
+5281607,"5,7-dihydroxy-2-phenyl-4H-chromen-4-one",C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,C15 H10 O4,Not the top hit,Full match,Partial match,Not the top hit,-2.34,254.05731,255.06459,9.206,172510351.8,163,5,94.2,9.7,High,0,0,0,0,0
+6199,Psoralen,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,C11 H6 O3,Full match,Full match,Full match,Full match,-1.23,186.03147,187.03874,11.864,366503569.0,6,1,96.0,54.2,High,0,0,0,0,1
+6057,L-Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,C9 H11 N O3,Full match,Full match,Full match,Full match,-0.55,181.07379,182.08107,2.449,1113724993.0,91,2,94.5,83.7,High,0,0,0,0,2
+5281708,Daidzein,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O,C15 H10 O4,Full match,Full match,Full match,Not the top hit,-0.43,254.0578,253.05052,16.526,32168619.75,136,3,87.5,9.4,High,0,0,0,0,0
+5280443,Apigenin,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,C15 H10 O5,Full match,Full match,Full match,Not the top hit,-1.32,270.05247,271.05963,11.913,1583424290.0,132,14,99.4,10.0,High,0,0,0,0,0
+440832,Pelargonidin,C1=CC(=CC=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O,C15 H10 O5,No match,Full match,No match,Partial match,-4.68,270.05156,271.05872,8.63,4836534157.0,9,14,97.2,9.9,High,0,0,0,0,0
+126,4-Hydroxybenzaldehyde,C1=CC(=CC=C1C=O)O,C7 H6 O2,Full match,Full match,Full match,Full match,-0.28,122.03674,123.04402,6.573,366324894.3,10,1,84.4,9.2,High,0,3,0,0,1
+638278,Isoliquiritigenin,C1=CC(=CC=C1C=CC(=O)C2=C(C=C(C=C2)O)O)O,C15 H12 O4,Full match,Full match,Not the top hit,Partial match,-2.08,256.07303,257.08029,6.951,315699085.8,174,9,96.5,89.2,High,0,0,0,0,0
+135,4-Hydroxybenzoic acid,C1=CC(=CC=C1C(=O)O)O,C7 H6 O3,No results,Invalid mass,No results,No results,-8.2,138.03056,137.02328,9.033,3881343426.0,0,4,85.8,9.3,High,0,3,0,0,1
+5280960,Naringenin chalcone,C1=CC(=CC=C1/C=C/C(=O)C2=C(C=C(C=C2O)O)O)O,C15 H12 O5,Full match,Full match,Full match,Full match,-2.49,272.0678,273.07507,7.674,1171575755.0,146,9,96.8,89.8,High,0,0,0,0,0
+1057,Pyrogallol,C1=CC(=C(C(=C1)O)O)O,C6 H6 O3,Full match,Full match,Not the top hit,Not the top hit,-1.09,126.03156,127.03883,4.035,2041621344.0,16,7,98.5,9.9,High,0,3,0,0,1
+237332,5-Hydroxymethyl-2-furaldehyde,C1=C(OC(=C1)C=O)CO,C6 H6 O3,Full match,Full match,Partial match,Not the top hit,0.67,126.03178,127.03903,3.011,1248864017.0,16,4,99.2,68.3,High,0,3,0,0,1
+6274,L-Histidine,C1=C(NC=N1)CC(C(=O)O)N,C6 H9 N3 O2,Full match,Full match,Full match,Partial match,-1.29,155.06928,156.07655,28.267,20462327.43,31,2,84.8,33.4,High,0,3,0,0,2
+359,Phloroglucinol,C1=C(C=C(C=C1O)O)O,C6 H6 O3,Full match,Full match,Full match,Full match,-0.36,126.03165,127.03893,4.452,1731106125.0,16,7,98.2,63.2,High,0,3,0,0,1
+370,Gallic acid,C1=C(C=C(C(=C1O)O)O)C(=O)O,C7 H6 O5,Full match,Full match,Full match,Full match,-4.36,170.02078,169.0135,2.617,780363680.3,12,1,98.7,9.9,High,0,2,0,0,1
+5280385,Sinapine,C[N+](C)(C)CCOC(=O)C=CC1=CC(=C(C(=C1)OC)O)OC,C16 H23 N O5,Full match,Full match,Partial match,Partial match,-2.21,309.15694,310.16422,5.763,16868611446.0,46,1,96.7,9.8,High,0,0,0,0,0
+2266,Azelaic acid,C(CCCC(=O)O)CCCC(=O)O,C9 H16 O4,Full match,Full match,Full match,Full match,-3.99,188.10411,187.09682,8.377,1374071111.0,19,1,95.8,9.8,High,0,0,0,0,1
+444212,trans-Aconitic acid,C(C(=CC(=O)O)C(=O)O)C(=O)O,C6 H6 O6,Full match,Full match,Full match,Full match,-4.77,174.01561,173.00833,2.287,873717645.1,10,3,90.5,9.5,High,0,3,0,0,1

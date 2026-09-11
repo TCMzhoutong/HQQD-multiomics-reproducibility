@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,fdr
+GCST90243423,J10_PNEUMOBACT,Bacterial pneumoniae,Isoleucine levels,Inverse variance weighted (multiplicative random effects),18,0.385993672677065,0.364041919331907,0.289008107255026,0.578016214510052
+GCST90243460,J10_PNEUMOBACT,Bacterial pneumoniae,Serotonin 5HT levels,Inverse variance weighted (multiplicative random effects),16,-0.0686429394534442,0.12699106023605,0.58882907127949,0.58882907127949

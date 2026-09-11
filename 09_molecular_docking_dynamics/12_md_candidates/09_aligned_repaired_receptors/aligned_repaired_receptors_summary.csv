@@ -1,0 +1,4 @@
+target_pdb,matched_ca,sequence_identities_for_fit,fit_ca_rmsd_A,aligned_receptor_pdb
+MAPK14_3HLL,337,337,1.5615,12_md_candidates/09_aligned_repaired_receptors/MAPK14_3HLL_aligned_repaired_chainA.pdb
+BCL2_8HTS,150,150,0.0527,12_md_candidates/09_aligned_repaired_receptors/BCL2_8HTS_aligned_repaired_chainA.pdb
+PTPRC_1YGU,570,570,1.3645,12_md_candidates/09_aligned_repaired_receptors/PTPRC_1YGU_aligned_repaired_chainA.pdb

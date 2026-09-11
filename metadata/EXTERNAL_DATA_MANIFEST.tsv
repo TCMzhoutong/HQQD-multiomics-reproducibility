@@ -1,0 +1,15 @@
+module	data_category	dataset_or_accession	status	repository_or_url	notes
+01_animal_experiment	raw_flow_cytometry	[AUTHOR_INPUT_NEEDED]	not_bundled	[AUTHOR_INPUT_NEEDED]	Primary FCS files
+01_animal_experiment	raw_histopathology_images	[AUTHOR_INPUT_NEEDED]	not_bundled	[AUTHOR_INPUT_NEEDED]	Primary microscopy images
+02_metagenomics	raw_shotgun_reads	not_available	not_bundled	—	Not available in the current study archive
+02_metagenomics	processed_shotgun_metagenomic_data	OMIX020530	deposited	https://ngdc.cncb.ac.cn/omix/	Processed data and associated analysis files
+03_serum_metabolomics	raw_mass_spectrometry_files	[AUTHOR_INPUT_NEEDED]	not_bundled	[AUTHOR_INPUT_NEEDED]	Raw positive- and negative-ion files
+05_mendelian_randomization	public_GWAS_and_pQTL_inputs	[AUTHOR_INPUT_NEEDED]	not_bundled	[AUTHOR_INPUT_NEEDED]	Record accession and release for each source
+05_mendelian_randomization	LD_reference_panel	[AUTHOR_INPUT_NEEDED]	not_bundled	[AUTHOR_INPUT_NEEDED]	Required for local clumping
+07_immune_infiltration	public_bulk_transcriptomic_dataset	[AUTHOR_INPUT_NEEDED]	not_bundled	[AUTHOR_INPUT_NEEDED]	Confirm accession used by the analysis
+08_single_cell_transcriptomics	public_single_cell_dataset	GSE263380	not_bundled	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE263380	Raw public count matrices
+08_single_cell_transcriptomics	public_single_cell_dataset	GSE252663	not_bundled	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE252663	Raw public count matrices
+09_molecular_docking_dynamics	MD_trajectory	MAPK14-Pelargonidin	not_bundled	[AUTHOR_INPUT_NEEDED]	Large trajectory and checkpoint files
+09_molecular_docking_dynamics	MD_trajectory	MAPK14-Thyroxine	not_bundled	[AUTHOR_INPUT_NEEDED]	Large trajectory and checkpoint files
+09_molecular_docking_dynamics	MD_trajectory	PTPRC-5,7-dihydroxy-2-phenyl-4H-chromen-4-one	not_bundled	[AUTHOR_INPUT_NEEDED]	Large trajectory and checkpoint files
+09_molecular_docking_dynamics	MD_trajectory	BCL2-5,7-dihydroxy-2-phenyl-4H-chromen-4-one	not_bundled	[AUTHOR_INPUT_NEEDED]	Large trajectory and checkpoint files

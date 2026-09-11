@@ -1,0 +1,501 @@
+﻿CM_Name,Pubchem_CID,SMILES,Target,Common name,Uniprot ID,Target Class,Probability*
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Bile acid receptor,NR1H4,Q96RI1,Nuclear receptor,1.0
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Peroxisome proliferator-activated receptor gamma,PPARG,P37231,Nuclear receptor,1.0
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Retinoic acid receptor RXR-alpha,RXRA,P19793,Nuclear receptor,1.0
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Thyroid hormone receptor beta,THRB,P10828,Nuclear receptor,1.0
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Thyroid hormone receptor alpha,THRA,P10827,Nuclear receptor,1.0
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Transthyretin,TTR,P02766,Secreted protein,1.0
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Adenosine receptor A1,ADORA1,P30542,Family A G protein-coupled receptor,0.9972863874522384
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Proliferating cell nuclear antigen,PCNA,P12004,Other nuclear protein,0.9972863874522384
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Prothrombin,F2,P00734,Protease,0.9972863874522384
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,DNA ligase 1,LIG1,P18858,Ligase,0.8178924115469922
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Tyrosine 3-monooxygenase,TH,P07101,Oxidoreductase,0.344951418926106
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Integrin alpha-V/beta-3,,P05106&P06756,Membrane receptor,0.3193622507198455
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,"NAD-dependent protein deacylase sirtuin-5, mitochondrial",SIRT5,Q9NXA8,Eraser,0.2766378333880926
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Trace amine-associated receptor 5,TAAR5,O14804,Family A G protein-coupled receptor,0.2590354344782314
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Hepatic sodium/bile acid cotransporter,SLC10A1,Q14973,Electrochemical transporter,0.1831674154586904
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Epidermal growth factor receptor,EGFR,P00533,Kinase,0.0540072808595318
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Tyrosine-protein kinase Lck,LCK,P06239,Kinase,0.0500860725487792
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,5-hydroxytryptamine receptor 1A,HTR1A,P08908,Family A G protein-coupled receptor,0.044057403682466
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Tyrosine-protein kinase Fyn,FYN,P06241,Kinase,0.0437463582267751
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Acetylcholinesterase,ACHE,P22303,Hydrolase,0.0428763058436615
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Growth factor receptor-bound protein 2,GRB2,P62993,Other cytosolic protein,0.0308624850975607
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,5-hydroxytryptamine receptor 2B,HTR2B,P41595,Family A G protein-coupled receptor,0.0284274419716825
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,5-hydroxytryptamine receptor 2C,HTR2C,P28335,Family A G protein-coupled receptor,0.0284274419716825
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,5-hydroxytryptamine receptor 2A,HTR2A,P28223,Family A G protein-coupled receptor,0.0284274419716825
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Lysine-specific demethylase 4E,KDM4E,B2RXH2,Eraser,0.0283796742743583
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Tyrosine-protein phosphatase non-receptor type 1,PTPN1,P18031,Phosphatase,0.0278051599717268
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Peroxisome proliferator-activated receptor alpha,PPARA,Q07869,Nuclear receptor,0.0254527268315119
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Kappa-type opioid receptor,OPRK1,P41145,Family A G protein-coupled receptor,0.0243881620357645
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,DNA repair nuclease/redox regulator APEX1,APEX1,P27695,Enzyme,0.023520080627569
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Neutrophil collagenase,MMP8,P22894,Protease,0.0214428237954886
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Neprilysin,MME,P08473,Protease,0.0210911146199342
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Large neutral amino acids transporter small subunit 1,SLC7A5,Q01650,Electrochemical transporter,0.0209169687468256
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Sodium-dependent dopamine transporter,SLC6A3,Q01959,Electrochemical transporter,0.0207951057495729
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Sodium-dependent serotonin transporter,SLC6A4,P31645,Electrochemical transporter,0.0207951057495729
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Angiotensin-converting enzyme,ACE,P12821,Protease,0.0191872137825219
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Matrix metalloproteinase-9,MMP9,P14780,Protease,0.0191845636990119
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Flap endonuclease 1,FEN1,P39748,Hydrolase,0.0172652102465917
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Voltage-gated inwardly rectifying potassium channel KCNH2,KCNH2,Q12809,Voltage-gated ion channel,0.0171105024992485
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Peroxisome proliferator-activated receptor delta,PPARD,Q03181,Nuclear receptor,0.017055648890491
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,72 kDa type IV collagenase,MMP2,P08253,Protease,0.0166237906439883
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Collagenase 3,MMP13,P45452,Protease,0.0165945984131064
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Beta-1 adrenergic receptor,ADRB1,P08588,Family A G protein-coupled receptor,0.013678538144618
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,DNA excision repair protein ERCC-5,ERCC5,P28715,Other nuclear protein,0.0133486589727646
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Kinesin-like protein KIF11,KIF11,P52732,Other cytosolic protein,0.0127275361219559
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Tyrosinase,TYR,P14679,Oxidoreductase,0.012147044628546
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Carbonic anhydrase 2,CA2,P00918,Lyase,0.0119222847872942
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Carbonic anhydrase 1,CA1,P00915,Lyase,0.0119222847872942
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Glutamate carboxypeptidase 2,FOLH1,Q04609,Protease,0.0116608132073981
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,E3 ubiquitin-protein ligase Mdm2,MDM2,Q00987,Other nuclear protein,0.0115348172253282
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Polyunsaturated fatty acid 5-lipoxygenase,ALOX5,P09917,Oxidoreductase,0.0111093513097007
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Amine oxidase [flavin-containing] B,MAOB,P27338,Oxidoreductase,0.0109585749364794
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,DNA repair protein RAD52 homolog,RAD52,P43351,Other nuclear protein,0.0106384765227696
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Angiotensin-converting enzyme 2,ACE2,Q9BYF1,Protease,0.0099093925552105
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Carbonic anhydrase 9,CA9,Q16790,Lyase,0.0097940972009207
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Beta-2 adrenergic receptor,ADRB2,P07550,Family A G protein-coupled receptor,0.0095492298316503
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Thromboxane A2 receptor,TBXA2R,P21731,Family A G protein-coupled receptor,0.0092545199607888
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,D(1A) dopamine receptor,DRD1,P21728,Family A G protein-coupled receptor,0.009246001617639
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,Oxidoreductase,0.0091895940861854
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Beta-3 adrenergic receptor,ADRB3,P13945,Family A G protein-coupled receptor,0.0087480305682783
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Caspase-1,CASP1,P29466,Protease,0.008410768228908
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Receptor-type tyrosine-protein phosphatase alpha,PTPRA,P18433,Phosphatase,0.0083824125325156
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,D(3) dopamine receptor,DRD3,P35462,Family A G protein-coupled receptor,0.008261410601082
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,D(4) dopamine receptor,DRD4,P21917,Family A G protein-coupled receptor,0.008261410601082
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,D(2) dopamine receptor,DRD2,P14416,Family A G protein-coupled receptor,0.008261410601082
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Tyrosine-protein phosphatase non-receptor type 2,PTPN2,P17706,Phosphatase,0.0082051677812861
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Mu-type opioid receptor,OPRM1,P35372,Family A G protein-coupled receptor,0.0082009162087243
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Histone deacetylase 6,HDAC6,Q9UBN7,Eraser,0.0080687167148718
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Histone deacetylase 1,HDAC1,Q13547,Eraser,0.0080687167148718
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,"Fatty acid-binding protein, heart",FABP3,P05413,Fatty acid binding protein family,0.0077462641708959
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,"Fatty acid-binding protein, brain",FABP7,O15540,Fatty acid binding protein family,0.0077462641708959
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Pyruvate kinase PKM,PKM,P14618,Enzyme,0.0076167796894759
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Muscarinic acetylcholine receptor M1,CHRM1,P11229,Family A G protein-coupled receptor,0.0073504328891322
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Amyloid-beta precursor protein,APP,P05067,Membrane receptor,0.0073045651724127
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Integrin alpha-4/beta-1,,P05556&P13612,Membrane receptor,0.0072821465241461
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Aldo-keto reductase family 1 member B1,AKR1B1,P15121,Oxidoreductase,0.0072703920720513
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Carbonic anhydrase 12,CA12,O43570,Lyase,0.0071449234230905
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Extracellular calcium-sensing receptor,CASR,P41180,Family C G protein-coupled receptor,0.0067736759747417
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,3-oxo-5-alpha-steroid 4-dehydrogenase 2,SRD5A2,P31213,Oxidoreductase,0.0066770994478259
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Sodium-dependent noradrenaline transporter,SLC6A2,P23975,Electrochemical transporter,0.006602398449683
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Dipeptidyl peptidase 4,DPP4,P27487,Protease,0.0064941298356097
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,"Tyrosine--tRNA ligase, cytoplasmic",YARS1,P54577,Ligase,0.006441159483091
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Integrin alpha-IIb/beta-3,,P05106&P08514,Membrane receptor,0.0063153416242757
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Disintegrin and metalloproteinase domain-containing protein 17,ADAM17,P78536,Protease,0.0061972618304793
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Estrogen receptor beta,ESR2,Q92731,Nuclear receptor,0.00615818444937
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Estrogen receptor,ESR1,P03372,Nuclear receptor,0.00615818444937
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Procathepsin L,CTSL,P07711,Protease,0.0060213567211131
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Sex hormone-binding globulin,SHBG,P04278,Secreted protein,0.0058151423881937
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Carboxypeptidase A1,CPA1,P15085,Protease,0.0058012609867486
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Neuropeptide Y receptor type 5,NPY5R,Q15761,Family A G protein-coupled receptor,0.0057813075909512
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Free fatty acid receptor 1,FFAR1,O14842,Family A G protein-coupled receptor,0.0057008038534399
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Prostaglandin E synthase,PTGES,O14684,Isomerase,0.0056652506987456
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Dual specificity mitogen-activated protein kinase kinase 1,MAP2K1,Q02750,Kinase,0.0055840522162317
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Delta-type opioid receptor,OPRD1,P41143,Family A G protein-coupled receptor,0.0054431666557683
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,17-beta-hydroxysteroid dehydrogenase type 1,HSD17B1,P14061,Oxidoreductase,0.0054326810603557
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Interstitial collagenase,MMP1,P03956,Protease,0.0054289304313106
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Lysine-specific histone demethylase 1A,KDM1A,O60341,Eraser,0.0052406432306597
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,17-beta-hydroxysteroid dehydrogenase type 2,HSD17B2,P37059,Oxidoreductase,0.0050857594543448
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Aldo-keto reductase family 1 member C3,AKR1C3,P42330,Oxidoreductase,0.0049351453345143
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Aromatase,CYP19A1,P11511,Cytochrome P450,0.0046376465362112
+Thyroxine,5819,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,"3',5'-cyclic-AMP phosphodiesterase 4B",PDE4B,Q07343,Phosphodiesterase,0.0046344422276128
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Sodium- and chloride-dependent glycine transporter 2,SLC6A5,Q9Y345,Electrochemical transporter,0.9965733460042444
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Peroxisome proliferator-activated receptor alpha,PPARA,Q07869,Nuclear receptor,0.9683000375509128
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Cannabinoid receptor 1,CNR1,P21554,Family A G protein-coupled receptor,0.9643865243495298
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Fatty-acid amide hydrolase 1,FAAH,O00519,Hydrolase,0.962823250502198
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Peroxisome proliferator-activated receptor delta,PPARD,Q03181,Nuclear receptor,0.956572675457868
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,NAD-dependent protein deacylase sirtuin-6,SIRT6,Q8N6T7,Eraser,0.9311633315341784
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Transient receptor potential cation channel subfamily V member 1,TRPV1,Q8NER1,Voltage-gated ion channel,0.9179945931242488
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Histamine H3 receptor,HRH3,Q9Y5N1,Family A G protein-coupled receptor,0.905276668145203
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Glucose-dependent insulinotropic receptor,GPR119,Q8TDV5,Family A G protein-coupled receptor,0.8512299939989159
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Cannabinoid receptor 2,CNR2,P34972,Family A G protein-coupled receptor,0.8379488986288641
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Bifunctional epoxide hydrolase 2,EPHX2,P34913,Protease,0.6964273566488169
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,"Phospholipase A2, membrane associated",PLA2G2A,P14555,Hydrolase,0.6179799072011709
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Transient receptor potential cation channel subfamily M member 8,TRPM8,Q7Z2W7,Voltage-gated ion channel,0.5918101076062651
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Potassium channel subfamily K member 3,KCNK3,O14649,Voltage-gated ion channel,0.5369842355667309
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,11-beta-hydroxysteroid dehydrogenase type 2,HSD11B2,P80365,Oxidoreductase,0.5295482212674381
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Bile acid receptor,NR1H4,Q96RI1,Nuclear receptor,0.5295049112765301
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Hepatic sodium/bile acid cotransporter,SLC10A1,Q14973,Electrochemical transporter,0.4922550998726098
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Phospholipase A2 group V,PLA2G5,P39877,Hydrolase,0.4879547248610748
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,3-oxo-5-alpha-steroid 4-dehydrogenase 2,SRD5A2,P31213,Oxidoreductase,0.381294673267849
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Protein farnesyltransferase,,P49354&P49356,Transferase,0.3435410536468768
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Tyrosine-protein phosphatase non-receptor type 1,PTPN1,P18031,Phosphatase,0.3381147631595979
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Tyrosine-protein phosphatase non-receptor type 2,PTPN2,P17706,Phosphatase,0.3381147631595979
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Neprilysin,MME,P08473,Protease,0.3108252297150788
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Lysophosphatidic acid receptor 1,LPAR1,Q92633,Family A G protein-coupled receptor,0.3076507618836614
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Integrin alpha-IIb/beta-3,,P05106&P08514,Membrane receptor,0.2988659587079262
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,Oxidoreductase,0.287996387137758
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Autotaxin,ENPP2,Q13822,Enzyme,0.2688594295978398
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Lysophosphatidic acid receptor 3,LPAR3,Q9UBY5,Family A G protein-coupled receptor,0.2509534716928475
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Sentrin-specific protease 1,SENP1,Q9P0U3,Protease,0.2279843054015002
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Neutral ceramidase,ASAH2,Q9NR71,Hydrolase,0.2170488591477798
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Angiotensin-converting enzyme,ACE,P12821,Protease,0.2089253070869352
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Sphingolipid delta(4)-desaturase DES1,DEGS1,O15121,Oxidoreductase,0.1885083454803385
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Oxysterols receptor LXR-alpha,NR1H3,Q13133,Nuclear receptor,0.1457071862366129
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,NPC1-like intracellular cholesterol transporter 1,NPC1L1,Q9UHC9,Other membrane protein,0.1415089826011055
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Nuclear receptor ROR-gamma,RORC,P51449,Nuclear receptor,0.1154321648050673
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Lysophosphatidic acid receptor 2,LPAR2,Q9HBW0,Family A G protein-coupled receptor,0.1148000652448838
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Angiotensin-converting enzyme 2,ACE2,Q9BYF1,Protease,0.0969907374624819
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,3-oxo-5-alpha-steroid 4-dehydrogenase 1,SRD5A1,P18405,Oxidoreductase,0.0969907374624819
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Cytosolic phospholipase A2,PLA2G4A,P47712,Enzyme,0.0933165627703699
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,NAD-dependent protein deacetylase sirtuin-2,SIRT2,Q8IXJ6,Eraser,0.0905638571594933
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Prolyl endopeptidase,PREP,P48147,Protease,0.084537425489843
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,TGF-beta receptor type-1,TGFBR1,P36897,Kinase,0.081930382964489
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Cholinesterase,BCHE,P06276,Hydrolase,0.0815377230634373
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,"Steroid 17-alpha-hydroxylase/17,20 lyase",CYP17A1,P05093,Cytochrome P450,0.0723124114159258
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Renin,REN,P00797,Protease,0.069570141907057
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,D(3) dopamine receptor,DRD3,P35462,Family A G protein-coupled receptor,0.0623936979053465
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Sodium-dependent dopamine transporter,SLC6A3,Q01959,Electrochemical transporter,0.0610648312707614
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Cytosol aminopeptidase,LAP3,P28838,Protease,0.0585725552869464
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,PIN1,Q13526,Isomerase,0.0525301659327129
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Prostaglandin E2 receptor EP2 subtype,PTGER2,P43116,Family A G protein-coupled receptor,0.050596604458755
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Prostaglandin E2 receptor EP4 subtype,PTGER4,P35408,Family A G protein-coupled receptor,0.0484371693663623
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Cathepsin B,CTSB,P07858,Protease,0.0482813943088209
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Calpain-1 catalytic subunit,CAPN1,P07384,Protease,0.0482813943088209
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Ephrin type-A receptor 2,EPHA2,P29317,Kinase,0.0478758536214919
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Aminopeptidase B,RNPEP,Q9H4A4,Protease,0.0469306714166849
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Cathepsin K,CTSK,P43235,Protease,0.0457726600984722
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Prostaglandin E2 receptor EP3 subtype,PTGER3,P43115,Family A G protein-coupled receptor,0.0451136384051148
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Neurotensin receptor type 1,NTSR1,P30989,Family A G protein-coupled receptor,0.0445361568420638
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Group 10 secretory phospholipase A2,PLA2G10,O15496,Hydrolase,0.0437655513494103
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Thromboxane A2 receptor,TBXA2R,P21731,Family A G protein-coupled receptor,0.0414477544798188
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,17-beta-hydroxysteroid dehydrogenase type 3,HSD17B3,P37058,Oxidoreductase,0.0406233693977012
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Delta(24)-sterol reductase,DHCR24,Q15392,Oxidoreductase,0.0382118597709937
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Protein kinase C alpha type,PRKCA,P17252,Kinase,0.0373994705755499
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Beta-secretase 1,BACE1,P56817,Protease,0.036936345504805
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Cathepsin D,CTSD,P07339,Protease,0.03657921133112
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Mineralocorticoid receptor,NR3C2,P08235,Nuclear receptor,0.0356401934126464
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Integrin alpha-5/beta-1,,P05556&P08648,Membrane receptor,0.0354153167204074
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Methionine aminopeptidase 2,METAP2,P50579,Protease,0.0342927723643835
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,NAD-dependent protein deacetylase sirtuin-1,SIRT1,Q96EB6,Eraser,0.0340209040495948
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Histone deacetylase 1,HDAC1,Q13547,Eraser,0.0322941072133635
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Dipeptidyl peptidase 4,DPP4,P27487,Protease,0.0320317694736684
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,AMPK alpha2/beta1/gamma1,,P54646&P54619&Q9Y478,Kinase,0.0319045619688786
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Aromatase,CYP19A1,P11511,Cytochrome P450,0.0308469233165404
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Estrogen receptor,ESR1,P03372,Nuclear receptor,0.0298468043860691
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,"HLA class I histocompatibility antigen, A alpha chain",HLA-A,P04439,Surface antigen,0.0294601709238604
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Stromelysin-1,MMP3,P08254,Protease,0.0291774737845718
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,72 kDa type IV collagenase,MMP2,P08253,Protease,0.0291774737845718
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Prostaglandin G/H synthase 2,PTGS2,P35354,Oxidoreductase,0.0289820071795722
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Glutamate receptor 1,GRIA1,P42261,Ligand-gated ion channel,0.028172506020619
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Putative inactive group IIC secretory phospholipase A2,PLA2G2C,Q5R387,Enzyme,0.028111665969157
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Glycylpeptide N-tetradecanoyltransferase 1,NMT1,P30419,Transferase,0.0279842750150907
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Androgen receptor,AR,P10275,Nuclear receptor,0.0272147664296225
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,E3 ubiquitin-protein ligase XIAP,XIAP,P98170,Other cytosolic protein,0.0268527736540922
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Leukotriene A-4 hydrolase,LTA4H,P09960,Protease,0.0267687295590579
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Neurotensin receptor type 2,NTSR2,O95665,Family A G protein-coupled receptor,0.0266137162624894
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Alpha-2C adrenergic receptor,ADRA2C,P18825,Family A G protein-coupled receptor,0.0265656893800569
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Muscarinic acetylcholine receptor M1,CHRM1,P11229,Family A G protein-coupled receptor,0.0265656893800569
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Interstitial collagenase,MMP1,P03956,Protease,0.02653852829377
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Protein kinase C delta type,PRKCD,Q05655,Kinase,0.0248532851322953
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Liver carboxylesterase 1,CES1,P23141,Hydrolase,0.0244153829420544
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Prostaglandin D2 receptor,PTGDR,Q13258,Family A G protein-coupled receptor,0.0235796291344179
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Kelch-like ECH-associated protein 1,KEAP1,Q14145,Unclassified protein,0.0230980312206111
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Prothrombin,F2,P00734,Protease,0.0230164090776317
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Acetylcholinesterase,ACHE,P22303,Hydrolase,0.0226703342065282
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Prostaglandin E2 receptor EP1 subtype,PTGER1,P34995,Family A G protein-coupled receptor,0.0223188296589233
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Peroxisome proliferator-activated receptor gamma,PPARG,P37231,Nuclear receptor,0.0209315520948975
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,"Glutamate receptor ionotropic, kainate 1",GRIK1,P39086,Ligand-gated ion channel,0.0203617253984467
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Glucocorticoid receptor,NR3C1,P04150,Nuclear receptor,0.0185182200679274
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Thromboxane-A synthase,TBXAS1,P24557,Cytochrome P450,0.018334082764099
+N-Oleoyl Alanine,44423663,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,Serine palmitoyltransferase 1,SPTLC1,O15269,Transferase,0.0179837366355443
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Leukotriene A-4 hydrolase,LTA4H,P09960,Protease,0.9568604716904884
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Plasminogen,PLG,P00747,Protease,0.9074585414337002
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Voltage-dependent calcium channel subunit alpha-2/delta-1,CACNA2D1,P54289,Calcium channel auxiliary subunit alpha2delta family,0.8587504166219455
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Voltage-dependent calcium channel subunit alpha-2/delta-2,CACNA2D2,Q9NY47,Calcium channel auxiliary subunit alpha2delta family,0.8079743044033385
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Voltage-dependent L-type calcium channel subunit alpha-1C/L-type calcium channel subunit beta-3/calcium channel subunit alpha-2/delta-1,,P54289&Q13936&P54284,Voltage-gated ion channel,0.8064138192382995
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Xaa-Pro dipeptidase,PEPD,P12955,Protease,0.7562390700848908
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,"Glutamate receptor ionotropic, kainate 2",GRIK2,Q13002,Ligand-gated ion channel,0.7408169835286414
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,"Glutamate receptor ionotropic, kainate 1",GRIK1,P39086,Ligand-gated ion channel,0.7408169835286414
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Glutamyl aminopeptidase,ENPEP,Q07075,Protease,0.730615345560506
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Excitatory amino acid transporter 2,SLC1A2,P43004,Electrochemical transporter,0.721633492579562
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Aminopeptidase N,ANPEP,P15144,Protease,0.6915747319959803
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Carboxypeptidase B2,CPB2,Q96IY4,Protease,0.6862024346067818
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Metabotropic glutamate receptor 5,GRM5,P41594,Family C G protein-coupled receptor,0.6853909215858908
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Metabotropic glutamate receptor 2,GRM2,Q14416,Family C G protein-coupled receptor,0.5861182219552151
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Peroxisome proliferator-activated receptor gamma,PPARG,P37231,Nuclear receptor,0.5633796218233803
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Androgen receptor,AR,P10275,Nuclear receptor,0.5558332020218167
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Bile acid receptor,NR1H4,Q96RI1,Nuclear receptor,0.5510854464011702
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Sodium- and chloride-dependent betaine transporter,SLC6A12,P48065,Electrochemical transporter,0.547522871087142
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Metabotropic glutamate receptor 3,GRM3,Q14832,Family C G protein-coupled receptor,0.5305463342220309
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Metabotropic glutamate receptor 6,GRM6,O15303,Family C G protein-coupled receptor,0.4792089651859146
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Tyrosine-protein phosphatase non-receptor type 1,PTPN1,P18031,Phosphatase,0.4697579136338077
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Free fatty acid receptor 1,FFAR1,O14842,Family A G protein-coupled receptor,0.456047812949476
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Carbonic anhydrase 2,CA2,P00918,Lyase,0.4500909050784264
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Aldo-keto reductase family 1 member B1,AKR1B1,P15121,Oxidoreductase,0.4383373247496136
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Aminopeptidase B,RNPEP,Q9H4A4,Protease,0.4345187719737416
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Prothrombin,F2,P00734,Protease,0.4308269093609858
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Lysine-specific demethylase 5C,KDM5C,P41229,Reader,0.4293871087269143
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,M-phase inducer phosphatase 2,CDC25B,P30305,Phosphatase,0.4183688905051465
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Carbonic anhydrase 1,CA1,P00915,Lyase,0.4156445761233239
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Excitatory amino acid transporter 3,SLC1A1,P43005,Electrochemical transporter,0.4152693588644124
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,"Indoleamine 2,3-dioxygenase 1",IDO1,P14902,Oxidoreductase,0.3969886029317885
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Peroxisome proliferator-activated receptor alpha,PPARA,Q07869,Nuclear receptor,0.3853167252521774
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,CDGSH iron-sulfur domain-containing protein 1,CISD1,Q9NZ45,Unclassified protein,0.3846521405247657
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Peroxisome proliferator-activated receptor delta,PPARD,Q03181,Nuclear receptor,0.3841299951881224
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,Oxidoreductase,0.3736411074851673
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Fatty acid-binding protein 5,FABP5,Q01469,Fatty acid binding protein family,0.3735129153421068
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,"Fatty acid-binding protein, adipocyte",FABP4,P15090,Fatty acid binding protein family,0.3735129153421068
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,"Fatty acid-binding protein, intestinal",FABP2,P12104,Fatty acid binding protein family,0.3735129153421068
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,"Fatty acid-binding protein, heart",FABP3,P05413,Fatty acid binding protein family,0.3735129153421068
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Sex hormone-binding globulin,SHBG,P04278,Secreted protein,0.3656687227279042
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Receptor-type tyrosine-protein phosphatase C,PTPRC,P08575,Phosphatase,0.352533071811684
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,G-protein coupled receptor 84,GPR84,Q9NQS5,Family A G protein-coupled receptor,0.3503630476267556
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,"Glutamate receptor ionotropic, kainate 5",GRIK5,Q16478,Ligand-gated ion channel,0.3434762648476377
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,"Glutamate receptor ionotropic, kainate 3",GRIK3,Q13003,Ligand-gated ion channel,0.3434762648476377
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Autotaxin,ENPP2,Q13822,Enzyme,0.3429149288050205
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Aldo-keto reductase family 1 member B10,AKR1B10,O60218,Oxidoreductase,0.336469805299893
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Glutamate receptor 2,GRIA2,P42262,Ligand-gated ion channel,0.3322613633967735
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Lysine-specific demethylase 2A,KDM2A,Q9Y2K7,Reader,0.3206907305173935
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Gamma-secretase,,Q96BI3&Q9NZ42&Q8WW43&P49768&Q92542&P49810,Protease,0.3155451858896904
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Coagulation factor X,F10,P00742,Protease,0.3152546376790601
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,GABA-B receptor,,Q9UBS5&O75899,Family C G protein-coupled receptor,0.3074349358618624
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Tyrosine-protein phosphatase non-receptor type 2,PTPN2,P17706,Phosphatase,0.3058822420714963
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Metabotropic glutamate receptor 1,GRM1,Q13255,Family C G protein-coupled receptor,0.2962323629881074
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Glutamate receptor 1,GRIA1,P42261,Ligand-gated ion channel,0.293497483953658
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Glutamate receptor 4,GRIA4,P48058,Ligand-gated ion channel,0.2872990686927071
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Mineralocorticoid receptor,NR3C2,P08235,Nuclear receptor,0.2814401815118598
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Glucocorticoid receptor,NR3C1,P04150,Nuclear receptor,0.2814401815118598
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Prostaglandin E2 receptor EP2 subtype,PTGER2,P43116,Family A G protein-coupled receptor,0.2792106788995039
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,GABA-A receptor; alpha-1/beta-2/gamma-2,,P14867&P47870&P18507,Ligand-gated ion channel,0.2778383453522239
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Protein farnesyltransferase,,P49354&P49356,Transferase,0.2761938762140442
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Histone lysine demethylase PHF8,PHF8,Q9UPP1,Reader,0.2736458904418678
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Cytosol aminopeptidase,LAP3,P28838,Protease,0.2678777463874492
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,M-phase inducer phosphatase 1,CDC25A,P30304,Phosphatase,0.2661959207686878
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Neuronal acetylcholine receptor; alpha3/beta4,,P30926&P32297,Ligand-gated ion channel,0.2648201955272047
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Neuronal acetylcholine receptor; alpha4/beta2,,P17787&P43681,Ligand-gated ion channel,0.2648201955272047
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Carboxypeptidase N catalytic chain,CPN1,P15169,Protease,0.2418392176294158
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,3-oxo-5-alpha-steroid 4-dehydrogenase 2,SRD5A2,P31213,Oxidoreductase,0.2342390242737203
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,2-Hydroxyacid oxidase 1,HAO1,Q9UJM8,Oxidoreductase,0.2326225140514761
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Bifunctional epoxide hydrolase 2,EPHX2,P34913,Protease,0.2230187358227698
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Nitric oxide synthase 1,NOS1,P29475,Oxidoreductase,0.2221285706159823
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Vitamin D3 receptor,VDR,P11473,Nuclear receptor,0.2217308598098713
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Thromboxane-A synthase,TBXAS1,P24557,Cytochrome P450,0.2197399019296195
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,G-protein coupled bile acid receptor 1,GPBAR1,Q8TDU6,Family A G protein-coupled receptor,0.2115230795731513
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,"Nitric oxide synthase, inducible",NOS2,P35228,Enzyme,0.2094065907917798
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Progesterone receptor,PGR,P06401,Nuclear receptor,0.2069489842232304
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Metabotropic glutamate receptor 8,GRM8,O00222,Family C G protein-coupled receptor,0.2036859115597283
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Integrin alpha-IIb/beta-3,,P05106&P08514,Membrane receptor,0.1998064351763392
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Dipeptidyl peptidase 4,DPP4,P27487,Protease,0.1858950640207864
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Aromatase,CYP19A1,P11511,Cytochrome P450,0.1818528505794301
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Gamma-butyrobetaine dioxygenase,BBOX1,O75936,Oxidoreductase,0.1775674055025053
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Nitric oxide synthase 3,NOS3,P29474,Enzyme,0.1759425578946875
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Peroxisomal N(1)-acetyl-spermine/spermidine oxidase,PAOX,Q6QHF9,Oxidoreductase,0.1754744816411507
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Transient receptor potential cation channel subfamily V member 1,TRPV1,Q8NER1,Voltage-gated ion channel,0.1695221045384902
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Angiotensin-converting enzyme,ACE,P12821,Protease,0.1628136909339676
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,GABA-A receptor; alpha-1/beta-3/gamma-2,,P14867&P18507&P28472,Ligand-gated ion channel,0.1615265829885858
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Sodium- and chloride-dependent GABA transporter 3,SLC6A11,P48066,Electrochemical transporter,0.1598418836955664
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Sphingosine kinase 1,SPHK1,Q9NYA1,Enzyme,0.157858903567898
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Tissue alpha-L-fucosidase,FUCA1,P04066,Hydrolase,0.157612361185461
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Cytochrome P450 4A11,CYP4A11,Q02928,Cytochrome P450,0.157047656708278
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Neprilysin,MME,P08473,Protease,0.1555198088049437
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Solute carrier family 15 member 1,SLC15A1,P46059,Electrochemical transporter,0.1550921286745804
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Prostaglandin F2-alpha receptor,PTGFR,P43088,Family A G protein-coupled receptor,0.1486141017005182
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,11-beta-hydroxysteroid dehydrogenase type 2,HSD11B2,P80365,Oxidoreductase,0.1480408509447961
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Toll-like receptor 4,TLR4,O00206,Toll-like and Il-1 receptors,0.1472155474875396
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Renin,REN,P00797,Protease,0.1463207675673755
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Prostaglandin E2 receptor EP3 subtype,PTGER3,P43115,Family A G protein-coupled receptor,0.1457834905733231
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,GABA A receptor alpha-2/beta-2/gamma-2,,P47870&P18507&P47869,Ligand-gated ion channel,0.1418692523131172
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,17-beta-hydroxysteroid dehydrogenase type 3,HSD17B3,P37058,Oxidoreductase,0.1406789358298149
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Cell division control protein 45 homolog,CDC45,O75419,Other nuclear protein,0.131662019994394
+8-Amino-7-oxononanoate,5460197,CC(C(=O)CCCCCC(=O)[O-])N,Cytochrome P450 4F2,CYP4F2,P78329,Cytochrome P450,0.1300008597246666
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,P-selectin,SELP,P16109,Adhesion,0.1095761745751506
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Probable G-protein coupled receptor 174,GPR174,Q9BXC1,Family A G protein-coupled receptor,0.0712569167622722
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Putative P2Y purinoceptor 10,P2RY10,O00398,Family A G protein-coupled receptor,0.0712569167622722
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Probable G-protein coupled receptor 34,GPR34,Q9UPC5,Family A G protein-coupled receptor,0.0654152310215271
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Autotaxin,ENPP2,Q13822,Enzyme,0.0557552238087962
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Nuclear receptor subfamily 5 group A member 2,NR5A2,O00482,Nuclear receptor,0.0425799260310044
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,"Fatty acid-binding protein, heart",FABP3,P05413,Fatty acid binding protein family,0.0339778771308812
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,G-protein coupled receptor 55,GPR55,Q9Y2T6,Family A G protein-coupled receptor,0.031845837986602
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Platelet-activating factor receptor,PTAFR,P25105,Family A G protein-coupled receptor,0.0297433101783333
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Sigma intracellular receptor 2,TMEM97,Q5BJF2,Membrane receptor,0.0291601641128669
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,D(3) dopamine receptor,DRD3,P35462,Family A G protein-coupled receptor,0.0291601641128669
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Alpha-1B adrenergic receptor,ADRA1B,P35368,Family A G protein-coupled receptor,0.0291601641128669
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,5-hydroxytryptamine receptor 2C,HTR2C,P28335,Family A G protein-coupled receptor,0.0291601641128669
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,5-hydroxytryptamine receptor 1D,HTR1D,P28221,Family A G protein-coupled receptor,0.0291601641128669
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Alpha-1D adrenergic receptor,ADRA1D,P25100,Family A G protein-coupled receptor,0.0291601641128669
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Lysophosphatidic acid receptor 3,LPAR3,Q9UBY5,Family A G protein-coupled receptor,0.0276133932438606
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Lysophosphatidic acid receptor 1,LPAR1,Q92633,Family A G protein-coupled receptor,0.0276133932438606
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Steroidogenic factor 1,NR5A1,Q13285,Nuclear receptor,0.0240211988044693
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Sphingosine 1-phosphate receptor 1,S1PR1,P21453,Family A G protein-coupled receptor,0.0216677935032033
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Transient receptor potential cation channel subfamily V member 1,TRPV1,Q8NER1,Voltage-gated ion channel,0.0162689603262576
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,RAC-alpha serine/threonine-protein kinase,AKT1,P31749,Kinase,0.0130507866156819
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Cocaine esterase,CES2,O00748,Hydrolase,0.0125896182552914
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Lysophosphatidic acid receptor 2,LPAR2,Q9HBW0,Family A G protein-coupled receptor,0.0118510397413186
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Lysophosphatidic acid receptor 5,LPAR5,Q9H1C0,Family A G protein-coupled receptor,0.0117914596628482
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Lysophosphatidic acid receptor 4,LPAR4,Q99677,Family A G protein-coupled receptor,0.0117914596628482
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Lysophosphatidic acid receptor 6,LPAR6,P43657,Family A G protein-coupled receptor,0.0117914596628482
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Sphingomyelin phosphodiesterase,SMPD1,P17405,Phosphodiesterase,0.0083213333711212
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Mitogen-activated protein kinase 14,MAPK14,Q16539,Kinase,0.0072417907857389
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",PLCG2,P16885,Hydrolase,0.0062926083044739
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Diacylglycerol lipase-alpha,DAGLA,Q9Y4D2,Hydrolase,0.006019632433453
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,GRB2-associated-binding protein 1,GAB1,Q13480,Unclassified protein,0.0049599839064821
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Putative inactive group IIC secretory phospholipase A2,PLA2G2C,Q5R387,Enzyme,0.0030875020222998
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,PI3-kinase p110-alpha/p85-alpha,,P27986&P42336,Transferase,0.0021840641324371
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Bile acid receptor,NR1H4,Q96RI1,Nuclear receptor,0.0021605139663898
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Protein farnesyltransferase,,P49354&P49356,Transferase,0.0018731564724958
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Protein kinase C alpha type,PRKCA,P17252,Kinase,0.001707008306436
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Protein kinase C delta type,PRKCD,Q05655,Kinase,0.0015990422975885
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Aromatase,CYP19A1,P11511,Cytochrome P450,0.0015819035390291
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Acetylcholinesterase,ACHE,P22303,Hydrolase,0.0015158685422925
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,"Phospholipase A2, membrane associated",PLA2G2A,P14555,Hydrolase,0.0014097453309058
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Protein kinase C theta type,PRKCQ,Q04759,Kinase,0.0013585709147331
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Toll-like receptor 4,TLR4,O00206,Toll-like and Il-1 receptors,0.0011094357788445
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Cytosolic phospholipase A2,PLA2G4A,P47712,Enzyme,0.0010630868827996
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Prostaglandin G/H synthase 2,PTGS2,P35354,Oxidoreductase,0.0010278070953657
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Motilin receptor,MLNR,O43193,Family A G protein-coupled receptor,0.0009855988667323
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Sentrin-specific protease 1,SENP1,Q9P0U3,Protease,0.0009689399524267
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Tyrosine-protein phosphatase non-receptor type 1,PTPN1,P18031,Phosphatase,0.0009403004276588
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Telomerase reverse transcriptase,TERT,O14746,Transferase,0.0008581717880437
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Tyrosine-protein phosphatase non-receptor type 2,PTPN2,P17706,Phosphatase,0.0008448734275849
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Vesicular acetylcholine transporter,SLC18A3,Q16572,Electrochemical transporter,0.0008213835361695
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,3-hydroxy-3-methylglutaryl-coenzyme A reductase,HMGCR,P04035,Oxidoreductase,0.0008205431483076
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Ubiquitin carboxyl-terminal hydrolase 7,USP7,Q93009,Protease,0.000808906810516
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Protein kinase C epsilon type,PRKCE,Q02156,Kinase,0.0008067930444092
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Protein kinase C eta type,PRKCH,P24723,Kinase,0.0008067930444092
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,"NACHT, LRR and PYD domains-containing protein 3",NLRP3,Q96P20,Unclassified protein,0.0007885549991835
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Serine/threonine-protein kinase mTOR,MTOR,P42345,Kinase,0.0007724989665802
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Kelch-like ECH-associated protein 1,KEAP1,Q14145,Unclassified protein,0.0007587606771891
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Sodium-dependent serotonin transporter,SLC6A4,P31645,Electrochemical transporter,0.0007085296398275
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Geranylgeranyl transferase type I,,P49354&P53609,Transferase,0.0007079497760394
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,NAD-dependent protein deacetylase sirtuin-1,SIRT1,Q96EB6,Eraser,0.0006743790306893
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Protein kinase C beta type,PRKCB,P05771,Kinase,0.0006579971726494
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Thromboxane A2 receptor,TBXA2R,P21731,Family A G protein-coupled receptor,0.0006563789457941
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Lymphocyte antigen 96,LY96,Q9Y6Y9,Surface antigen,0.0006549801255997
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Sphingosine 1-phosphate receptor 5,S1PR5,Q9H228,Family A G protein-coupled receptor,0.0006522179821776
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Sphingosine 1-phosphate receptor 4,S1PR4,O95977,Family A G protein-coupled receptor,0.0006522179821776
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,ATP-dependent translocase ABCB1,ABCB1,P08183,Primary active transporter,0.0006500441737424
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Sigma non-opioid intracellular receptor 1,SIGMAR1,Q99720,Membrane receptor,0.0006489020405565
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Methionine aminopeptidase 2,METAP2,P50579,Protease,0.0006485035532071
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Bromodomain-containing protein 4,BRD4,O60885,Reader,0.0006476110740114
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Cation-independent mannose-6-phosphate receptor,IGF2R,P11717,Membrane receptor,0.0006469803120746
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Sphingosine 1-phosphate receptor 3,S1PR3,Q99500,Family A G protein-coupled receptor,0.000645602946624
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,"Fructose-1,6-bisphosphatase 1",FBP1,P09467,Phosphatase,0.0006441808827307
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Renin,REN,P00797,Protease,0.0006398622244935
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Muscarinic acetylcholine receptor M1,CHRM1,P11229,Family A G protein-coupled receptor,0.0006310654639186
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,3-phosphoinositide-dependent protein kinase 1,PDPK1,O15530,Kinase,0.0006289965807094
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Ras guanyl-releasing protein 3,RASGRP3,Q8IV61,Other cytosolic protein,0.0006252987215565
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Proto-oncogene vav,VAV1,P15498,Unclassified protein,0.0006252987215565
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Protein kinase C gamma type,PRKCG,P05129,Kinase,0.0006252987215565
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,O14983,Primary active transporter,0.0006231786207319
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Sphingosine 1-phosphate receptor 2,S1PR2,O95136,Family A G protein-coupled receptor,0.0006072972497352
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Bifunctional epoxide hydrolase 2,EPHX2,P34913,Protease,0.0006026106881233
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Cathepsin K,CTSK,P43235,Protease,0.000586750363877
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Cathepsin B,CTSB,P07858,Protease,0.000586750363877
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Cannabinoid receptor 2,CNR2,P34972,Family A G protein-coupled receptor,0.0005838821661253
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Cannabinoid receptor 1,CNR1,P21554,Family A G protein-coupled receptor,0.0005838821661253
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Adenosine kinase,ADK,P55263,Enzyme,0.0005837670717618
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Serine/threonine-protein phosphatase 4 catalytic subunit,PPP4C,P60510,Hydrolase,0.0005761432517116
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Potassium voltage-gated channel subfamily A member 3,KCNA3,P22001,Voltage-gated ion channel,0.0005761432517116
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Aldo-keto reductase family 1 member B1,AKR1B1,P15121,Oxidoreductase,0.0005679084337978
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Endothelial PAS domain-containing protein 1,EPAS1,Q99814,Transcription factor,0.0005485068712586
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Glutathione S-transferase P,GSTP1,P09211,Transferase,0.0005456697415642
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Translocator protein,TSPO,P30536,Membrane receptor,0.0005456468361025
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Beta-secretase 1,BACE1,P56817,Protease,0.0005406775768137
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Liver carboxylesterase 1,CES1,P23141,Hydrolase,0.0005384789829488
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Fibroblast growth factor receptor 1,FGFR1,P11362,Kinase,0.0005325870227713
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,Oxidoreductase,0.0005270629413971
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Endothelin-converting enzyme 1,ECE1,P42892,Protease,0.0005245040950455
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Signal transducer and activator of transcription 3,STAT3,P40763,Transcription factor,0.0005233868899843
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Kir3.1/Kir3.4,,P48549&P48544,Voltage-gated ion channel,0.0005094892412854
+"PE(P-18:0/18:1(12Z)-2OH(9,10))",156988680,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,Substance-K receptor,TACR2,P21452,Family A G protein-coupled receptor,0.0005088760705705
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Bile acid receptor,NR1H4,Q96RI1,Nuclear receptor,0.9582039816362072
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Peroxisome proliferator-activated receptor alpha,PPARA,Q07869,Nuclear receptor,0.9384934987746024
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Peroxisome proliferator-activated receptor delta,PPARD,Q03181,Nuclear receptor,0.9384934987746024
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Peroxisome proliferator-activated receptor gamma,PPARG,P37231,Nuclear receptor,0.927905054953424
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Tyrosine-protein phosphatase non-receptor type 1,PTPN1,P18031,Phosphatase,0.9229170096682549
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,"Fatty acid-binding protein, adipocyte",FABP4,P15090,Fatty acid binding protein family,0.9137511680990156
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,72 kDa type IV collagenase,MMP2,P08253,Protease,0.911534628406242
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Oxysterols receptor LXR-alpha,NR1H3,Q13133,Nuclear receptor,0.9079799827789828
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,Oxidoreductase,0.9079309770455676
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Fatty acid-binding protein 5,FABP5,Q01469,Fatty acid binding protein family,0.906003895141456
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Fatty-acid amide hydrolase 1,FAAH,O00519,Hydrolase,0.904092505136662
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,"Fatty acid-binding protein, liver",FABP1,P07148,Fatty acid binding protein family,0.8976386824535146
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,"Fatty acid-binding protein, heart",FABP3,P05413,Fatty acid binding protein family,0.8950556193862446
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Sentrin-specific protease 1,SENP1,Q9P0U3,Protease,0.8847574402637268
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Tyrosine-protein phosphatase non-receptor type 2,PTPN2,P17706,Phosphatase,0.8733783746023407
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Telomerase reverse transcriptase,TERT,O14746,Transferase,0.8684889747543242
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Oxysterols receptor LXR-beta,NR1H2,P55055,Nuclear receptor,0.8677396584775116
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Stearoyl-CoA desaturase,SCD,O00767,Enzyme,0.8644060701902558
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,ATP-citrate synthase,ACLY,P53396,Transferase,0.8586659880631632
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Aromatase,CYP19A1,P11511,Cytochrome P450,0.8499264776526357
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,"3',5'-cyclic-AMP phosphodiesterase 4D",PDE4D,Q08499,Phosphodiesterase,0.8422910548052542
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Prostaglandin E2 receptor EP2 subtype,PTGER2,P43116,Family A G protein-coupled receptor,0.8380026432714106
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Prostacyclin receptor,PTGIR,P43119,Family A G protein-coupled receptor,0.831093239412075
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Aldo-keto reductase family 1 member B10,AKR1B10,O60218,Oxidoreductase,0.8232501659267432
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Leukotriene B4 receptor 1,LTB4R,Q15722,Family A G protein-coupled receptor,0.7432606952552986
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Aldo-keto reductase family 1 member C3,AKR1C3,P42330,Oxidoreductase,0.7415048289545876
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Estrogen receptor beta,ESR2,Q92731,Nuclear receptor,0.7395112064056681
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Tissue factor,F3,P13726,Surface antigen,0.7249537081944893
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Coagulation factor X,F10,P00742,Protease,0.724129481321486
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Prostaglandin E2 receptor EP4 subtype,PTGER4,P35408,Family A G protein-coupled receptor,0.7139384005154321
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Prostaglandin G/H synthase 1,PTGS1,P23219,Oxidoreductase,0.711702360082649
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Cocaine esterase,CES2,O00748,Hydrolase,0.711450717791145
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Prostaglandin E2 receptor EP3 subtype,PTGER3,P43115,Family A G protein-coupled receptor,0.7036090297279284
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Prostaglandin E2 receptor EP1 subtype,PTGER1,P34995,Family A G protein-coupled receptor,0.7036090297279284
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Prostaglandin D2 receptor,PTGDR,Q13258,Family A G protein-coupled receptor,0.6989495504682406
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Prostaglandin F2-alpha receptor,PTGFR,P43088,Family A G protein-coupled receptor,0.6989495504682406
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Prostaglandin E synthase,PTGES,O14684,Isomerase,0.6512823025555906
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Serine palmitoyltransferase 1,SPTLC1,O15269,Transferase,0.6278721172206979
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Prostaglandin G/H synthase 2,PTGS2,P35354,Oxidoreductase,0.6266321644349906
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Nuclear receptor subfamily 4 group A member 2,NR4A2,P43354,Nuclear receptor,0.6209784806337529
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,AMPK alpha2/beta1/gamma1,,P54646&P54619&Q9Y478,Kinase,0.6095704094416551
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Pancreatic triacylglycerol lipase,PNLIP,P16233,Hydrolase,0.6084744231009094
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Glucose-6-phosphate 1-dehydrogenase,G6PD,P11413,Oxidoreductase,0.6044930953754809
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,CD81 antigen,CD81,P60033,Surface antigen,0.584866690792919
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Replication protein A 70 kDa DNA-binding subunit,RPA1,P27694,Unclassified protein,0.5389020908521095
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,"Indoleamine 2,3-dioxygenase 1",IDO1,P14902,Oxidoreductase,0.516833953122532
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Protein farnesyltransferase,,P49354&P49356,Transferase,0.5144351728815406
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,3-hydroxy-3-methylglutaryl-coenzyme A reductase,HMGCR,P04035,Oxidoreductase,0.5000012094896054
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,M-phase inducer phosphatase 2,CDC25B,P30305,Phosphatase,0.4731918545772061
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Glucocorticoid receptor,NR3C1,P04150,Nuclear receptor,0.4723611421192171
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,"Steroid 17-alpha-hydroxylase/17,20 lyase",CYP17A1,P05093,Cytochrome P450,0.469468230031903
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Corticosteroid-binding globulin,SERPINA6,P08185,Secreted protein,0.4574108316915878
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Induced myeloid leukemia cell differentiation protein Mcl-1,MCL1,Q07820,Other cytosolic protein,0.4272016898587827
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Integrin alpha-V/beta-3,,P05106&P06756,Membrane receptor,0.4213467848239379
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Apoptosis regulator Bcl-2,BCL2,P10415,Other ion channel,0.419058024944256
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,11-beta-hydroxysteroid dehydrogenase type 2,HSD11B2,P80365,Oxidoreductase,0.4114547818249116
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Bcl-2-like protein 1,BCL2L1,Q07817,Other ion channel,0.4109582223100942
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Mineralocorticoid receptor,NR3C2,P08235,Nuclear receptor,0.403399891740084
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Serine palmitoyltransferase 2,SPTLC2,O15270,Transferase,0.3973173287429831
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Nuclear receptor ROR-gamma,RORC,P51449,Nuclear receptor,0.3865530293034767
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Androgen receptor,AR,P10275,Nuclear receptor,0.3764888741316169
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Sex hormone-binding globulin,SHBG,P04278,Secreted protein,0.3725966544048313
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Progesterone receptor,PGR,P06401,Nuclear receptor,0.366277571091371
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,M-phase inducer phosphatase 1,CDC25A,P30304,Phosphatase,0.3648153962104997
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Polyunsaturated fatty acid 5-lipoxygenase,ALOX5,P09917,Oxidoreductase,0.3585682711815807
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,3-oxo-5-alpha-steroid 4-dehydrogenase 2,SRD5A2,P31213,Oxidoreductase,0.3475322238183336
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Estrogen receptor,ESR1,P03372,Nuclear receptor,0.344624908299468
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,"Nitric oxide synthase, inducible",NOS2,P35228,Enzyme,0.3417451718677847
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,DNA topoisomerase 1,TOP1,P11387,Isomerase,0.3131206317622836
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,GABA-A receptor; alpha-1/beta-2/gamma-2,,P14867&P47870&P18507,Ligand-gated ion channel,0.2875131938735554
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Coagulation factor XIII A chain,F13A1,P00488,Aminoacyltransferase,0.2810093442571603
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,HSP60/HSP10,,P10809&P61604,Unclassified protein,0.2609217872329679
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Sigma non-opioid intracellular receptor 1,SIGMAR1,Q99720,Membrane receptor,0.2559540703632786
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Sodium-dependent dopamine transporter,SLC6A3,Q01959,Electrochemical transporter,0.2489374365929909
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Mitogen-activated protein kinase 3,MAPK3,P27361,Kinase,0.2427518253029744
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Adenosine receptor A3,ADORA3,P0DMS8,Family A G protein-coupled receptor,0.2427518253029744
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Neuronal acetylcholine receptor subunit alpha-7,CHRNA7,P36544,Ligand-gated ion channel,0.2306970368221021
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,NPC1-like intracellular cholesterol transporter 1,NPC1L1,Q9UHC9,Other membrane protein,0.2294190402928138
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Prothrombin,F2,P00734,Protease,0.2243803610698131
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Nuclear receptor ROR-alpha,RORA,P35398,Nuclear receptor,0.2103514833266701
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Tumor necrosis factor,TNF,P01375,Secreted protein,0.1980698391105404
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Beta-secretase 1,BACE1,P56817,Protease,0.1906943183286538
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,N-formyl peptide receptor 2,FPR2,P25090,Family A G protein-coupled receptor,0.1873313759285762
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Vitamin D3 receptor,VDR,P11473,Nuclear receptor,0.178196891408676
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Disintegrin and metalloproteinase domain-containing protein 17,ADAM17,P78536,Protease,0.1655864542409179
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Histone acetyltransferase p300,EP300,Q09472,Writer,0.1645472549930694
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Glutamate NMDA receptor; GRIN1/GRIN2B,,Q05586&Q13224,Ligand-gated ion channel,0.1616165472672622
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Retinoic acid receptor RXR-alpha,RXRA,P19793,Nuclear receptor,0.1607568211544794
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Cytochrome P450 2C19,CYP2C19,P33261,Cytochrome P450,0.159714336715431
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Transient receptor potential cation channel subfamily V member 1,TRPV1,Q8NER1,Voltage-gated ion channel,0.1573286472483866
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Liver carboxylesterase 1,CES1,P23141,Hydrolase,0.1528897054985137
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Cholinesterase,BCHE,P06276,Hydrolase,0.1450970725443301
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Transcription factor p65,RELA,Q04206,Transcription factor,0.1440699994372303
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,DNA polymerase alpha catalytic subunit,POLA1,P09884,Transferase,0.1363195525863746
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,G-protein coupled bile acid receptor 1,GPBAR1,Q8TDU6,Family A G protein-coupled receptor,0.1338351791103236
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,DNA topoisomerase 2-alpha,TOP2A,P11388,Isomerase,0.1184642041035899
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Thromboxane A2 receptor,TBXA2R,P21731,Family A G protein-coupled receptor,0.1153704251971467
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Cholesterol 24-hydroxylase,CYP46A1,Q9Y6A2,Oxidoreductase,0.1149591318889557
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Alpha-crystallin B chain,CRYAB,P02511,Unclassified protein,0.1144899617583792
+"12,13-DiHODE",16061067,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,Mitogen-activated protein kinase kinase kinase 5,MAP3K5,Q99683,Kinase,0.1129974743035915

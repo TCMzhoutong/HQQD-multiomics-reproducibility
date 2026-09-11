@@ -1,0 +1,5 @@
+﻿target,native_ligand,redocking_score,rmsd_A,pass_RMSD_lt_2A,note
+BCL2,BCL2_8HTS_native.sdf,-12.62,0.433341,True,RMSD recalculated with OpenBabel obrms against the first redocked pose.
+CASP1,CASP1_6PZP_native.sdf,-6.402,1.03289,True,RMSD recalculated with OpenBabel obrms against the first redocked pose.
+MAPK14,MAPK14_3HLL_native.sdf,-10.27,0.454364,True,RMSD recalculated with OpenBabel obrms against the first redocked pose.
+PTPRC,,,,,No small-molecule co-crystal ligand in 1YGU; pTyr peptide used only for grid definition.

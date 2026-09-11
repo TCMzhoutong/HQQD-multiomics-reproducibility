@@ -1,0 +1,4 @@
+id.exposure,id.outcome,exposure,outcome,snp_r2.exposure,snp_r2.outcome,correct_causal_direction,steiger_pval
+GCST90200293,J10_PNEUMOBACT,Thyroxine levels,Bacterial pneumoniae,0.0599615731160623,0.000163799530474602,TRUE,3.80287694753744e-101
+GCST90200399,J10_PNEUMOBACT,Isoleucine levels,Bacterial pneumoniae,0.0573384120472796,0.000124828880749831,TRUE,1.21137205499365e-97
+GCST90200422,J10_PNEUMOBACT,Serotonin levels,Bacterial pneumoniae,0.0715641442043796,0.000156456133514741,TRUE,9.65746058398283e-112

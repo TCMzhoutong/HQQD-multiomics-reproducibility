@@ -1,0 +1,15 @@
+id.exposure,id.outcome,exposure,outcome,b,se,pval,method
+053Uc4,J10_PNEUMOBACTEROTH,thyroxine,"Bacterial pneumonia, not elsewhere classified",-0.0267865596127717,0.0459183673469388,0.355175772248859,Contamination mixture
+C100003101,J10_PNEUMOBACTEROTH,METSIM_C100003101_alpha_CEHC_glucuronide,"Bacterial pneumonia, not elsewhere classified",-0.0153646153846154,0.0255102040816327,0.457513863944453,Contamination mixture
+C1094,J10_PNEUMOBACTEROTH,METSIM_C1094_thyroxine,"Bacterial pneumonia, not elsewhere classified",0.0940908,0.114795918367347,0.130679135079661,Contamination mixture
+C2029,J10_PNEUMOBACTEROTH,METSIM_C2029_azelate_C9_DC,"Bacterial pneumonia, not elsewhere classified",-0.0391084615384614,0.112244897959184,0.553467136920165,Contamination mixture
+C376,J10_PNEUMOBACTEROTH,METSIM_C376_isoleucine,"Bacterial pneumonia, not elsewhere classified",0.020846111111111,0.0535714285714286,0.634226885474576,Contamination mixture
+C504,J10_PNEUMOBACTEROTH,METSIM_C504_serotonin,"Bacterial pneumonia, not elsewhere classified",-0.05187,0.0586734693877551,0.427321082443767,Contamination mixture
+GCST90200293,J10_PNEUMOBACTEROTH,Thyroxine levels,"Bacterial pneumonia, not elsewhere classified",-0.082866677298701,0.0535714285714286,0.114920583999525,Contamination mixture
+GCST90200399,J10_PNEUMOBACTEROTH,Isoleucine levels,"Bacterial pneumonia, not elsewhere classified",0.0164970838606043,0.0280612244897959,0.583412371291788,Contamination mixture
+GCST90200422,J10_PNEUMOBACTEROTH,Serotonin levels,"Bacterial pneumonia, not elsewhere classified",0.0024531822900925,0.076530612244898,0.909782869117939,Contamination mixture
+GCST90243423,J10_PNEUMOBACTEROTH,Isoleucine levels,"Bacterial pneumonia, not elsewhere classified",0.83255421686747,0.571428571428572,0.116256980863879,Contamination mixture
+GCST90243460,J10_PNEUMOBACTEROTH,Serotonin 5HT levels,"Bacterial pneumonia, not elsewhere classified",0.119226027397261,0.153061224489796,0.478673424104748,Contamination mixture
+GCST90243460,J10_PNEUMOBACTEROTH,Serotonin 5HT levels,"Bacterial pneumonia, not elsewhere classified",0.119226027397261,0.306122448979592,0.478673424104748,Contamination mixture
+o9MEwk,J10_PNEUMOBACTEROTH,isoleucine,"Bacterial pneumonia, not elsewhere classified",-0.0142915793542186,0.0331632653061225,0.43701279894173,Contamination mixture
+Qg2eCT,J10_PNEUMOBACTEROTH,serotonin,"Bacterial pneumonia, not elsewhere classified",0.0473867772889728,0.0612244897959184,0.219121768483483,Contamination mixture

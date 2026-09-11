@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+GCST90032396,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes A abundance in stool,MR Egger,14.0989464947544,16,0.591342612202422
+GCST90032396,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes A abundance in stool,Inverse variance weighted,14.1280884400845,17,0.658015196292177
+GCST90032398,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes I abundance in stool,MR Egger,9.39292246452366,21,0.985770184561507
+GCST90032398,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes I abundance in stool,Inverse variance weighted,9.89087653877394,22,0.987267392007538

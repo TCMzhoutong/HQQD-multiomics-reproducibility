@@ -1,0 +1,2 @@
+id.exposure,id.outcome,exposure,outcome,b,se,pval,PRESSO_pval,method
+C504,J10_PNEUMOBACT,METSIM_C504_serotonin,Bacterial pneumoniae,0.0416773337356182,0.0205913071004415,0.0580694118294547,0.868,MR-PRESSO (Outlier-corrected)

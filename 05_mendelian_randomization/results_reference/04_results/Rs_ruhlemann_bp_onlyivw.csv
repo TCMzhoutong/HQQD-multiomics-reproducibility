@@ -1,0 +1,7 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,fdr
+GCST90011328,J10_PNEUMOBACT,Bacterial pneumoniae,G_Clostridium_XlVa abundance,Inverse variance weighted (multiplicative random effects),6,-0.0301237122821689,0.0378101291833656,0.425619409403668,0.952369965601478
+GCST90011329,J10_PNEUMOBACT,Bacterial pneumoniae,G_Coprococcus abundance,Inverse variance weighted (multiplicative random effects),14,0.00154426977677222,0.0258537863215037,0.952369965601478,0.952369965601478
+GCST90011336,J10_PNEUMOBACT,Bacterial pneumoniae,G_Paraprevotella abundance,Inverse variance weighted (multiplicative random effects),13,-0.00374252763110597,0.0298675947298925,0.900282924271605,0.952369965601478
+GCST90011342,J10_PNEUMOBACT,Bacterial pneumoniae,G_Roseburia abundance,Inverse variance weighted (multiplicative random effects),10,0.0165777035063239,0.0461829387348766,0.719627024672692,0.952369965601478
+GCST90011346,J10_PNEUMOBACT,Bacterial pneumoniae,G_Subdoligranulum abundance,Inverse variance weighted (multiplicative random effects),7,0.05142381826123,0.0731480950060888,0.482049722093928,0.952369965601478
+GCST90011483,J10_PNEUMOBACT,Bacterial pneumoniae,P_Firmicutes abundance,Inverse variance weighted (multiplicative random effects),8,0.0448531271105789,0.0386117551450493,0.245379960300476,0.952369965601478

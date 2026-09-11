@@ -1,0 +1,285 @@
+﻿source	interaction	target
+HQQD	connects	5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone
+HQQD	connects	Biochanin A
+HQQD	connects	Formononetin
+HQQD	connects	Tangeritin
+HQQD	connects	3,5-Dimethoxybenzoic acid
+HQQD	connects	Methoxsalen
+HQQD	connects	Berberine
+HQQD	connects	Vanillin
+HQQD	connects	Scoparone
+HQQD	connects	Glycitein
+HQQD	connects	Hesperetin
+HQQD	connects	Nobiletin
+HQQD	connects	7,8-dimethoxy-11-methyl-17,19-dioxa-11-azatetracyclo[12.7.0.04,9.016,20]henicosa-1(21),4(9),5,7,14,16(20)-hexaen-2-one
+HQQD	connects	2-Amino-1,3,4-octadecanetriol
+HQQD	connects	2,4,6-Trihydroxyacetophenone
+HQQD	connects	Oxymatrine
+HQQD	connects	D-(+)-Proline
+HQQD	connects	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one
+HQQD	connects	4',7-Dihydroxyflavanone
+HQQD	connects	D-(+)-Tryptophan
+HQQD	connects	L-Phenylalanine
+HQQD	connects	5,7-dihydroxy-2-phenyl-4H-chromen-4-one
+HQQD	connects	Psoralen
+HQQD	connects	L-Tyrosine
+HQQD	connects	Daidzein
+HQQD	connects	Apigenin
+HQQD	connects	Pelargonidin
+HQQD	connects	4-Hydroxybenzaldehyde
+HQQD	connects	Isoliquiritigenin
+HQQD	connects	4-Hydroxybenzoic acid
+HQQD	connects	Naringenin chalcone
+HQQD	connects	Pyrogallol
+HQQD	connects	5-Hydroxymethyl-2-furaldehyde
+HQQD	connects	Phloroglucinol
+HQQD	connects	Gallic acid
+HQQD	connects	Sinapine
+HQQD	connects	Azelaic acid
+5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone	connects	AKR1B1
+5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone	connects	PTGS2
+5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone	connects	BCHE
+5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone	connects	MMP9
+5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone	connects	APEX1
+5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone	connects	CA1
+5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone	connects	CA9
+5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone	connects	ADAM17
+5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone	connects	MMP8
+Biochanin A	connects	CA1
+Biochanin A	connects	CA9
+Formononetin	connects	CA1
+Formononetin	connects	CA9
+Tangeritin	connects	AKR1B1
+Tangeritin	connects	PTGS2
+Tangeritin	connects	F2
+Tangeritin	connects	MMP9
+Tangeritin	connects	APEX1
+Tangeritin	connects	CA1
+Tangeritin	connects	CA9
+Tangeritin	connects	AKT1
+3,5-Dimethoxybenzoic acid	connects	CA1
+3,5-Dimethoxybenzoic acid	connects	CA9
+3,5-Dimethoxybenzoic acid	connects	FYN
+3,5-Dimethoxybenzoic acid	connects	LCK
+3,5-Dimethoxybenzoic acid	connects	MMP8
+3,5-Dimethoxybenzoic acid	connects	AKR1B1
+Methoxsalen	connects	CA9
+Methoxsalen	connects	CA1
+Berberine	connects	BCHE
+Berberine	connects	LCK
+Berberine	connects	MAPK14
+Berberine	connects	PGR
+Berberine	connects	PTGS2
+Vanillin	connects	CA1
+Vanillin	connects	CA9
+Vanillin	connects	CDC25B
+Vanillin	connects	PTPRC
+Scoparone	connects	CA9
+Scoparone	connects	CA1
+Scoparone	connects	AKR1B1
+Scoparone	connects	PTGS2
+Scoparone	connects	CES1
+Scoparone	connects	PTPRC
+Scoparone	connects	MAPK14
+Scoparone	connects	CASP1
+Scoparone	connects	APEX1
+Glycitein	connects	CA1
+Glycitein	connects	AKR1B1
+Hesperetin	connects	CA1
+Hesperetin	connects	CES1
+Hesperetin	connects	AKR1B1
+Hesperetin	connects	CA9
+Hesperetin	connects	MMP9
+Hesperetin	connects	PPARG
+Hesperetin	connects	BCL2
+Nobiletin	connects	AKR1B1
+Nobiletin	connects	PTGS2
+7,8-dimethoxy-11-methyl-17,19-dioxa-11-azatetracyclo[12.7.0.04,9.016,20]henicosa-1(21),4(9),5,7,14,16(20)-hexaen-2-one	connects	PTGS2
+7,8-dimethoxy-11-methyl-17,19-dioxa-11-azatetracyclo[12.7.0.04,9.016,20]henicosa-1(21),4(9),5,7,14,16(20)-hexaen-2-one	connects	SIRT1
+7,8-dimethoxy-11-methyl-17,19-dioxa-11-azatetracyclo[12.7.0.04,9.016,20]henicosa-1(21),4(9),5,7,14,16(20)-hexaen-2-one	connects	PGR
+2-Amino-1,3,4-octadecanetriol	connects	FUCA1
+2-Amino-1,3,4-octadecanetriol	connects	GPBAR1
+2,4,6-Trihydroxyacetophenone	connects	CA1
+2,4,6-Trihydroxyacetophenone	connects	CA9
+Oxymatrine	connects	MMP8
+Oxymatrine	connects	BCHE
+Oxymatrine	connects	MMP9
+Oxymatrine	connects	ADAM17
+Oxymatrine	connects	EPHX2
+D-(+)-Proline	connects	ANPEP
+D-(+)-Proline	connects	F2
+2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one	connects	CES1
+2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one	connects	PPARG
+2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one	connects	CA1
+2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one	connects	CA9
+2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one	connects	BCL2
+2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one	connects	LCK
+2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one	connects	AKR1B1
+2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one	connects	MMP9
+2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one	connects	AKT1
+4',7-Dihydroxyflavanone	connects	CES1
+4',7-Dihydroxyflavanone	connects	PPARG
+4',7-Dihydroxyflavanone	connects	BCHE
+4',7-Dihydroxyflavanone	connects	CA1
+4',7-Dihydroxyflavanone	connects	AKR1B1
+4',7-Dihydroxyflavanone	connects	PTGER4
+4',7-Dihydroxyflavanone	connects	CA9
+4',7-Dihydroxyflavanone	connects	MMP9
+D-(+)-Tryptophan	connects	ANPEP
+D-(+)-Tryptophan	connects	MME
+D-(+)-Tryptophan	connects	MMP9
+L-Phenylalanine	connects	FYN
+L-Phenylalanine	connects	LCK
+L-Phenylalanine	connects	ANPEP
+5,7-dihydroxy-2-phenyl-4H-chromen-4-one	connects	AKR1B1
+5,7-dihydroxy-2-phenyl-4H-chromen-4-one	connects	CA1
+5,7-dihydroxy-2-phenyl-4H-chromen-4-one	connects	CA9
+5,7-dihydroxy-2-phenyl-4H-chromen-4-one	connects	PTGS2
+5,7-dihydroxy-2-phenyl-4H-chromen-4-one	connects	LCK
+5,7-dihydroxy-2-phenyl-4H-chromen-4-one	connects	BCHE
+5,7-dihydroxy-2-phenyl-4H-chromen-4-one	connects	MMP9
+5,7-dihydroxy-2-phenyl-4H-chromen-4-one	connects	APEX1
+5,7-dihydroxy-2-phenyl-4H-chromen-4-one	connects	F2
+Psoralen	connects	CA1
+Psoralen	connects	CA9
+L-Tyrosine	connects	FYN
+L-Tyrosine	connects	LCK
+L-Tyrosine	connects	APEX1
+Daidzein	connects	CA1
+Daidzein	connects	CA9
+Daidzein	connects	PPARG
+Apigenin	connects	AKR1B1
+Apigenin	connects	PTGS2
+Apigenin	connects	MMP9
+Apigenin	connects	CA1
+Apigenin	connects	CA9
+Apigenin	connects	LCK
+Apigenin	connects	BCHE
+Apigenin	connects	F2
+Apigenin	connects	AKT1
+Pelargonidin	connects	F2
+Pelargonidin	connects	AKR1B1
+Pelargonidin	connects	BCHE
+Pelargonidin	connects	CA1
+Pelargonidin	connects	MMP9
+Pelargonidin	connects	CA9
+Pelargonidin	connects	AKT1
+Pelargonidin	connects	APEX1
+Pelargonidin	connects	SIRT1
+4-Hydroxybenzaldehyde	connects	CA1
+4-Hydroxybenzaldehyde	connects	CA9
+Isoliquiritigenin	connects	AKR1B1
+Isoliquiritigenin	connects	PTGS2
+4-Hydroxybenzoic acid	connects	CA1
+4-Hydroxybenzoic acid	connects	CA9
+Naringenin chalcone	connects	AKR1B1
+Naringenin chalcone	connects	PTGS2
+Naringenin chalcone	connects	F2
+Naringenin chalcone	connects	AKT1
+Pyrogallol	connects	FYN
+Pyrogallol	connects	CA1
+Pyrogallol	connects	CA9
+5-Hydroxymethyl-2-furaldehyde	connects	FUCA1
+Phloroglucinol	connects	FYN
+Phloroglucinol	connects	CA1
+Phloroglucinol	connects	CA9
+Gallic acid	connects	CA1
+Gallic acid	connects	CA9
+Sinapine	connects	CA9
+Sinapine	connects	CA1
+Sinapine	connects	GSTP1
+Sinapine	connects	CTSD
+Sinapine	connects	CDC25B
+Azelaic acid	connects	GPBAR1
+Azelaic acid	connects	CA1
+Azelaic acid	connects	AKR1B1
+Azelaic acid	connects	PTPRC
+Metabolite	connects	Thyroxine
+Metabolite	connects	N-Oleoyl Alanine
+Metabolite	connects	8-Amino-7-oxononanoate
+Metabolite	connects	PE(P-18:0/18:1(12Z)-2OH(9,10))
+Metabolite	connects	12,13-DiHODE
+Thyroxine	connects	PPARG
+Thyroxine	connects	F2
+Thyroxine	connects	LCK
+Thyroxine	connects	FYN
+Thyroxine	connects	APEX1
+Thyroxine	connects	MMP8
+Thyroxine	connects	MME
+Thyroxine	connects	MMP9
+Thyroxine	connects	CA1
+Thyroxine	connects	CA9
+Thyroxine	connects	CASP1
+Thyroxine	connects	AKR1B1
+Thyroxine	connects	ADAM17
+N-Oleoyl Alanine	connects	EPHX2
+N-Oleoyl Alanine	connects	MME
+N-Oleoyl Alanine	connects	BCHE
+N-Oleoyl Alanine	connects	PTGER4
+N-Oleoyl Alanine	connects	CTSD
+N-Oleoyl Alanine	connects	SIRT1
+N-Oleoyl Alanine	connects	PTGS2
+N-Oleoyl Alanine	connects	CES1
+N-Oleoyl Alanine	connects	F2
+N-Oleoyl Alanine	connects	PPARG
+8-Amino-7-oxononanoate	connects	ANPEP
+8-Amino-7-oxononanoate	connects	PPARG
+8-Amino-7-oxononanoate	connects	AKR1B1
+8-Amino-7-oxononanoate	connects	F2
+8-Amino-7-oxononanoate	connects	CDC25B
+8-Amino-7-oxononanoate	connects	CA1
+8-Amino-7-oxononanoate	connects	PTPRC
+8-Amino-7-oxononanoate	connects	EPHX2
+8-Amino-7-oxononanoate	connects	GPBAR1
+8-Amino-7-oxononanoate	connects	PGR
+8-Amino-7-oxononanoate	connects	FUCA1
+8-Amino-7-oxononanoate	connects	MME
+PE(P-18:0/18:1(12Z)-2OH(9,10))	connects	AKT1
+PE(P-18:0/18:1(12Z)-2OH(9,10))	connects	MAPK14
+PE(P-18:0/18:1(12Z)-2OH(9,10))	connects	PTGS2
+PE(P-18:0/18:1(12Z)-2OH(9,10))	connects	SIRT1
+PE(P-18:0/18:1(12Z)-2OH(9,10))	connects	EPHX2
+PE(P-18:0/18:1(12Z)-2OH(9,10))	connects	AKR1B1
+PE(P-18:0/18:1(12Z)-2OH(9,10))	connects	GSTP1
+PE(P-18:0/18:1(12Z)-2OH(9,10))	connects	CES1
+12,13-DiHODE	connects	PPARG
+12,13-DiHODE	connects	PTGER4
+12,13-DiHODE	connects	PTGS2
+12,13-DiHODE	connects	CDC25B
+12,13-DiHODE	connects	BCL2
+12,13-DiHODE	connects	PGR
+12,13-DiHODE	connects	F2
+12,13-DiHODE	connects	ADAM17
+12,13-DiHODE	connects	CES1
+12,13-DiHODE	connects	BCHE
+12,13-DiHODE	connects	GPBAR1
+Bacterial pneumonia	connects	ADAM17
+Bacterial pneumonia	connects	AKR1B1
+Bacterial pneumonia	connects	AKT1
+Bacterial pneumonia	connects	ANPEP
+Bacterial pneumonia	connects	APEX1
+Bacterial pneumonia	connects	BCHE
+Bacterial pneumonia	connects	BCL2
+Bacterial pneumonia	connects	CA1
+Bacterial pneumonia	connects	CA9
+Bacterial pneumonia	connects	CASP1
+Bacterial pneumonia	connects	CDC25B
+Bacterial pneumonia	connects	CES1
+Bacterial pneumonia	connects	CTSD
+Bacterial pneumonia	connects	EPHX2
+Bacterial pneumonia	connects	F2
+Bacterial pneumonia	connects	FUCA1
+Bacterial pneumonia	connects	FYN
+Bacterial pneumonia	connects	GPBAR1
+Bacterial pneumonia	connects	GSTP1
+Bacterial pneumonia	connects	LCK
+Bacterial pneumonia	connects	MAPK14
+Bacterial pneumonia	connects	MME
+Bacterial pneumonia	connects	MMP8
+Bacterial pneumonia	connects	MMP9
+Bacterial pneumonia	connects	PGR
+Bacterial pneumonia	connects	PPARG
+Bacterial pneumonia	connects	PTGER4
+Bacterial pneumonia	connects	PTGS2
+Bacterial pneumonia	connects	PTPRC
+Bacterial pneumonia	connects	SIRT1

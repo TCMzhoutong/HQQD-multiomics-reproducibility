@@ -1,0 +1,1277 @@
+"SampleID","Group","Batch","Cell_Type","Proportion"
+"GSM983407","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983407","Bacterial_Pneumonia","GSE40012","B cells memory",0.065104565059504
+"GSM983407","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983407","Bacterial_Pneumonia","GSE40012","T cells CD8",0
+"GSM983407","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.0951243552624829
+"GSM983407","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0
+"GSM983407","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0.00425771562706422
+"GSM983407","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983407","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.00945087215530203
+"GSM983407","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.022108994554132
+"GSM983407","Bacterial_Pneumonia","GSE40012","NK cells resting",0.00989901187943308
+"GSM983407","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983407","Bacterial_Pneumonia","GSE40012","Monocytes",0.317691032185519
+"GSM983407","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0394790596678868
+"GSM983407","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983407","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983407","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983407","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.00722062294015111
+"GSM983407","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.0306618261937983
+"GSM983407","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983407","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983407","Bacterial_Pneumonia","GSE40012","Neutrophils",0.399001944474727
+"GSM983416","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","B cells memory",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","T cells CD8",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.0754979783664684
+"GSM983416","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.00996538112754503
+"GSM983416","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0196152017199461
+"GSM983416","Bacterial_Pneumonia","GSE40012","NK cells resting",0.0325731527323197
+"GSM983416","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","Monocytes",0.419544219200296
+"GSM983416","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.00537327390875341
+"GSM983416","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","Macrophages M2",0.0120479487042778
+"GSM983416","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.0247345176519784
+"GSM983416","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983416","Bacterial_Pneumonia","GSE40012","Neutrophils",0.400648326588415
+"GSM983423","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983423","Bacterial_Pneumonia","GSE40012","B cells memory",0.0629712175114912
+"GSM983423","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983423","Bacterial_Pneumonia","GSE40012","T cells CD8",0
+"GSM983423","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.0776409426033578
+"GSM983423","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0
+"GSM983423","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0.00475126575041463
+"GSM983423","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983423","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.00478434489773297
+"GSM983423","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0198553203892427
+"GSM983423","Bacterial_Pneumonia","GSE40012","NK cells resting",0.0574314285498039
+"GSM983423","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983423","Bacterial_Pneumonia","GSE40012","Monocytes",0.430276028191862
+"GSM983423","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0286155858322888
+"GSM983423","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983423","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983423","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983423","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.00688884799430105
+"GSM983423","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.00740998414564995
+"GSM983423","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983423","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983423","Bacterial_Pneumonia","GSE40012","Neutrophils",0.299375034133855
+"GSM983428","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","B cells memory",0.0710973435840584
+"GSM983428","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","T cells CD8",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.0855573287017453
+"GSM983428","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0.0151961882151354
+"GSM983428","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.00656291960932378
+"GSM983428","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0379211891708635
+"GSM983428","Bacterial_Pneumonia","GSE40012","NK cells resting",0.0439030827274811
+"GSM983428","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","Monocytes",0.363719351988201
+"GSM983428","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0232137243119967
+"GSM983428","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.0101582949539474
+"GSM983428","Bacterial_Pneumonia","GSE40012","Mast cells resting",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983428","Bacterial_Pneumonia","GSE40012","Neutrophils",0.342670576737247
+"GSM983439","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983439","Bacterial_Pneumonia","GSE40012","B cells memory",0.0510257500669873
+"GSM983439","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983439","Bacterial_Pneumonia","GSE40012","T cells CD8",0
+"GSM983439","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.0549083049619246
+"GSM983439","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0
+"GSM983439","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0.00682175772299743
+"GSM983439","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983439","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.0132040462346955
+"GSM983439","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0211991301480973
+"GSM983439","Bacterial_Pneumonia","GSE40012","NK cells resting",0.0111585528416739
+"GSM983439","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983439","Bacterial_Pneumonia","GSE40012","Monocytes",0.471761901658725
+"GSM983439","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.033287110773684
+"GSM983439","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983439","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983439","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983439","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.011756745038483
+"GSM983439","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.0414835924109655
+"GSM983439","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983439","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983439","Bacterial_Pneumonia","GSE40012","Neutrophils",0.283393108141766
+"GSM983456","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983456","Bacterial_Pneumonia","GSE40012","B cells memory",0.0656955067206628
+"GSM983456","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983456","Bacterial_Pneumonia","GSE40012","T cells CD8",0
+"GSM983456","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.060127692124631
+"GSM983456","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0
+"GSM983456","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0.0103310960120635
+"GSM983456","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983456","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.0139293672074658
+"GSM983456","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0233404834257984
+"GSM983456","Bacterial_Pneumonia","GSE40012","NK cells resting",0.0661490058280316
+"GSM983456","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983456","Bacterial_Pneumonia","GSE40012","Monocytes",0.42032358617482
+"GSM983456","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0099040729424507
+"GSM983456","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983456","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983456","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983456","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.0110226760264059
+"GSM983456","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.00651321246406951
+"GSM983456","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983456","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983456","Bacterial_Pneumonia","GSE40012","Neutrophils",0.3126633010736
+"GSM983510","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983510","Bacterial_Pneumonia","GSE40012","B cells memory",0.0712773152298413
+"GSM983510","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983510","Bacterial_Pneumonia","GSE40012","T cells CD8",0.0487555320268362
+"GSM983510","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.036421575573362
+"GSM983510","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0.0412567772353359
+"GSM983510","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0
+"GSM983510","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983510","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.0149994231520432
+"GSM983510","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0113229698884955
+"GSM983510","Bacterial_Pneumonia","GSE40012","NK cells resting",0.032403599128714
+"GSM983510","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983510","Bacterial_Pneumonia","GSE40012","Monocytes",0.25560482002063
+"GSM983510","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0408504917625286
+"GSM983510","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983510","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983510","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983510","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.00795154362587733
+"GSM983510","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.0181806372557865
+"GSM983510","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983510","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983510","Bacterial_Pneumonia","GSE40012","Neutrophils",0.420975315100549
+"GSM983514","Bacterial_Pneumonia","GSE40012","B cells naive",0.00666415914060264
+"GSM983514","Bacterial_Pneumonia","GSE40012","B cells memory",0
+"GSM983514","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983514","Bacterial_Pneumonia","GSE40012","T cells CD8",0.00670230895886265
+"GSM983514","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.0732450247227864
+"GSM983514","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0
+"GSM983514","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0
+"GSM983514","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983514","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.00574536558224267
+"GSM983514","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0149328262467573
+"GSM983514","Bacterial_Pneumonia","GSE40012","NK cells resting",0.00419006476367175
+"GSM983514","Bacterial_Pneumonia","GSE40012","NK cells activated",0.00708507865998003
+"GSM983514","Bacterial_Pneumonia","GSE40012","Monocytes",0.430126730297539
+"GSM983514","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0607783590316918
+"GSM983514","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983514","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983514","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983514","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.00906362611504267
+"GSM983514","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.0385132300115233
+"GSM983514","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983514","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983514","Bacterial_Pneumonia","GSE40012","Neutrophils",0.3429532264693
+"GSM983515","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983515","Bacterial_Pneumonia","GSE40012","B cells memory",0.0789323992182037
+"GSM983515","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983515","Bacterial_Pneumonia","GSE40012","T cells CD8",0
+"GSM983515","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.0496797012305216
+"GSM983515","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0.0120833532057215
+"GSM983515","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0.00329936286174391
+"GSM983515","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983515","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.00754282867817262
+"GSM983515","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0260213618059485
+"GSM983515","Bacterial_Pneumonia","GSE40012","NK cells resting",0.0667316687748071
+"GSM983515","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983515","Bacterial_Pneumonia","GSE40012","Monocytes",0.24321734146493
+"GSM983515","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0216915234150897
+"GSM983515","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983515","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983515","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983515","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.00878520893908906
+"GSM983515","Bacterial_Pneumonia","GSE40012","Mast cells resting",0
+"GSM983515","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983515","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983515","Bacterial_Pneumonia","GSE40012","Neutrophils",0.482015250405772
+"GSM983539","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983539","Bacterial_Pneumonia","GSE40012","B cells memory",0.0759706485340323
+"GSM983539","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983539","Bacterial_Pneumonia","GSE40012","T cells CD8",0.0433148228202269
+"GSM983539","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.0805583695211989
+"GSM983539","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0.0590916887514581
+"GSM983539","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0.0211843955825692
+"GSM983539","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983539","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.0171369189534929
+"GSM983539","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0
+"GSM983539","Bacterial_Pneumonia","GSE40012","NK cells resting",0.0748414898398271
+"GSM983539","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983539","Bacterial_Pneumonia","GSE40012","Monocytes",0.317407388211866
+"GSM983539","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0366873382986365
+"GSM983539","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983539","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983539","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983539","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.010781131657812
+"GSM983539","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.0160387176536407
+"GSM983539","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983539","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983539","Bacterial_Pneumonia","GSE40012","Neutrophils",0.246987090175239
+"GSM983551","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","B cells memory",0.046363481477764
+"GSM983551","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","T cells CD8",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.107181308062831
+"GSM983551","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.0112611528501998
+"GSM983551","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0587311375472019
+"GSM983551","Bacterial_Pneumonia","GSE40012","NK cells resting",0.0097737250721429
+"GSM983551","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","Monocytes",0.265570027692016
+"GSM983551","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.067414219633064
+"GSM983551","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.00715000008108024
+"GSM983551","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.0213101099144814
+"GSM983551","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983551","Bacterial_Pneumonia","GSE40012","Neutrophils",0.405244837669218
+"GSM983555","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983555","Bacterial_Pneumonia","GSE40012","B cells memory",0.0469305372156266
+"GSM983555","Bacterial_Pneumonia","GSE40012","Plasma cells",0.0210308535906683
+"GSM983555","Bacterial_Pneumonia","GSE40012","T cells CD8",0.0742336076831387
+"GSM983555","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.0612459896275826
+"GSM983555","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0
+"GSM983555","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0.00225325458867122
+"GSM983555","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983555","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.0164648373556902
+"GSM983555","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0
+"GSM983555","Bacterial_Pneumonia","GSE40012","NK cells resting",0.135697712043027
+"GSM983555","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983555","Bacterial_Pneumonia","GSE40012","Monocytes",0.252307084664368
+"GSM983555","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0640930084918057
+"GSM983555","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983555","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983555","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983555","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0
+"GSM983555","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.0075166196525552
+"GSM983555","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983555","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983555","Bacterial_Pneumonia","GSE40012","Neutrophils",0.318226495086866
+"GSM983557","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983557","Bacterial_Pneumonia","GSE40012","B cells memory",0.00906340474953093
+"GSM983557","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983557","Bacterial_Pneumonia","GSE40012","T cells CD8",0
+"GSM983557","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.115731254911214
+"GSM983557","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0.0433214290536286
+"GSM983557","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0.0176809649189269
+"GSM983557","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983557","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0
+"GSM983557","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0273152767316865
+"GSM983557","Bacterial_Pneumonia","GSE40012","NK cells resting",0.102800386921117
+"GSM983557","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983557","Bacterial_Pneumonia","GSE40012","Monocytes",0.253726987143209
+"GSM983557","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0262664591580913
+"GSM983557","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983557","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983557","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983557","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.00975230682303066
+"GSM983557","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.000450493806471435
+"GSM983557","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983557","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983557","Bacterial_Pneumonia","GSE40012","Neutrophils",0.393891035783094
+"GSM983577","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983577","Bacterial_Pneumonia","GSE40012","B cells memory",0.0720058411190091
+"GSM983577","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983577","Bacterial_Pneumonia","GSE40012","T cells CD8",0.141636746162272
+"GSM983577","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.0915494299452213
+"GSM983577","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0.108466913276022
+"GSM983577","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0.0264183373691296
+"GSM983577","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983577","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0
+"GSM983577","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0
+"GSM983577","Bacterial_Pneumonia","GSE40012","NK cells resting",0.206768513665159
+"GSM983577","Bacterial_Pneumonia","GSE40012","NK cells activated",0.0534651486797704
+"GSM983577","Bacterial_Pneumonia","GSE40012","Monocytes",0.218796136692153
+"GSM983577","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0212842043161096
+"GSM983577","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983577","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983577","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983577","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.00387496860148088
+"GSM983577","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.0219220055165647
+"GSM983577","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983577","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983577","Bacterial_Pneumonia","GSE40012","Neutrophils",0.033811754657108
+"GSM983578","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","B cells memory",0.080562798466704
+"GSM983578","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","T cells CD8",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.0579746040168444
+"GSM983578","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.0255872378458578
+"GSM983578","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0194972740403479
+"GSM983578","Bacterial_Pneumonia","GSE40012","NK cells resting",0.0166657970462003
+"GSM983578","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","Monocytes",0.347932427822638
+"GSM983578","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0130474239836529
+"GSM983578","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.0118286774023943
+"GSM983578","Bacterial_Pneumonia","GSE40012","Mast cells resting",0.0113649543081336
+"GSM983578","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983578","Bacterial_Pneumonia","GSE40012","Neutrophils",0.415538805067227
+"GSM983590","Bacterial_Pneumonia","GSE40012","B cells naive",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","B cells memory",0.0509575091302715
+"GSM983590","Bacterial_Pneumonia","GSE40012","Plasma cells",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","T cells CD8",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","T cells CD4 naive",0.137952086542718
+"GSM983590","Bacterial_Pneumonia","GSE40012","T cells CD4 memory resting",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","T cells CD4 memory activated",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","T cells follicular helper",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","T cells regulatory (Tregs)",0.0524150392699614
+"GSM983590","Bacterial_Pneumonia","GSE40012","T cells gamma delta",0.0276431023938917
+"GSM983590","Bacterial_Pneumonia","GSE40012","NK cells resting",0.0540459915853031
+"GSM983590","Bacterial_Pneumonia","GSE40012","NK cells activated",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","Monocytes",0.416903862899044
+"GSM983590","Bacterial_Pneumonia","GSE40012","Macrophages M0",0.0299180611668829
+"GSM983590","Bacterial_Pneumonia","GSE40012","Macrophages M1",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","Macrophages M2",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","Dendritic cells resting",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","Dendritic cells activated",0.0105657008266229
+"GSM983590","Bacterial_Pneumonia","GSE40012","Mast cells resting",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","Mast cells activated",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","Eosinophils",0
+"GSM983590","Bacterial_Pneumonia","GSE40012","Neutrophils",0.219598646185305
+"GSM983459","Control","GSE40012","B cells naive",0
+"GSM983459","Control","GSE40012","B cells memory",0.0173315616407867
+"GSM983459","Control","GSE40012","Plasma cells",0
+"GSM983459","Control","GSE40012","T cells CD8",0.170249479511621
+"GSM983459","Control","GSE40012","T cells CD4 naive",0.148742470421952
+"GSM983459","Control","GSE40012","T cells CD4 memory resting",0.0433495249143502
+"GSM983459","Control","GSE40012","T cells CD4 memory activated",0.0062666948924186
+"GSM983459","Control","GSE40012","T cells follicular helper",0
+"GSM983459","Control","GSE40012","T cells regulatory (Tregs)",0.0351025667187977
+"GSM983459","Control","GSE40012","T cells gamma delta",0
+"GSM983459","Control","GSE40012","NK cells resting",0.139277337004461
+"GSM983459","Control","GSE40012","NK cells activated",0.00423830469295678
+"GSM983459","Control","GSE40012","Monocytes",0.144728438908711
+"GSM983459","Control","GSE40012","Macrophages M0",0
+"GSM983459","Control","GSE40012","Macrophages M1",0
+"GSM983459","Control","GSE40012","Macrophages M2",0
+"GSM983459","Control","GSE40012","Dendritic cells resting",0
+"GSM983459","Control","GSE40012","Dendritic cells activated",0
+"GSM983459","Control","GSE40012","Mast cells resting",0.0193717044438681
+"GSM983459","Control","GSE40012","Mast cells activated",0
+"GSM983459","Control","GSE40012","Eosinophils",0
+"GSM983459","Control","GSE40012","Neutrophils",0.271341916850076
+"GSM983461","Control","GSE40012","B cells naive",0
+"GSM983461","Control","GSE40012","B cells memory",0.0269468103313806
+"GSM983461","Control","GSE40012","Plasma cells",0
+"GSM983461","Control","GSE40012","T cells CD8",0.143221547780107
+"GSM983461","Control","GSE40012","T cells CD4 naive",0.14578096115554
+"GSM983461","Control","GSE40012","T cells CD4 memory resting",0.0842454878912492
+"GSM983461","Control","GSE40012","T cells CD4 memory activated",0.00733309853251907
+"GSM983461","Control","GSE40012","T cells follicular helper",0
+"GSM983461","Control","GSE40012","T cells regulatory (Tregs)",0.0232081506198816
+"GSM983461","Control","GSE40012","T cells gamma delta",0
+"GSM983461","Control","GSE40012","NK cells resting",0.13615995146131
+"GSM983461","Control","GSE40012","NK cells activated",0
+"GSM983461","Control","GSE40012","Monocytes",0.142829514195439
+"GSM983461","Control","GSE40012","Macrophages M0",0
+"GSM983461","Control","GSE40012","Macrophages M1",0
+"GSM983461","Control","GSE40012","Macrophages M2",0
+"GSM983461","Control","GSE40012","Dendritic cells resting",0
+"GSM983461","Control","GSE40012","Dendritic cells activated",0.000571803372144975
+"GSM983461","Control","GSE40012","Mast cells resting",0.00608704429618422
+"GSM983461","Control","GSE40012","Mast cells activated",0
+"GSM983461","Control","GSE40012","Eosinophils",0
+"GSM983461","Control","GSE40012","Neutrophils",0.283615630364244
+"GSM983463","Control","GSE40012","B cells naive",0
+"GSM983463","Control","GSE40012","B cells memory",0.0275384820363861
+"GSM983463","Control","GSE40012","Plasma cells",0
+"GSM983463","Control","GSE40012","T cells CD8",0.287653059866279
+"GSM983463","Control","GSE40012","T cells CD4 naive",0
+"GSM983463","Control","GSE40012","T cells CD4 memory resting",0
+"GSM983463","Control","GSE40012","T cells CD4 memory activated",0.00942076147942224
+"GSM983463","Control","GSE40012","T cells follicular helper",0
+"GSM983463","Control","GSE40012","T cells regulatory (Tregs)",0.00186648410215966
+"GSM983463","Control","GSE40012","T cells gamma delta",0
+"GSM983463","Control","GSE40012","NK cells resting",0.212808814852192
+"GSM983463","Control","GSE40012","NK cells activated",0
+"GSM983463","Control","GSE40012","Monocytes",0.169241209656831
+"GSM983463","Control","GSE40012","Macrophages M0",0.0217987601179547
+"GSM983463","Control","GSE40012","Macrophages M1",0
+"GSM983463","Control","GSE40012","Macrophages M2",0
+"GSM983463","Control","GSE40012","Dendritic cells resting",0
+"GSM983463","Control","GSE40012","Dendritic cells activated",0
+"GSM983463","Control","GSE40012","Mast cells resting",0
+"GSM983463","Control","GSE40012","Mast cells activated",0
+"GSM983463","Control","GSE40012","Eosinophils",0
+"GSM983463","Control","GSE40012","Neutrophils",0.269672427888775
+"GSM983465","Control","GSE40012","B cells naive",0
+"GSM983465","Control","GSE40012","B cells memory",0.021473170187024
+"GSM983465","Control","GSE40012","Plasma cells",0
+"GSM983465","Control","GSE40012","T cells CD8",0.120319390298767
+"GSM983465","Control","GSE40012","T cells CD4 naive",0.0475999081999033
+"GSM983465","Control","GSE40012","T cells CD4 memory resting",0.123334761312992
+"GSM983465","Control","GSE40012","T cells CD4 memory activated",0.0128996856949752
+"GSM983465","Control","GSE40012","T cells follicular helper",0
+"GSM983465","Control","GSE40012","T cells regulatory (Tregs)",0.00149500978310498
+"GSM983465","Control","GSE40012","T cells gamma delta",0
+"GSM983465","Control","GSE40012","NK cells resting",0.163605518524169
+"GSM983465","Control","GSE40012","NK cells activated",0
+"GSM983465","Control","GSE40012","Monocytes",0.163154262961167
+"GSM983465","Control","GSE40012","Macrophages M0",0.0156267343689497
+"GSM983465","Control","GSE40012","Macrophages M1",0
+"GSM983465","Control","GSE40012","Macrophages M2",0
+"GSM983465","Control","GSE40012","Dendritic cells resting",0
+"GSM983465","Control","GSE40012","Dendritic cells activated",7.20177235061589e-05
+"GSM983465","Control","GSE40012","Mast cells resting",0.0101041920026461
+"GSM983465","Control","GSE40012","Mast cells activated",0
+"GSM983465","Control","GSE40012","Eosinophils",0
+"GSM983465","Control","GSE40012","Neutrophils",0.320315348942796
+"GSM983467","Control","GSE40012","B cells naive",0
+"GSM983467","Control","GSE40012","B cells memory",0.0318474913612658
+"GSM983467","Control","GSE40012","Plasma cells",0
+"GSM983467","Control","GSE40012","T cells CD8",0.0580665719317093
+"GSM983467","Control","GSE40012","T cells CD4 naive",0.0537540915083095
+"GSM983467","Control","GSE40012","T cells CD4 memory resting",0.151950155830966
+"GSM983467","Control","GSE40012","T cells CD4 memory activated",0.0150424119452816
+"GSM983467","Control","GSE40012","T cells follicular helper",0
+"GSM983467","Control","GSE40012","T cells regulatory (Tregs)",0.00635611742534975
+"GSM983467","Control","GSE40012","T cells gamma delta",0
+"GSM983467","Control","GSE40012","NK cells resting",0.0978261381196752
+"GSM983467","Control","GSE40012","NK cells activated",0
+"GSM983467","Control","GSE40012","Monocytes",0.234076737159144
+"GSM983467","Control","GSE40012","Macrophages M0",0.0255378345268237
+"GSM983467","Control","GSE40012","Macrophages M1",0
+"GSM983467","Control","GSE40012","Macrophages M2",0
+"GSM983467","Control","GSE40012","Dendritic cells resting",0
+"GSM983467","Control","GSE40012","Dendritic cells activated",0.00176912228440614
+"GSM983467","Control","GSE40012","Mast cells resting",0.0185995481263812
+"GSM983467","Control","GSE40012","Mast cells activated",0
+"GSM983467","Control","GSE40012","Eosinophils",0
+"GSM983467","Control","GSE40012","Neutrophils",0.305173779780688
+"GSM983469","Control","GSE40012","B cells naive",0
+"GSM983469","Control","GSE40012","B cells memory",0.0390342005301292
+"GSM983469","Control","GSE40012","Plasma cells",0
+"GSM983469","Control","GSE40012","T cells CD8",0.177197626729255
+"GSM983469","Control","GSE40012","T cells CD4 naive",0.0277770719181234
+"GSM983469","Control","GSE40012","T cells CD4 memory resting",0.0714586695601126
+"GSM983469","Control","GSE40012","T cells CD4 memory activated",0.00772380724786493
+"GSM983469","Control","GSE40012","T cells follicular helper",0
+"GSM983469","Control","GSE40012","T cells regulatory (Tregs)",0.0232379119730019
+"GSM983469","Control","GSE40012","T cells gamma delta",0
+"GSM983469","Control","GSE40012","NK cells resting",0.0987001991709411
+"GSM983469","Control","GSE40012","NK cells activated",0.00073949750426988
+"GSM983469","Control","GSE40012","Monocytes",0.186356511852026
+"GSM983469","Control","GSE40012","Macrophages M0",0.0104561525713081
+"GSM983469","Control","GSE40012","Macrophages M1",0
+"GSM983469","Control","GSE40012","Macrophages M2",0
+"GSM983469","Control","GSE40012","Dendritic cells resting",0
+"GSM983469","Control","GSE40012","Dendritic cells activated",0
+"GSM983469","Control","GSE40012","Mast cells resting",0.00725649201704987
+"GSM983469","Control","GSE40012","Mast cells activated",0
+"GSM983469","Control","GSE40012","Eosinophils",0
+"GSM983469","Control","GSE40012","Neutrophils",0.350061858925918
+"GSM983471","Control","GSE40012","B cells naive",0
+"GSM983471","Control","GSE40012","B cells memory",0.023320784744213
+"GSM983471","Control","GSE40012","Plasma cells",0
+"GSM983471","Control","GSE40012","T cells CD8",0.222119693287086
+"GSM983471","Control","GSE40012","T cells CD4 naive",0
+"GSM983471","Control","GSE40012","T cells CD4 memory resting",0.0259655042529332
+"GSM983471","Control","GSE40012","T cells CD4 memory activated",0.00629256519424539
+"GSM983471","Control","GSE40012","T cells follicular helper",0
+"GSM983471","Control","GSE40012","T cells regulatory (Tregs)",0.0225612643084024
+"GSM983471","Control","GSE40012","T cells gamma delta",0
+"GSM983471","Control","GSE40012","NK cells resting",0.152250570151518
+"GSM983471","Control","GSE40012","NK cells activated",0
+"GSM983471","Control","GSE40012","Monocytes",0.185149297276021
+"GSM983471","Control","GSE40012","Macrophages M0",0.0131104811543378
+"GSM983471","Control","GSE40012","Macrophages M1",0
+"GSM983471","Control","GSE40012","Macrophages M2",0
+"GSM983471","Control","GSE40012","Dendritic cells resting",0
+"GSM983471","Control","GSE40012","Dendritic cells activated",0
+"GSM983471","Control","GSE40012","Mast cells resting",0.00107524391084509
+"GSM983471","Control","GSE40012","Mast cells activated",0
+"GSM983471","Control","GSE40012","Eosinophils",0
+"GSM983471","Control","GSE40012","Neutrophils",0.348154595720398
+"GSM983473","Control","GSE40012","B cells naive",0
+"GSM983473","Control","GSE40012","B cells memory",0.0333735052818822
+"GSM983473","Control","GSE40012","Plasma cells",0
+"GSM983473","Control","GSE40012","T cells CD8",0.13847738996773
+"GSM983473","Control","GSE40012","T cells CD4 naive",0
+"GSM983473","Control","GSE40012","T cells CD4 memory resting",0.214846905330508
+"GSM983473","Control","GSE40012","T cells CD4 memory activated",0.00666765504898007
+"GSM983473","Control","GSE40012","T cells follicular helper",0
+"GSM983473","Control","GSE40012","T cells regulatory (Tregs)",0.010041737468111
+"GSM983473","Control","GSE40012","T cells gamma delta",0
+"GSM983473","Control","GSE40012","NK cells resting",0.191246353524022
+"GSM983473","Control","GSE40012","NK cells activated",0
+"GSM983473","Control","GSE40012","Monocytes",0.138216565234146
+"GSM983473","Control","GSE40012","Macrophages M0",0.0100527253912472
+"GSM983473","Control","GSE40012","Macrophages M1",0
+"GSM983473","Control","GSE40012","Macrophages M2",0
+"GSM983473","Control","GSE40012","Dendritic cells resting",0
+"GSM983473","Control","GSE40012","Dendritic cells activated",0.000229239419350141
+"GSM983473","Control","GSE40012","Mast cells resting",0
+"GSM983473","Control","GSE40012","Mast cells activated",0.00035920023333768
+"GSM983473","Control","GSE40012","Eosinophils",0
+"GSM983473","Control","GSE40012","Neutrophils",0.256488723100686
+"GSM983475","Control","GSE40012","B cells naive",0
+"GSM983475","Control","GSE40012","B cells memory",0.0399748978359422
+"GSM983475","Control","GSE40012","Plasma cells",0
+"GSM983475","Control","GSE40012","T cells CD8",0.0860539921845713
+"GSM983475","Control","GSE40012","T cells CD4 naive",0.0604533696093595
+"GSM983475","Control","GSE40012","T cells CD4 memory resting",0.126243652211764
+"GSM983475","Control","GSE40012","T cells CD4 memory activated",0.0127020416587235
+"GSM983475","Control","GSE40012","T cells follicular helper",0
+"GSM983475","Control","GSE40012","T cells regulatory (Tregs)",0.00402354608299675
+"GSM983475","Control","GSE40012","T cells gamma delta",0
+"GSM983475","Control","GSE40012","NK cells resting",0.14430507197791
+"GSM983475","Control","GSE40012","NK cells activated",0
+"GSM983475","Control","GSE40012","Monocytes",0.32217162990297
+"GSM983475","Control","GSE40012","Macrophages M0",0.0181898928053851
+"GSM983475","Control","GSE40012","Macrophages M1",0
+"GSM983475","Control","GSE40012","Macrophages M2",0
+"GSM983475","Control","GSE40012","Dendritic cells resting",0
+"GSM983475","Control","GSE40012","Dendritic cells activated",0.000353493704928251
+"GSM983475","Control","GSE40012","Mast cells resting",0.000116415782049584
+"GSM983475","Control","GSE40012","Mast cells activated",0
+"GSM983475","Control","GSE40012","Eosinophils",0
+"GSM983475","Control","GSE40012","Neutrophils",0.185411996243401
+"GSM983477","Control","GSE40012","B cells naive",0
+"GSM983477","Control","GSE40012","B cells memory",0.0998974991676652
+"GSM983477","Control","GSE40012","Plasma cells",0
+"GSM983477","Control","GSE40012","T cells CD8",0.113103205653125
+"GSM983477","Control","GSE40012","T cells CD4 naive",0.0686421254977287
+"GSM983477","Control","GSE40012","T cells CD4 memory resting",0.0106560490047683
+"GSM983477","Control","GSE40012","T cells CD4 memory activated",0.0447909429911641
+"GSM983477","Control","GSE40012","T cells follicular helper",0
+"GSM983477","Control","GSE40012","T cells regulatory (Tregs)",0.0272028254799146
+"GSM983477","Control","GSE40012","T cells gamma delta",0
+"GSM983477","Control","GSE40012","NK cells resting",0.154142353368508
+"GSM983477","Control","GSE40012","NK cells activated",0
+"GSM983477","Control","GSE40012","Monocytes",0.208780992525603
+"GSM983477","Control","GSE40012","Macrophages M0",0.0370821669735637
+"GSM983477","Control","GSE40012","Macrophages M1",0
+"GSM983477","Control","GSE40012","Macrophages M2",0
+"GSM983477","Control","GSE40012","Dendritic cells resting",0
+"GSM983477","Control","GSE40012","Dendritic cells activated",0.0120666581799259
+"GSM983477","Control","GSE40012","Mast cells resting",0
+"GSM983477","Control","GSE40012","Mast cells activated",0
+"GSM983477","Control","GSE40012","Eosinophils",0
+"GSM983477","Control","GSE40012","Neutrophils",0.223635181158034
+"GSM983479","Control","GSE40012","B cells naive",0
+"GSM983479","Control","GSE40012","B cells memory",0.0741107954713254
+"GSM983479","Control","GSE40012","Plasma cells",0
+"GSM983479","Control","GSE40012","T cells CD8",0.0380571831872233
+"GSM983479","Control","GSE40012","T cells CD4 naive",0.0834180703091131
+"GSM983479","Control","GSE40012","T cells CD4 memory resting",0.0482787997457369
+"GSM983479","Control","GSE40012","T cells CD4 memory activated",0.0239628418124199
+"GSM983479","Control","GSE40012","T cells follicular helper",0
+"GSM983479","Control","GSE40012","T cells regulatory (Tregs)",0.0199252786111155
+"GSM983479","Control","GSE40012","T cells gamma delta",0
+"GSM983479","Control","GSE40012","NK cells resting",0.0946453191385569
+"GSM983479","Control","GSE40012","NK cells activated",0
+"GSM983479","Control","GSE40012","Monocytes",0.225456844198981
+"GSM983479","Control","GSE40012","Macrophages M0",0
+"GSM983479","Control","GSE40012","Macrophages M1",0
+"GSM983479","Control","GSE40012","Macrophages M2",0
+"GSM983479","Control","GSE40012","Dendritic cells resting",0
+"GSM983479","Control","GSE40012","Dendritic cells activated",0.0162724811046436
+"GSM983479","Control","GSE40012","Mast cells resting",0.00292840600254269
+"GSM983479","Control","GSE40012","Mast cells activated",0
+"GSM983479","Control","GSE40012","Eosinophils",0
+"GSM983479","Control","GSE40012","Neutrophils",0.372943980418341
+"GSM983481","Control","GSE40012","B cells naive",0.00950817028038301
+"GSM983481","Control","GSE40012","B cells memory",0.0435928686783369
+"GSM983481","Control","GSE40012","Plasma cells",0
+"GSM983481","Control","GSE40012","T cells CD8",0.0393207234909792
+"GSM983481","Control","GSE40012","T cells CD4 naive",0.0583786306740367
+"GSM983481","Control","GSE40012","T cells CD4 memory resting",0.0705112125922265
+"GSM983481","Control","GSE40012","T cells CD4 memory activated",0.0291257462785022
+"GSM983481","Control","GSE40012","T cells follicular helper",0
+"GSM983481","Control","GSE40012","T cells regulatory (Tregs)",0.0428834668484411
+"GSM983481","Control","GSE40012","T cells gamma delta",0
+"GSM983481","Control","GSE40012","NK cells resting",0.114589749981737
+"GSM983481","Control","GSE40012","NK cells activated",0
+"GSM983481","Control","GSE40012","Monocytes",0.194194019836136
+"GSM983481","Control","GSE40012","Macrophages M0",0.00714170764796051
+"GSM983481","Control","GSE40012","Macrophages M1",0
+"GSM983481","Control","GSE40012","Macrophages M2",0
+"GSM983481","Control","GSE40012","Dendritic cells resting",0
+"GSM983481","Control","GSE40012","Dendritic cells activated",0.0138833882638248
+"GSM983481","Control","GSE40012","Mast cells resting",0.0377863950437028
+"GSM983481","Control","GSE40012","Mast cells activated",0
+"GSM983481","Control","GSE40012","Eosinophils",0
+"GSM983481","Control","GSE40012","Neutrophils",0.339083920383733
+"GSM983483","Control","GSE40012","B cells naive",0
+"GSM983483","Control","GSE40012","B cells memory",0.028960026226305
+"GSM983483","Control","GSE40012","Plasma cells",0
+"GSM983483","Control","GSE40012","T cells CD8",0.289411384865004
+"GSM983483","Control","GSE40012","T cells CD4 naive",0.0274511407782016
+"GSM983483","Control","GSE40012","T cells CD4 memory resting",0
+"GSM983483","Control","GSE40012","T cells CD4 memory activated",0.0237223852285712
+"GSM983483","Control","GSE40012","T cells follicular helper",0
+"GSM983483","Control","GSE40012","T cells regulatory (Tregs)",0.0285324504119695
+"GSM983483","Control","GSE40012","T cells gamma delta",0
+"GSM983483","Control","GSE40012","NK cells resting",0.234768855969608
+"GSM983483","Control","GSE40012","NK cells activated",0
+"GSM983483","Control","GSE40012","Monocytes",0.148953110660745
+"GSM983483","Control","GSE40012","Macrophages M0",0.00204369130603798
+"GSM983483","Control","GSE40012","Macrophages M1",0
+"GSM983483","Control","GSE40012","Macrophages M2",0
+"GSM983483","Control","GSE40012","Dendritic cells resting",0
+"GSM983483","Control","GSE40012","Dendritic cells activated",0
+"GSM983483","Control","GSE40012","Mast cells resting",0.00404192781495717
+"GSM983483","Control","GSE40012","Mast cells activated",0
+"GSM983483","Control","GSE40012","Eosinophils",0
+"GSM983483","Control","GSE40012","Neutrophils",0.212115026738601
+"GSM983485","Control","GSE40012","B cells naive",0
+"GSM983485","Control","GSE40012","B cells memory",0.0284722705017386
+"GSM983485","Control","GSE40012","Plasma cells",0
+"GSM983485","Control","GSE40012","T cells CD8",0.064376091841803
+"GSM983485","Control","GSE40012","T cells CD4 naive",0.0889837230966811
+"GSM983485","Control","GSE40012","T cells CD4 memory resting",0.0334188278422474
+"GSM983485","Control","GSE40012","T cells CD4 memory activated",0.0363603043522375
+"GSM983485","Control","GSE40012","T cells follicular helper",0
+"GSM983485","Control","GSE40012","T cells regulatory (Tregs)",0.0143719406027086
+"GSM983485","Control","GSE40012","T cells gamma delta",0
+"GSM983485","Control","GSE40012","NK cells resting",0.263664723485093
+"GSM983485","Control","GSE40012","NK cells activated",0
+"GSM983485","Control","GSE40012","Monocytes",0.123375419852669
+"GSM983485","Control","GSE40012","Macrophages M0",0.0332509328770983
+"GSM983485","Control","GSE40012","Macrophages M1",0
+"GSM983485","Control","GSE40012","Macrophages M2",0
+"GSM983485","Control","GSE40012","Dendritic cells resting",0
+"GSM983485","Control","GSE40012","Dendritic cells activated",0.00122858840773944
+"GSM983485","Control","GSE40012","Mast cells resting",0.00140667649448308
+"GSM983485","Control","GSE40012","Mast cells activated",0
+"GSM983485","Control","GSE40012","Eosinophils",0
+"GSM983485","Control","GSE40012","Neutrophils",0.3110905006455
+"GSM983487","Control","GSE40012","B cells naive",0
+"GSM983487","Control","GSE40012","B cells memory",0.0228568889416575
+"GSM983487","Control","GSE40012","Plasma cells",0
+"GSM983487","Control","GSE40012","T cells CD8",0.133666135166571
+"GSM983487","Control","GSE40012","T cells CD4 naive",0.0991027285808217
+"GSM983487","Control","GSE40012","T cells CD4 memory resting",0.108972357531123
+"GSM983487","Control","GSE40012","T cells CD4 memory activated",0.0112349820134736
+"GSM983487","Control","GSE40012","T cells follicular helper",0
+"GSM983487","Control","GSE40012","T cells regulatory (Tregs)",0
+"GSM983487","Control","GSE40012","T cells gamma delta",0
+"GSM983487","Control","GSE40012","NK cells resting",0.1906529547181
+"GSM983487","Control","GSE40012","NK cells activated",0
+"GSM983487","Control","GSE40012","Monocytes",0.244420470703788
+"GSM983487","Control","GSE40012","Macrophages M0",0.000958029682434308
+"GSM983487","Control","GSE40012","Macrophages M1",0
+"GSM983487","Control","GSE40012","Macrophages M2",0.0014612151990088
+"GSM983487","Control","GSE40012","Dendritic cells resting",0
+"GSM983487","Control","GSE40012","Dendritic cells activated",0.000135150319187604
+"GSM983487","Control","GSE40012","Mast cells resting",0.00593594993636873
+"GSM983487","Control","GSE40012","Mast cells activated",0
+"GSM983487","Control","GSE40012","Eosinophils",0
+"GSM983487","Control","GSE40012","Neutrophils",0.180603137207466
+"GSM983489","Control","GSE40012","B cells naive",0
+"GSM983489","Control","GSE40012","B cells memory",0.0532413345932472
+"GSM983489","Control","GSE40012","Plasma cells",0
+"GSM983489","Control","GSE40012","T cells CD8",0.157068941297062
+"GSM983489","Control","GSE40012","T cells CD4 naive",0.060932204047786
+"GSM983489","Control","GSE40012","T cells CD4 memory resting",0.0422443318133517
+"GSM983489","Control","GSE40012","T cells CD4 memory activated",0.00933221361720027
+"GSM983489","Control","GSE40012","T cells follicular helper",0
+"GSM983489","Control","GSE40012","T cells regulatory (Tregs)",0.0245464424771862
+"GSM983489","Control","GSE40012","T cells gamma delta",0
+"GSM983489","Control","GSE40012","NK cells resting",0.142264882217983
+"GSM983489","Control","GSE40012","NK cells activated",0
+"GSM983489","Control","GSE40012","Monocytes",0.17758447942883
+"GSM983489","Control","GSE40012","Macrophages M0",0.00924241249658194
+"GSM983489","Control","GSE40012","Macrophages M1",0
+"GSM983489","Control","GSE40012","Macrophages M2",0
+"GSM983489","Control","GSE40012","Dendritic cells resting",0
+"GSM983489","Control","GSE40012","Dendritic cells activated",0.0106973393762401
+"GSM983489","Control","GSE40012","Mast cells resting",0.0131441589015518
+"GSM983489","Control","GSE40012","Mast cells activated",0
+"GSM983489","Control","GSE40012","Eosinophils",0
+"GSM983489","Control","GSE40012","Neutrophils",0.29970125973298
+"GSM983491","Control","GSE40012","B cells naive",0.000711071645090676
+"GSM983491","Control","GSE40012","B cells memory",0.00495342770813303
+"GSM983491","Control","GSE40012","Plasma cells",0
+"GSM983491","Control","GSE40012","T cells CD8",0.189866232763593
+"GSM983491","Control","GSE40012","T cells CD4 naive",0.0275860704704931
+"GSM983491","Control","GSE40012","T cells CD4 memory resting",0.0873563077013165
+"GSM983491","Control","GSE40012","T cells CD4 memory activated",0.0485856361382156
+"GSM983491","Control","GSE40012","T cells follicular helper",0
+"GSM983491","Control","GSE40012","T cells regulatory (Tregs)",0.00626599695573729
+"GSM983491","Control","GSE40012","T cells gamma delta",0
+"GSM983491","Control","GSE40012","NK cells resting",0.12647785247772
+"GSM983491","Control","GSE40012","NK cells activated",0
+"GSM983491","Control","GSE40012","Monocytes",0.227665259831611
+"GSM983491","Control","GSE40012","Macrophages M0",0.00818479659320048
+"GSM983491","Control","GSE40012","Macrophages M1",0
+"GSM983491","Control","GSE40012","Macrophages M2",0.00815601204567035
+"GSM983491","Control","GSE40012","Dendritic cells resting",0
+"GSM983491","Control","GSE40012","Dendritic cells activated",0.00254692443653799
+"GSM983491","Control","GSE40012","Mast cells resting",0.0182595573740872
+"GSM983491","Control","GSE40012","Mast cells activated",0
+"GSM983491","Control","GSE40012","Eosinophils",0
+"GSM983491","Control","GSE40012","Neutrophils",0.243384853858594
+"GSM983493","Control","GSE40012","B cells naive",0
+"GSM983493","Control","GSE40012","B cells memory",0.0349680816411477
+"GSM983493","Control","GSE40012","Plasma cells",0
+"GSM983493","Control","GSE40012","T cells CD8",0.227132432257161
+"GSM983493","Control","GSE40012","T cells CD4 naive",0.0710375729207788
+"GSM983493","Control","GSE40012","T cells CD4 memory resting",0
+"GSM983493","Control","GSE40012","T cells CD4 memory activated",0.0240156326955078
+"GSM983493","Control","GSE40012","T cells follicular helper",0
+"GSM983493","Control","GSE40012","T cells regulatory (Tregs)",0.030204958487705
+"GSM983493","Control","GSE40012","T cells gamma delta",0
+"GSM983493","Control","GSE40012","NK cells resting",0.196009667986283
+"GSM983493","Control","GSE40012","NK cells activated",0
+"GSM983493","Control","GSE40012","Monocytes",0.175560329941933
+"GSM983493","Control","GSE40012","Macrophages M0",0
+"GSM983493","Control","GSE40012","Macrophages M1",0
+"GSM983493","Control","GSE40012","Macrophages M2",0
+"GSM983493","Control","GSE40012","Dendritic cells resting",0
+"GSM983493","Control","GSE40012","Dendritic cells activated",0.000608887329393843
+"GSM983493","Control","GSE40012","Mast cells resting",0.011494773314126
+"GSM983493","Control","GSE40012","Mast cells activated",0
+"GSM983493","Control","GSE40012","Eosinophils",0
+"GSM983493","Control","GSE40012","Neutrophils",0.228967663425963
+"GSM509706","Bacterial_Pneumonia","GSE20346","B cells naive",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","B cells memory",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","Plasma cells",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","T cells CD8",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","T cells CD4 naive",0.0850546743986482
+"GSM509706","Bacterial_Pneumonia","GSE20346","T cells CD4 memory resting",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","T cells CD4 memory activated",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","T cells follicular helper",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","T cells regulatory (Tregs)",0.0115176296466237
+"GSM509706","Bacterial_Pneumonia","GSE20346","T cells gamma delta",0.0317093985747738
+"GSM509706","Bacterial_Pneumonia","GSE20346","NK cells resting",0.0217400172789904
+"GSM509706","Bacterial_Pneumonia","GSE20346","NK cells activated",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","Monocytes",0.414875500794251
+"GSM509706","Bacterial_Pneumonia","GSE20346","Macrophages M0",0.00829078695072677
+"GSM509706","Bacterial_Pneumonia","GSE20346","Macrophages M1",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","Macrophages M2",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","Dendritic cells resting",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","Dendritic cells activated",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","Mast cells resting",0.0195388897294758
+"GSM509706","Bacterial_Pneumonia","GSE20346","Mast cells activated",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","Eosinophils",0
+"GSM509706","Bacterial_Pneumonia","GSE20346","Neutrophils",0.40727310262651
+"GSM509711","Bacterial_Pneumonia","GSE20346","B cells naive",0
+"GSM509711","Bacterial_Pneumonia","GSE20346","B cells memory",0.0484684123528119
+"GSM509711","Bacterial_Pneumonia","GSE20346","Plasma cells",0
+"GSM509711","Bacterial_Pneumonia","GSE20346","T cells CD8",0
+"GSM509711","Bacterial_Pneumonia","GSE20346","T cells CD4 naive",0.0935034712445786
+"GSM509711","Bacterial_Pneumonia","GSE20346","T cells CD4 memory resting",0
+"GSM509711","Bacterial_Pneumonia","GSE20346","T cells CD4 memory activated",0
+"GSM509711","Bacterial_Pneumonia","GSE20346","T cells follicular helper",0
+"GSM509711","Bacterial_Pneumonia","GSE20346","T cells regulatory (Tregs)",0.0146906920977244
+"GSM509711","Bacterial_Pneumonia","GSE20346","T cells gamma delta",0.0186581813623518
+"GSM509711","Bacterial_Pneumonia","GSE20346","NK cells resting",0.00149521091089074
+"GSM509711","Bacterial_Pneumonia","GSE20346","NK cells activated",0.00952439608833499
+"GSM509711","Bacterial_Pneumonia","GSE20346","Monocytes",0.309507872857506
+"GSM509711","Bacterial_Pneumonia","GSE20346","Macrophages M0",0.0354525012932455
+"GSM509711","Bacterial_Pneumonia","GSE20346","Macrophages M1",0
+"GSM509711","Bacterial_Pneumonia","GSE20346","Macrophages M2",0
+"GSM509711","Bacterial_Pneumonia","GSE20346","Dendritic cells resting",0
+"GSM509711","Bacterial_Pneumonia","GSE20346","Dendritic cells activated",0.00930274916653598
+"GSM509711","Bacterial_Pneumonia","GSE20346","Mast cells resting",0.0319300857632707
+"GSM509711","Bacterial_Pneumonia","GSE20346","Mast cells activated",0
+"GSM509711","Bacterial_Pneumonia","GSE20346","Eosinophils",0
+"GSM509711","Bacterial_Pneumonia","GSE20346","Neutrophils",0.427466426862749
+"GSM509714","Bacterial_Pneumonia","GSE20346","B cells naive",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","B cells memory",0.0659568091941539
+"GSM509714","Bacterial_Pneumonia","GSE20346","Plasma cells",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","T cells CD8",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","T cells CD4 naive",0.093352058243877
+"GSM509714","Bacterial_Pneumonia","GSE20346","T cells CD4 memory resting",0.024353391602437
+"GSM509714","Bacterial_Pneumonia","GSE20346","T cells CD4 memory activated",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","T cells follicular helper",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","T cells regulatory (Tregs)",0.0117905003153915
+"GSM509714","Bacterial_Pneumonia","GSE20346","T cells gamma delta",0.0376999199850345
+"GSM509714","Bacterial_Pneumonia","GSE20346","NK cells resting",0.0419796825615044
+"GSM509714","Bacterial_Pneumonia","GSE20346","NK cells activated",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","Monocytes",0.358945321289131
+"GSM509714","Bacterial_Pneumonia","GSE20346","Macrophages M0",0.0476721670726734
+"GSM509714","Bacterial_Pneumonia","GSE20346","Macrophages M1",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","Macrophages M2",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","Dendritic cells resting",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","Dendritic cells activated",0.00908248548531947
+"GSM509714","Bacterial_Pneumonia","GSE20346","Mast cells resting",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","Mast cells activated",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","Eosinophils",0
+"GSM509714","Bacterial_Pneumonia","GSE20346","Neutrophils",0.309167664250478
+"GSM509719","Bacterial_Pneumonia","GSE20346","B cells naive",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","B cells memory",0.0107044346459194
+"GSM509719","Bacterial_Pneumonia","GSE20346","Plasma cells",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","T cells CD8",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","T cells CD4 naive",0.0578132436295938
+"GSM509719","Bacterial_Pneumonia","GSE20346","T cells CD4 memory resting",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","T cells CD4 memory activated",0.0240084300438816
+"GSM509719","Bacterial_Pneumonia","GSE20346","T cells follicular helper",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","T cells regulatory (Tregs)",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","T cells gamma delta",0.00266329153672805
+"GSM509719","Bacterial_Pneumonia","GSE20346","NK cells resting",0.0562817167586547
+"GSM509719","Bacterial_Pneumonia","GSE20346","NK cells activated",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","Monocytes",0.469685232353789
+"GSM509719","Bacterial_Pneumonia","GSE20346","Macrophages M0",0.00452064268616674
+"GSM509719","Bacterial_Pneumonia","GSE20346","Macrophages M1",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","Macrophages M2",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","Dendritic cells resting",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","Dendritic cells activated",0.00376740146968298
+"GSM509719","Bacterial_Pneumonia","GSE20346","Mast cells resting",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","Mast cells activated",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","Eosinophils",0
+"GSM509719","Bacterial_Pneumonia","GSE20346","Neutrophils",0.370555606875584
+"GSM509724","Bacterial_Pneumonia","GSE20346","B cells naive",0
+"GSM509724","Bacterial_Pneumonia","GSE20346","B cells memory",0.0662187618120634
+"GSM509724","Bacterial_Pneumonia","GSE20346","Plasma cells",0
+"GSM509724","Bacterial_Pneumonia","GSE20346","T cells CD8",0
+"GSM509724","Bacterial_Pneumonia","GSE20346","T cells CD4 naive",0.052620098409321
+"GSM509724","Bacterial_Pneumonia","GSE20346","T cells CD4 memory resting",0
+"GSM509724","Bacterial_Pneumonia","GSE20346","T cells CD4 memory activated",0.00376552195427429
+"GSM509724","Bacterial_Pneumonia","GSE20346","T cells follicular helper",0
+"GSM509724","Bacterial_Pneumonia","GSE20346","T cells regulatory (Tregs)",0.0155555693665326
+"GSM509724","Bacterial_Pneumonia","GSE20346","T cells gamma delta",0.00952739775821109
+"GSM509724","Bacterial_Pneumonia","GSE20346","NK cells resting",0.00628530435944685
+"GSM509724","Bacterial_Pneumonia","GSE20346","NK cells activated",0.00622881681308669
+"GSM509724","Bacterial_Pneumonia","GSE20346","Monocytes",0.491416159852839
+"GSM509724","Bacterial_Pneumonia","GSE20346","Macrophages M0",0.0121922605594406
+"GSM509724","Bacterial_Pneumonia","GSE20346","Macrophages M1",0
+"GSM509724","Bacterial_Pneumonia","GSE20346","Macrophages M2",0
+"GSM509724","Bacterial_Pneumonia","GSE20346","Dendritic cells resting",0
+"GSM509724","Bacterial_Pneumonia","GSE20346","Dendritic cells activated",0.0124407580487957
+"GSM509724","Bacterial_Pneumonia","GSE20346","Mast cells resting",0.0441353328183852
+"GSM509724","Bacterial_Pneumonia","GSE20346","Mast cells activated",0
+"GSM509724","Bacterial_Pneumonia","GSE20346","Eosinophils",0
+"GSM509724","Bacterial_Pneumonia","GSE20346","Neutrophils",0.279614018247603
+"GSM509729","Bacterial_Pneumonia","GSE20346","B cells naive",0
+"GSM509729","Bacterial_Pneumonia","GSE20346","B cells memory",0.0573473225538738
+"GSM509729","Bacterial_Pneumonia","GSE20346","Plasma cells",0
+"GSM509729","Bacterial_Pneumonia","GSE20346","T cells CD8",0
+"GSM509729","Bacterial_Pneumonia","GSE20346","T cells CD4 naive",0.0737648104046407
+"GSM509729","Bacterial_Pneumonia","GSE20346","T cells CD4 memory resting",0
+"GSM509729","Bacterial_Pneumonia","GSE20346","T cells CD4 memory activated",0.0115943550131001
+"GSM509729","Bacterial_Pneumonia","GSE20346","T cells follicular helper",0
+"GSM509729","Bacterial_Pneumonia","GSE20346","T cells regulatory (Tregs)",0.0154510992288103
+"GSM509729","Bacterial_Pneumonia","GSE20346","T cells gamma delta",0.021112847769733
+"GSM509729","Bacterial_Pneumonia","GSE20346","NK cells resting",0.0530139928258458
+"GSM509729","Bacterial_Pneumonia","GSE20346","NK cells activated",0
+"GSM509729","Bacterial_Pneumonia","GSE20346","Monocytes",0.420510760447679
+"GSM509729","Bacterial_Pneumonia","GSE20346","Macrophages M0",0.0121324209833342
+"GSM509729","Bacterial_Pneumonia","GSE20346","Macrophages M1",0
+"GSM509729","Bacterial_Pneumonia","GSE20346","Macrophages M2",0
+"GSM509729","Bacterial_Pneumonia","GSE20346","Dendritic cells resting",0
+"GSM509729","Bacterial_Pneumonia","GSE20346","Dendritic cells activated",0.0109385765437132
+"GSM509729","Bacterial_Pneumonia","GSE20346","Mast cells resting",0.00606151682295988
+"GSM509729","Bacterial_Pneumonia","GSE20346","Mast cells activated",0
+"GSM509729","Bacterial_Pneumonia","GSE20346","Eosinophils",0
+"GSM509729","Bacterial_Pneumonia","GSE20346","Neutrophils",0.31807229740631
+"GSM509751","Control","GSE20346","B cells naive",0.000475275728571253
+"GSM509751","Control","GSE20346","B cells memory",0.0309365431742752
+"GSM509751","Control","GSE20346","Plasma cells",0
+"GSM509751","Control","GSE20346","T cells CD8",0.188584656137509
+"GSM509751","Control","GSE20346","T cells CD4 naive",0.125669632683297
+"GSM509751","Control","GSE20346","T cells CD4 memory resting",0.039094811808657
+"GSM509751","Control","GSE20346","T cells CD4 memory activated",0.00797970801589906
+"GSM509751","Control","GSE20346","T cells follicular helper",0
+"GSM509751","Control","GSE20346","T cells regulatory (Tregs)",0.0455594399926864
+"GSM509751","Control","GSE20346","T cells gamma delta",0
+"GSM509751","Control","GSE20346","NK cells resting",0.174896329303444
+"GSM509751","Control","GSE20346","NK cells activated",0
+"GSM509751","Control","GSE20346","Monocytes",0.123332304376719
+"GSM509751","Control","GSE20346","Macrophages M0",0
+"GSM509751","Control","GSE20346","Macrophages M1",0
+"GSM509751","Control","GSE20346","Macrophages M2",0
+"GSM509751","Control","GSE20346","Dendritic cells resting",0
+"GSM509751","Control","GSE20346","Dendritic cells activated",0.000211380920049295
+"GSM509751","Control","GSE20346","Mast cells resting",0.0291389929019079
+"GSM509751","Control","GSE20346","Mast cells activated",0
+"GSM509751","Control","GSE20346","Eosinophils",0
+"GSM509751","Control","GSE20346","Neutrophils",0.234120924956985
+"GSM509753","Control","GSE20346","B cells naive",0
+"GSM509753","Control","GSE20346","B cells memory",0.0426870692085521
+"GSM509753","Control","GSE20346","Plasma cells",0
+"GSM509753","Control","GSE20346","T cells CD8",0.170292575646626
+"GSM509753","Control","GSE20346","T cells CD4 naive",0.182300946313171
+"GSM509753","Control","GSE20346","T cells CD4 memory resting",0.018388296627492
+"GSM509753","Control","GSE20346","T cells CD4 memory activated",0.0225197419177735
+"GSM509753","Control","GSE20346","T cells follicular helper",0
+"GSM509753","Control","GSE20346","T cells regulatory (Tregs)",0.0316547528415839
+"GSM509753","Control","GSE20346","T cells gamma delta",0
+"GSM509753","Control","GSE20346","NK cells resting",0.151478742454624
+"GSM509753","Control","GSE20346","NK cells activated",0
+"GSM509753","Control","GSE20346","Monocytes",0.122588638726384
+"GSM509753","Control","GSE20346","Macrophages M0",0.00333841586731231
+"GSM509753","Control","GSE20346","Macrophages M1",0
+"GSM509753","Control","GSE20346","Macrophages M2",0
+"GSM509753","Control","GSE20346","Dendritic cells resting",0
+"GSM509753","Control","GSE20346","Dendritic cells activated",0.00816639634743188
+"GSM509753","Control","GSE20346","Mast cells resting",0.0305987755219895
+"GSM509753","Control","GSE20346","Mast cells activated",0
+"GSM509753","Control","GSE20346","Eosinophils",0
+"GSM509753","Control","GSE20346","Neutrophils",0.215985648527059
+"GSM509755","Control","GSE20346","B cells naive",0
+"GSM509755","Control","GSE20346","B cells memory",0.0184921124137065
+"GSM509755","Control","GSE20346","Plasma cells",0
+"GSM509755","Control","GSE20346","T cells CD8",0.294045768540752
+"GSM509755","Control","GSE20346","T cells CD4 naive",0
+"GSM509755","Control","GSE20346","T cells CD4 memory resting",0
+"GSM509755","Control","GSE20346","T cells CD4 memory activated",0.0169219496818706
+"GSM509755","Control","GSE20346","T cells follicular helper",0
+"GSM509755","Control","GSE20346","T cells regulatory (Tregs)",0.0185878376650573
+"GSM509755","Control","GSE20346","T cells gamma delta",0
+"GSM509755","Control","GSE20346","NK cells resting",0.233261966816924
+"GSM509755","Control","GSE20346","NK cells activated",0
+"GSM509755","Control","GSE20346","Monocytes",0.148308234838889
+"GSM509755","Control","GSE20346","Macrophages M0",0.0225295484224039
+"GSM509755","Control","GSE20346","Macrophages M1",0
+"GSM509755","Control","GSE20346","Macrophages M2",0
+"GSM509755","Control","GSE20346","Dendritic cells resting",0
+"GSM509755","Control","GSE20346","Dendritic cells activated",0
+"GSM509755","Control","GSE20346","Mast cells resting",0.00692152353305746
+"GSM509755","Control","GSE20346","Mast cells activated",0
+"GSM509755","Control","GSE20346","Eosinophils",0
+"GSM509755","Control","GSE20346","Neutrophils",0.240931058087339
+"GSM509757","Control","GSE20346","B cells naive",0
+"GSM509757","Control","GSE20346","B cells memory",0.023091419109601
+"GSM509757","Control","GSE20346","Plasma cells",0
+"GSM509757","Control","GSE20346","T cells CD8",0.16922044111824
+"GSM509757","Control","GSE20346","T cells CD4 naive",0.0469998773885621
+"GSM509757","Control","GSE20346","T cells CD4 memory resting",0.123908065930467
+"GSM509757","Control","GSE20346","T cells CD4 memory activated",0.0192763233156066
+"GSM509757","Control","GSE20346","T cells follicular helper",0
+"GSM509757","Control","GSE20346","T cells regulatory (Tregs)",0.00410301279049422
+"GSM509757","Control","GSE20346","T cells gamma delta",0
+"GSM509757","Control","GSE20346","NK cells resting",0.163912916324138
+"GSM509757","Control","GSE20346","NK cells activated",0
+"GSM509757","Control","GSE20346","Monocytes",0.115370102985541
+"GSM509757","Control","GSE20346","Macrophages M0",0.00853462619535002
+"GSM509757","Control","GSE20346","Macrophages M1",0
+"GSM509757","Control","GSE20346","Macrophages M2",0
+"GSM509757","Control","GSE20346","Dendritic cells resting",0
+"GSM509757","Control","GSE20346","Dendritic cells activated",0.001142686766568
+"GSM509757","Control","GSE20346","Mast cells resting",0.0139564457493822
+"GSM509757","Control","GSE20346","Mast cells activated",0
+"GSM509757","Control","GSE20346","Eosinophils",0
+"GSM509757","Control","GSE20346","Neutrophils",0.31048408232605
+"GSM509759","Control","GSE20346","B cells naive",0
+"GSM509759","Control","GSE20346","B cells memory",0.00953409787869005
+"GSM509759","Control","GSE20346","Plasma cells",0
+"GSM509759","Control","GSE20346","T cells CD8",0.115141030067516
+"GSM509759","Control","GSE20346","T cells CD4 naive",0.0630213264877833
+"GSM509759","Control","GSE20346","T cells CD4 memory resting",0.13610400639329
+"GSM509759","Control","GSE20346","T cells CD4 memory activated",0.0171717509358079
+"GSM509759","Control","GSE20346","T cells follicular helper",0
+"GSM509759","Control","GSE20346","T cells regulatory (Tregs)",0.0159748549844394
+"GSM509759","Control","GSE20346","T cells gamma delta",0
+"GSM509759","Control","GSE20346","NK cells resting",0.132070422511671
+"GSM509759","Control","GSE20346","NK cells activated",0
+"GSM509759","Control","GSE20346","Monocytes",0.182080736711792
+"GSM509759","Control","GSE20346","Macrophages M0",0.0196548543976983
+"GSM509759","Control","GSE20346","Macrophages M1",0
+"GSM509759","Control","GSE20346","Macrophages M2",0
+"GSM509759","Control","GSE20346","Dendritic cells resting",0
+"GSM509759","Control","GSE20346","Dendritic cells activated",0.000955374094889805
+"GSM509759","Control","GSE20346","Mast cells resting",0.00139257266198303
+"GSM509759","Control","GSE20346","Mast cells activated",0
+"GSM509759","Control","GSE20346","Eosinophils",0
+"GSM509759","Control","GSE20346","Neutrophils",0.30689897287444
+"GSM509761","Control","GSE20346","B cells naive",0
+"GSM509761","Control","GSE20346","B cells memory",0.0574124057027909
+"GSM509761","Control","GSE20346","Plasma cells",0
+"GSM509761","Control","GSE20346","T cells CD8",0.172553841969533
+"GSM509761","Control","GSE20346","T cells CD4 naive",0.0635687587276704
+"GSM509761","Control","GSE20346","T cells CD4 memory resting",0.0892064613170937
+"GSM509761","Control","GSE20346","T cells CD4 memory activated",0.00804391484957839
+"GSM509761","Control","GSE20346","T cells follicular helper",0
+"GSM509761","Control","GSE20346","T cells regulatory (Tregs)",0.0321763028921408
+"GSM509761","Control","GSE20346","T cells gamma delta",0
+"GSM509761","Control","GSE20346","NK cells resting",0.139239572651603
+"GSM509761","Control","GSE20346","NK cells activated",0
+"GSM509761","Control","GSE20346","Monocytes",0.145634159216661
+"GSM509761","Control","GSE20346","Macrophages M0",0.013318057503501
+"GSM509761","Control","GSE20346","Macrophages M1",0
+"GSM509761","Control","GSE20346","Macrophages M2",0
+"GSM509761","Control","GSE20346","Dendritic cells resting",0
+"GSM509761","Control","GSE20346","Dendritic cells activated",0
+"GSM509761","Control","GSE20346","Mast cells resting",0.0125642217293517
+"GSM509761","Control","GSE20346","Mast cells activated",0
+"GSM509761","Control","GSE20346","Eosinophils",0
+"GSM509761","Control","GSE20346","Neutrophils",0.266282303440076
+"GSM509763","Control","GSE20346","B cells naive",0
+"GSM509763","Control","GSE20346","B cells memory",0.0494452936671126
+"GSM509763","Control","GSE20346","Plasma cells",0
+"GSM509763","Control","GSE20346","T cells CD8",0.312030249520485
+"GSM509763","Control","GSE20346","T cells CD4 naive",0.00953486653908822
+"GSM509763","Control","GSE20346","T cells CD4 memory resting",0
+"GSM509763","Control","GSE20346","T cells CD4 memory activated",0.035346254622089
+"GSM509763","Control","GSE20346","T cells follicular helper",0
+"GSM509763","Control","GSE20346","T cells regulatory (Tregs)",0.0197654330852905
+"GSM509763","Control","GSE20346","T cells gamma delta",0
+"GSM509763","Control","GSE20346","NK cells resting",0.220984163246697
+"GSM509763","Control","GSE20346","NK cells activated",0
+"GSM509763","Control","GSE20346","Monocytes",0.129193526637839
+"GSM509763","Control","GSE20346","Macrophages M0",0.0027173280114611
+"GSM509763","Control","GSE20346","Macrophages M1",0
+"GSM509763","Control","GSE20346","Macrophages M2",0
+"GSM509763","Control","GSE20346","Dendritic cells resting",0
+"GSM509763","Control","GSE20346","Dendritic cells activated",0.00259641660418321
+"GSM509763","Control","GSE20346","Mast cells resting",0.0243394207811042
+"GSM509763","Control","GSE20346","Mast cells activated",0
+"GSM509763","Control","GSE20346","Eosinophils",0
+"GSM509763","Control","GSE20346","Neutrophils",0.19404704728465
+"GSM509765","Control","GSE20346","B cells naive",0
+"GSM509765","Control","GSE20346","B cells memory",0.0290548357972345
+"GSM509765","Control","GSE20346","Plasma cells",0
+"GSM509765","Control","GSE20346","T cells CD8",0.109556569602667
+"GSM509765","Control","GSE20346","T cells CD4 naive",0.0967611108765038
+"GSM509765","Control","GSE20346","T cells CD4 memory resting",0.0234901121935325
+"GSM509765","Control","GSE20346","T cells CD4 memory activated",0.0353801771321058
+"GSM509765","Control","GSE20346","T cells follicular helper",0
+"GSM509765","Control","GSE20346","T cells regulatory (Tregs)",0.0247399132947691
+"GSM509765","Control","GSE20346","T cells gamma delta",0
+"GSM509765","Control","GSE20346","NK cells resting",0.278969416811061
+"GSM509765","Control","GSE20346","NK cells activated",0
+"GSM509765","Control","GSE20346","Monocytes",0.112750185826577
+"GSM509765","Control","GSE20346","Macrophages M0",0.029132857639703
+"GSM509765","Control","GSE20346","Macrophages M1",0
+"GSM509765","Control","GSE20346","Macrophages M2",0
+"GSM509765","Control","GSE20346","Dendritic cells resting",0
+"GSM509765","Control","GSE20346","Dendritic cells activated",0.0013395337092103
+"GSM509765","Control","GSE20346","Mast cells resting",0.00689834872826678
+"GSM509765","Control","GSE20346","Mast cells activated",0
+"GSM509765","Control","GSE20346","Eosinophils",0
+"GSM509765","Control","GSE20346","Neutrophils",0.251926938388369
+"GSM509767","Control","GSE20346","B cells naive",0
+"GSM509767","Control","GSE20346","B cells memory",0.0345941627774864
+"GSM509767","Control","GSE20346","Plasma cells",0
+"GSM509767","Control","GSE20346","T cells CD8",0.211489949785526
+"GSM509767","Control","GSE20346","T cells CD4 naive",0.0979679326315662
+"GSM509767","Control","GSE20346","T cells CD4 memory resting",0.0763701789736272
+"GSM509767","Control","GSE20346","T cells CD4 memory activated",0.00553314859628992
+"GSM509767","Control","GSE20346","T cells follicular helper",0
+"GSM509767","Control","GSE20346","T cells regulatory (Tregs)",0.0121719967840138
+"GSM509767","Control","GSE20346","T cells gamma delta",0
+"GSM509767","Control","GSE20346","NK cells resting",0.180025328118428
+"GSM509767","Control","GSE20346","NK cells activated",0
+"GSM509767","Control","GSE20346","Monocytes",0.165974733996295
+"GSM509767","Control","GSE20346","Macrophages M0",0.00381269972547673
+"GSM509767","Control","GSE20346","Macrophages M1",0
+"GSM509767","Control","GSE20346","Macrophages M2",0.00671789571413318
+"GSM509767","Control","GSE20346","Dendritic cells resting",0
+"GSM509767","Control","GSE20346","Dendritic cells activated",0.000237956066288339
+"GSM509767","Control","GSE20346","Mast cells resting",0.0150442461478387
+"GSM509767","Control","GSE20346","Mast cells activated",0
+"GSM509767","Control","GSE20346","Eosinophils",0
+"GSM509767","Control","GSE20346","Neutrophils",0.19005977068303
+"GSM509769","Control","GSE20346","B cells naive",0
+"GSM509769","Control","GSE20346","B cells memory",0.0352568939956444
+"GSM509769","Control","GSE20346","Plasma cells",0
+"GSM509769","Control","GSE20346","T cells CD8",0.219033773184693
+"GSM509769","Control","GSE20346","T cells CD4 naive",0.0915769340402968
+"GSM509769","Control","GSE20346","T cells CD4 memory resting",0.0198628008157659
+"GSM509769","Control","GSE20346","T cells CD4 memory activated",0.00364245634883308
+"GSM509769","Control","GSE20346","T cells follicular helper",0
+"GSM509769","Control","GSE20346","T cells regulatory (Tregs)",0.0421451710126366
+"GSM509769","Control","GSE20346","T cells gamma delta",0
+"GSM509769","Control","GSE20346","NK cells resting",0.150813821344511
+"GSM509769","Control","GSE20346","NK cells activated",0
+"GSM509769","Control","GSE20346","Monocytes",0.140731109460944
+"GSM509769","Control","GSE20346","Macrophages M0",0
+"GSM509769","Control","GSE20346","Macrophages M1",0
+"GSM509769","Control","GSE20346","Macrophages M2",0
+"GSM509769","Control","GSE20346","Dendritic cells resting",0
+"GSM509769","Control","GSE20346","Dendritic cells activated",0.00471775445847805
+"GSM509769","Control","GSE20346","Mast cells resting",0.0141554319859794
+"GSM509769","Control","GSE20346","Mast cells activated",0
+"GSM509769","Control","GSE20346","Eosinophils",0
+"GSM509769","Control","GSE20346","Neutrophils",0.278063853352218
+"GSM509771","Control","GSE20346","B cells naive",0.000937957914962294
+"GSM509771","Control","GSE20346","B cells memory",0.0263275198685418
+"GSM509771","Control","GSE20346","Plasma cells",0
+"GSM509771","Control","GSE20346","T cells CD8",0.243283384497669
+"GSM509771","Control","GSE20346","T cells CD4 naive",0.0203527226489961
+"GSM509771","Control","GSE20346","T cells CD4 memory resting",0.0670032891939493
+"GSM509771","Control","GSE20346","T cells CD4 memory activated",0.0426523854944705
+"GSM509771","Control","GSE20346","T cells follicular helper",0
+"GSM509771","Control","GSE20346","T cells regulatory (Tregs)",0.0136516277014779
+"GSM509771","Control","GSE20346","T cells gamma delta",0
+"GSM509771","Control","GSE20346","NK cells resting",0.161157995525556
+"GSM509771","Control","GSE20346","NK cells activated",0
+"GSM509771","Control","GSE20346","Monocytes",0.191067679571639
+"GSM509771","Control","GSE20346","Macrophages M0",0.0118545024928134
+"GSM509771","Control","GSE20346","Macrophages M1",0
+"GSM509771","Control","GSE20346","Macrophages M2",0.00472022697817874
+"GSM509771","Control","GSE20346","Dendritic cells resting",0
+"GSM509771","Control","GSE20346","Dendritic cells activated",0.00210140511527378
+"GSM509771","Control","GSE20346","Mast cells resting",0.0184548633876161
+"GSM509771","Control","GSE20346","Mast cells activated",0
+"GSM509771","Control","GSE20346","Eosinophils",0
+"GSM509771","Control","GSE20346","Neutrophils",0.196434439608856
+"GSM509773","Control","GSE20346","B cells naive",0
+"GSM509773","Control","GSE20346","B cells memory",0.0286876260435213
+"GSM509773","Control","GSE20346","Plasma cells",0
+"GSM509773","Control","GSE20346","T cells CD8",0.303076144796888
+"GSM509773","Control","GSE20346","T cells CD4 naive",0.07420293304129
+"GSM509773","Control","GSE20346","T cells CD4 memory resting",0
+"GSM509773","Control","GSE20346","T cells CD4 memory activated",0.0594494068133408
+"GSM509773","Control","GSE20346","T cells follicular helper",0
+"GSM509773","Control","GSE20346","T cells regulatory (Tregs)",0.00807919939260926
+"GSM509773","Control","GSE20346","T cells gamma delta",0
+"GSM509773","Control","GSE20346","NK cells resting",0.158918032461166
+"GSM509773","Control","GSE20346","NK cells activated",0
+"GSM509773","Control","GSE20346","Monocytes",0.159900138995869
+"GSM509773","Control","GSE20346","Macrophages M0",0
+"GSM509773","Control","GSE20346","Macrophages M1",0
+"GSM509773","Control","GSE20346","Macrophages M2",0
+"GSM509773","Control","GSE20346","Dendritic cells resting",0
+"GSM509773","Control","GSE20346","Dendritic cells activated",0.00163101727323861
+"GSM509773","Control","GSE20346","Mast cells resting",0.0191674255067804
+"GSM509773","Control","GSE20346","Mast cells activated",0
+"GSM509773","Control","GSE20346","Eosinophils",0
+"GSM509773","Control","GSE20346","Neutrophils",0.186888075675297
+"GSM509775","Control","GSE20346","B cells naive",0
+"GSM509775","Control","GSE20346","B cells memory",0.0446063385969503
+"GSM509775","Control","GSE20346","Plasma cells",0
+"GSM509775","Control","GSE20346","T cells CD8",0.257164859627873
+"GSM509775","Control","GSE20346","T cells CD4 naive",0.0299619337703553
+"GSM509775","Control","GSE20346","T cells CD4 memory resting",0
+"GSM509775","Control","GSE20346","T cells CD4 memory activated",0.0326776496506512
+"GSM509775","Control","GSE20346","T cells follicular helper",0
+"GSM509775","Control","GSE20346","T cells regulatory (Tregs)",0.0234546719699108
+"GSM509775","Control","GSE20346","T cells gamma delta",0
+"GSM509775","Control","GSE20346","NK cells resting",0.183526607747609
+"GSM509775","Control","GSE20346","NK cells activated",0
+"GSM509775","Control","GSE20346","Monocytes",0.15195987610817
+"GSM509775","Control","GSE20346","Macrophages M0",0.00898913169652706
+"GSM509775","Control","GSE20346","Macrophages M1",0
+"GSM509775","Control","GSE20346","Macrophages M2",0
+"GSM509775","Control","GSE20346","Dendritic cells resting",0
+"GSM509775","Control","GSE20346","Dendritic cells activated",0.000662492598686927
+"GSM509775","Control","GSE20346","Mast cells resting",0.0120761813461696
+"GSM509775","Control","GSE20346","Mast cells activated",0
+"GSM509775","Control","GSE20346","Eosinophils",0
+"GSM509775","Control","GSE20346","Neutrophils",0.254920256887096
+"GSM509777","Control","GSE20346","B cells naive",0
+"GSM509777","Control","GSE20346","B cells memory",0.0404266237895921
+"GSM509777","Control","GSE20346","Plasma cells",0
+"GSM509777","Control","GSE20346","T cells CD8",0.175101861661869
+"GSM509777","Control","GSE20346","T cells CD4 naive",0.0192970116660511
+"GSM509777","Control","GSE20346","T cells CD4 memory resting",0.16815684023372
+"GSM509777","Control","GSE20346","T cells CD4 memory activated",0.0172734832698089
+"GSM509777","Control","GSE20346","T cells follicular helper",0
+"GSM509777","Control","GSE20346","T cells regulatory (Tregs)",0.012364238878488
+"GSM509777","Control","GSE20346","T cells gamma delta",0
+"GSM509777","Control","GSE20346","NK cells resting",0.211892767483218
+"GSM509777","Control","GSE20346","NK cells activated",0
+"GSM509777","Control","GSE20346","Monocytes",0.108856239700973
+"GSM509777","Control","GSE20346","Macrophages M0",0.00894691668813501
+"GSM509777","Control","GSE20346","Macrophages M1",0
+"GSM509777","Control","GSE20346","Macrophages M2",0
+"GSM509777","Control","GSE20346","Dendritic cells resting",0
+"GSM509777","Control","GSE20346","Dendritic cells activated",0.00185002738610001
+"GSM509777","Control","GSE20346","Mast cells resting",0.00440260920008206
+"GSM509777","Control","GSE20346","Mast cells activated",0
+"GSM509777","Control","GSE20346","Eosinophils",0
+"GSM509777","Control","GSE20346","Neutrophils",0.231431380041963
+"GSM509779","Control","GSE20346","B cells naive",0
+"GSM509779","Control","GSE20346","B cells memory",0.0545600809034467
+"GSM509779","Control","GSE20346","Plasma cells",0
+"GSM509779","Control","GSE20346","T cells CD8",0.15883020901075
+"GSM509779","Control","GSE20346","T cells CD4 naive",0.0469341023876425
+"GSM509779","Control","GSE20346","T cells CD4 memory resting",0.129051156326506
+"GSM509779","Control","GSE20346","T cells CD4 memory activated",0.0167058884275903
+"GSM509779","Control","GSE20346","T cells follicular helper",0
+"GSM509779","Control","GSE20346","T cells regulatory (Tregs)",0.00917572550644999
+"GSM509779","Control","GSE20346","T cells gamma delta",0
+"GSM509779","Control","GSE20346","NK cells resting",0.138892129983204
+"GSM509779","Control","GSE20346","NK cells activated",0
+"GSM509779","Control","GSE20346","Monocytes",0.272760122862094
+"GSM509779","Control","GSE20346","Macrophages M0",0.0264367791070896
+"GSM509779","Control","GSE20346","Macrophages M1",0
+"GSM509779","Control","GSE20346","Macrophages M2",0
+"GSM509779","Control","GSE20346","Dendritic cells resting",0
+"GSM509779","Control","GSE20346","Dendritic cells activated",0.00529815636630811
+"GSM509779","Control","GSE20346","Mast cells resting",0.00103332209921352
+"GSM509779","Control","GSE20346","Mast cells activated",0
+"GSM509779","Control","GSE20346","Eosinophils",0
+"GSM509779","Control","GSE20346","Neutrophils",0.140322327019705
+"GSM509781","Control","GSE20346","B cells naive",0
+"GSM509781","Control","GSE20346","B cells memory",0.0863969396089016
+"GSM509781","Control","GSE20346","Plasma cells",0
+"GSM509781","Control","GSE20346","T cells CD8",0.171167260653254
+"GSM509781","Control","GSE20346","T cells CD4 naive",0.0779604832343813
+"GSM509781","Control","GSE20346","T cells CD4 memory resting",0
+"GSM509781","Control","GSE20346","T cells CD4 memory activated",0.045572316769839
+"GSM509781","Control","GSE20346","T cells follicular helper",0
+"GSM509781","Control","GSE20346","T cells regulatory (Tregs)",0.0455152155107684
+"GSM509781","Control","GSE20346","T cells gamma delta",0
+"GSM509781","Control","GSE20346","NK cells resting",0.193042600911907
+"GSM509781","Control","GSE20346","NK cells activated",0
+"GSM509781","Control","GSE20346","Monocytes",0.174888216070119
+"GSM509781","Control","GSE20346","Macrophages M0",0.017332406700553
+"GSM509781","Control","GSE20346","Macrophages M1",0
+"GSM509781","Control","GSE20346","Macrophages M2",0
+"GSM509781","Control","GSE20346","Dendritic cells resting",0
+"GSM509781","Control","GSE20346","Dendritic cells activated",0.0132502679852565
+"GSM509781","Control","GSE20346","Mast cells resting",0
+"GSM509781","Control","GSE20346","Mast cells activated",0
+"GSM509781","Control","GSE20346","Eosinophils",0
+"GSM509781","Control","GSE20346","Neutrophils",0.174874292555021
+"GSM509783","Control","GSE20346","B cells naive",0
+"GSM509783","Control","GSE20346","B cells memory",0.0422665638978706
+"GSM509783","Control","GSE20346","Plasma cells",0
+"GSM509783","Control","GSE20346","T cells CD8",0.140488227344235
+"GSM509783","Control","GSE20346","T cells CD4 naive",0.0642251324904801
+"GSM509783","Control","GSE20346","T cells CD4 memory resting",0
+"GSM509783","Control","GSE20346","T cells CD4 memory activated",0.00496605459111824
+"GSM509783","Control","GSE20346","T cells follicular helper",0
+"GSM509783","Control","GSE20346","T cells regulatory (Tregs)",0.0302721726288148
+"GSM509783","Control","GSE20346","T cells gamma delta",0
+"GSM509783","Control","GSE20346","NK cells resting",0.186606266543998
+"GSM509783","Control","GSE20346","NK cells activated",0
+"GSM509783","Control","GSE20346","Monocytes",0.151876049190819
+"GSM509783","Control","GSE20346","Macrophages M0",0
+"GSM509783","Control","GSE20346","Macrophages M1",0
+"GSM509783","Control","GSE20346","Macrophages M2",0.000688046194298328
+"GSM509783","Control","GSE20346","Dendritic cells resting",0
+"GSM509783","Control","GSE20346","Dendritic cells activated",0.00181263613192922
+"GSM509783","Control","GSE20346","Mast cells resting",0.0147158582256323
+"GSM509783","Control","GSE20346","Mast cells activated",0
+"GSM509783","Control","GSE20346","Eosinophils",0
+"GSM509783","Control","GSE20346","Neutrophils",0.362082992760805
+"GSM509785","Control","GSE20346","B cells naive",0
+"GSM509785","Control","GSE20346","B cells memory",0.0653957019205454
+"GSM509785","Control","GSE20346","Plasma cells",0
+"GSM509785","Control","GSE20346","T cells CD8",0.07269905654977
+"GSM509785","Control","GSE20346","T cells CD4 naive",0.0760450060103326
+"GSM509785","Control","GSE20346","T cells CD4 memory resting",0.0457323881200664
+"GSM509785","Control","GSE20346","T cells CD4 memory activated",0.00741563362033515
+"GSM509785","Control","GSE20346","T cells follicular helper",0
+"GSM509785","Control","GSE20346","T cells regulatory (Tregs)",0.0455144126945128
+"GSM509785","Control","GSE20346","T cells gamma delta",0
+"GSM509785","Control","GSE20346","NK cells resting",0.170825388191392
+"GSM509785","Control","GSE20346","NK cells activated",0
+"GSM509785","Control","GSE20346","Monocytes",0.172087969749473
+"GSM509785","Control","GSE20346","Macrophages M0",0.00534963256023084
+"GSM509785","Control","GSE20346","Macrophages M1",0
+"GSM509785","Control","GSE20346","Macrophages M2",0
+"GSM509785","Control","GSE20346","Dendritic cells resting",0
+"GSM509785","Control","GSE20346","Dendritic cells activated",0.00492222578104644
+"GSM509785","Control","GSE20346","Mast cells resting",0.0235635119417007
+"GSM509785","Control","GSE20346","Mast cells activated",0
+"GSM509785","Control","GSE20346","Eosinophils",0
+"GSM509785","Control","GSE20346","Neutrophils",0.310449072860594

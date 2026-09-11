@@ -1,0 +1,57 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+3C1lPZ,J10_PNEUMOBACT,Bacterial pneumoniae,g_Coprococcus2,MR Egger,11.2244146791863,9,0.26063962544931
+3C1lPZ,J10_PNEUMOBACT,Bacterial pneumoniae,g_Coprococcus2,Inverse variance weighted,13.3030696547392,10,0.20721700972468
+bbcEp8,J10_PNEUMOBACT,Bacterial pneumoniae,g_Butyrivibrio,MR Egger,10.3033549415498,14,0.73968548022832
+bbcEp8,J10_PNEUMOBACT,Bacterial pneumoniae,g_Butyrivibrio,Inverse variance weighted,11.0089414357381,15,0.751960269630289
+BCwVGo,J10_PNEUMOBACT,Bacterial pneumoniae,g_Subdoligranulum,MR Egger,13.3026613235694,11,0.274004756050874
+BCwVGo,J10_PNEUMOBACT,Bacterial pneumoniae,g_Subdoligranulum,Inverse variance weighted,13.8166069777121,12,0.312572489167435
+Bt0ck0,J10_PNEUMOBACT,Bacterial pneumoniae,g_Roseburia,MR Egger,16.9985297699492,15,0.318952303648861
+Bt0ck0,J10_PNEUMOBACT,Bacterial pneumoniae,g_Roseburia,Inverse variance weighted,19.0329885458743,16,0.266956209117496
+El0EYI,J10_PNEUMOBACT,Bacterial pneumoniae,p_Firmicutes,MR Egger,18.7837987001835,16,0.280033979368945
+El0EYI,J10_PNEUMOBACT,Bacterial pneumoniae,p_Firmicutes,Inverse variance weighted,19.056909845642,17,0.325275389208642
+GCST90011328,J10_PNEUMOBACT,Bacterial pneumoniae,G_Clostridium_XlVa abundance,MR Egger,2.67944547483166,5,0.749260321131241
+GCST90011328,J10_PNEUMOBACT,Bacterial pneumoniae,G_Clostridium_XlVa abundance,Inverse variance weighted,3.43177718319674,6,0.753023209724628
+GCST90011329,J10_PNEUMOBACT,Bacterial pneumoniae,G_Coprococcus abundance,MR Egger,8.4130584541085,12,0.752075901163351
+GCST90011329,J10_PNEUMOBACT,Bacterial pneumoniae,G_Coprococcus abundance,Inverse variance weighted,8.91657637736209,13,0.779214552045679
+GCST90011336,J10_PNEUMOBACT,Bacterial pneumoniae,G_Paraprevotella abundance,MR Egger,26.9120930336043,13,0.0127904744929705
+GCST90011336,J10_PNEUMOBACT,Bacterial pneumoniae,G_Paraprevotella abundance,Inverse variance weighted,27.0968214485902,14,0.0187030614172059
+GCST90011342,J10_PNEUMOBACT,Bacterial pneumoniae,G_Roseburia abundance,MR Egger,12.4701091298902,10,0.254824587311938
+GCST90011342,J10_PNEUMOBACT,Bacterial pneumoniae,G_Roseburia abundance,Inverse variance weighted,12.4706615189954,11,0.32932388464222
+GCST90011346,J10_PNEUMOBACT,Bacterial pneumoniae,G_Subdoligranulum abundance,MR Egger,10.9093034148762,9,0.281977021034393
+GCST90011346,J10_PNEUMOBACT,Bacterial pneumoniae,G_Subdoligranulum abundance,Inverse variance weighted,10.9709824170225,10,0.359783213148293
+GCST90011481,J10_PNEUMOBACT,Bacterial pneumoniae,P_Actinobacteria abundance,MR Egger,8.31023413,14,0.87254544763009
+GCST90011481,J10_PNEUMOBACT,Bacterial pneumoniae,P_Actinobacteria abundance,Inverse variance weighted,8.31133303657299,15,0.910695201807631
+GCST90011483,J10_PNEUMOBACT,Bacterial pneumoniae,P_Firmicutes abundance,MR Egger,4.59549594008098,6,0.596636117219685
+GCST90011483,J10_PNEUMOBACT,Bacterial pneumoniae,P_Firmicutes abundance,Inverse variance weighted,5.32151816353674,7,0.620790077138963
+GCST90032323,J10_PNEUMOBACT,Bacterial pneumoniae,Clostridium I abundance in stool,MR Egger,4.90030838984658,11,0.935898187138902
+GCST90032323,J10_PNEUMOBACT,Bacterial pneumoniae,Clostridium I abundance in stool,Inverse variance weighted,5.20336112301628,12,0.950839164730407
+GCST90032326,J10_PNEUMOBACT,Bacterial pneumoniae,Clostridium P abundance in stool,MR Egger,21.9748579436263,22,0.461390262227547
+GCST90032326,J10_PNEUMOBACT,Bacterial pneumoniae,Clostridium P abundance in stool,Inverse variance weighted,21.9780238919289,23,0.521578827921485
+GCST90032396,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes A abundance in stool,MR Egger,14.1589476027097,17,0.655820424281214
+GCST90032396,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes A abundance in stool,Inverse variance weighted,14.180819355811,18,0.717230066122325
+GCST90032397,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes E abundance in stool,MR Egger,18.1612400475099,18,0.445079018878899
+GCST90032397,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes E abundance in stool,Inverse variance weighted,18.2668841645506,19,0.504682157311139
+GCST90032398,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes I abundance in stool,MR Egger,9.39292246452366,21,0.985770184561507
+GCST90032398,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes I abundance in stool,Inverse variance weighted,9.89087653877394,22,0.987267392007538
+gD4onr,J10_PNEUMOBACT,Bacterial pneumoniae,g_Coprococcus3,MR Egger,10.0237693920531,8,0.263361578079964
+gD4onr,J10_PNEUMOBACT,Bacterial pneumoniae,g_Coprococcus3,Inverse variance weighted,14.7594765493809,9,0.0977581764994382
+hECb1U,J10_PNEUMOBACT,Bacterial pneumoniae,g_Clostridiumsensustricto1,MR Egger,6.1180556373947,7,0.526034329273297
+hECb1U,J10_PNEUMOBACT,Bacterial pneumoniae,g_Clostridiumsensustricto1,Inverse variance weighted,6.72414564180213,8,0.566666593287154
+L9wcrw,J10_PNEUMOBACT,Bacterial pneumoniae,g_Anaerostipes,MR Egger,11.2453368074988,13,0.590273261724087
+L9wcrw,J10_PNEUMOBACT,Bacterial pneumoniae,g_Anaerostipes,Inverse variance weighted,11.3321812547185,14,0.659765956001236
+mLW8Jk,J10_PNEUMOBACT,Bacterial pneumoniae,g_Coprococcus1,MR Egger,12.3867255810071,12,0.415142038895907
+mLW8Jk,J10_PNEUMOBACT,Bacterial pneumoniae,g_Coprococcus1,Inverse variance weighted,12.8022919926475,13,0.463196679027975
+MqunR6,J10_PNEUMOBACT,Bacterial pneumoniae,g_Paraprevotella,MR Egger,6.02511830594913,11,0.871683033857281
+MqunR6,J10_PNEUMOBACT,Bacterial pneumoniae,g_Paraprevotella,Inverse variance weighted,7.37637381859856,12,0.831772506740127
+NINZE8,J10_PNEUMOBACT,Bacterial pneumoniae,g_Escherichia_Shigella,MR Egger,2.95570771150471,13,0.998089303173851
+NINZE8,J10_PNEUMOBACT,Bacterial pneumoniae,g_Escherichia_Shigella,Inverse variance weighted,4.25424703631296,14,0.993732166223109
+Oykj5Q,J10_PNEUMOBACT,Bacterial pneumoniae,g_Eisenbergiella,MR Egger,18.4219127124158,10,0.0482501607937328
+Oykj5Q,J10_PNEUMOBACT,Bacterial pneumoniae,g_Eisenbergiella,Inverse variance weighted,26.0110666641185,11,0.00646535534330838
+PuRhZ5,J10_PNEUMOBACT,Bacterial pneumoniae,p_Actinobacteria,MR Egger,18.2378937551131,15,0.250365414255378
+PuRhZ5,J10_PNEUMOBACT,Bacterial pneumoniae,p_Actinobacteria,Inverse variance weighted,18.2753066023025,16,0.308023888729574
+QvK04c,J10_PNEUMOBACT,Bacterial pneumoniae,g_Lachnoclostridium,MR Egger,22.1896678199353,12,0.0354482612752451
+QvK04c,J10_PNEUMOBACT,Bacterial pneumoniae,g_Lachnoclostridium,Inverse variance weighted,22.2065061986155,13,0.052243552319647
+Ss8cmW,J10_PNEUMOBACT,Bacterial pneumoniae,g_Clostridiuminnocuumgroup,MR Egger,17.7860293380075,9,0.0377387100059638
+Ss8cmW,J10_PNEUMOBACT,Bacterial pneumoniae,g_Clostridiuminnocuumgroup,Inverse variance weighted,18.4024372648521,10,0.0485428414842625
+Wc2kVO,J10_PNEUMOBACT,Bacterial pneumoniae,g_Dorea,MR Egger,20.6165290159333,11,0.0375686581757675
+Wc2kVO,J10_PNEUMOBACT,Bacterial pneumoniae,g_Dorea,Inverse variance weighted,21.2753821901049,12,0.0464904390422095

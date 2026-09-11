@@ -1,0 +1,76 @@
+﻿name	type	type_name	degree
+Bacterial pneumonia	0	Disease	30
+HQQD	1	Formula	37
+Metabolite	2	Metabolite_Source	5
+2,4,6-Trihydroxyacetophenone	3	Ingredient	3
+2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one	3	Ingredient	10
+2-Amino-1,3,4-octadecanetriol	3	Ingredient	3
+3,5-Dimethoxybenzoic acid	3	Ingredient	7
+4',7-Dihydroxyflavanone	3	Ingredient	9
+4-Hydroxybenzaldehyde	3	Ingredient	3
+4-Hydroxybenzoic acid	3	Ingredient	3
+5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone	3	Ingredient	10
+5,7-dihydroxy-2-phenyl-4H-chromen-4-one	3	Ingredient	10
+5-Hydroxymethyl-2-furaldehyde	3	Ingredient	2
+7,8-dimethoxy-11-methyl-17,19-dioxa-11-azatetracyclo[12.7.0.04,9.016,20]henicosa-1(21),4(9),5,7,14,16(20)-hexaen-2-one	3	Ingredient	4
+Apigenin	3	Ingredient	10
+Azelaic acid	3	Ingredient	5
+Berberine	3	Ingredient	6
+Biochanin A	3	Ingredient	3
+D-(+)-Proline	3	Ingredient	3
+D-(+)-Tryptophan	3	Ingredient	4
+Daidzein	3	Ingredient	4
+Formononetin	3	Ingredient	3
+Gallic acid	3	Ingredient	3
+Glycitein	3	Ingredient	3
+Hesperetin	3	Ingredient	8
+Isoliquiritigenin	3	Ingredient	3
+L-Phenylalanine	3	Ingredient	4
+L-Tyrosine	3	Ingredient	4
+Methoxsalen	3	Ingredient	3
+Naringenin chalcone	3	Ingredient	5
+Nobiletin	3	Ingredient	3
+Oxymatrine	3	Ingredient	6
+Pelargonidin	3	Ingredient	10
+Phloroglucinol	3	Ingredient	4
+Psoralen	3	Ingredient	3
+Pyrogallol	3	Ingredient	4
+Scoparone	3	Ingredient	10
+Sinapine	3	Ingredient	6
+Tangeritin	3	Ingredient	9
+Vanillin	3	Ingredient	5
+12,13-DiHODE	4	Metabolite	12
+8-Amino-7-oxononanoate	4	Metabolite	13
+N-Oleoyl Alanine	4	Metabolite	11
+PE(P-18:0/18:1(12Z)-2OH(9,10))	4	Metabolite	9
+Thyroxine	4	Metabolite	14
+ADAM17	5	Target	5
+AKR1B1	5	Target	19
+AKT1	5	Target	7
+ANPEP	5	Target	5
+APEX1	5	Target	8
+BCHE	5	Target	10
+BCL2	5	Target	4
+CA1	5	Target	28
+CA9	5	Target	25
+CASP1	5	Target	3
+CDC25B	5	Target	5
+CES1	5	Target	8
+CTSD	5	Target	3
+EPHX2	5	Target	5
+F2	5	Target	11
+FUCA1	5	Target	4
+FYN	5	Target	7
+GPBAR1	5	Target	5
+GSTP1	5	Target	3
+LCK	5	Target	9
+MAPK14	5	Target	4
+MME	5	Target	5
+MMP8	5	Target	5
+MMP9	5	Target	12
+PGR	5	Target	5
+PPARG	5	Target	9
+PTGER4	5	Target	4
+PTGS2	5	Target	14
+PTPRC	5	Target	5
+SIRT1	5	Target	5

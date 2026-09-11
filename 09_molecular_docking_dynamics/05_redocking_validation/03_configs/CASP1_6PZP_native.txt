@@ -1,0 +1,12 @@
+receptor = .\03_receptor_preparation\04_receptor_pdbqt\CASP1_6PZP.pdbqt
+ligand = .\05_redocking_validation\02_native_pdbqt\CASP1_6PZP_native.pdbqt
+center_x = -1.179
+center_y = -32.77
+center_z = 7.854
+size_x = 25.377
+size_y = 31.279
+size_z = 27.775
+exhaustiveness = 10
+num_modes = 9
+seed = 2026062199
+

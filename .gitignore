@@ -1,0 +1,40 @@
+# Generated outputs
+results/
+figures/
+logs/
+tmp/
+cache/
+
+# Large primary data and trajectories
+*.raw
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.cram
+*.fcs
+*.xtc
+*.trr
+*.tpr
+*.cpt
+*.edr
+
+# Proprietary or binary project files
+*.ai
+*.psd
+*.cys
+*.cdResult
+*.dll
+*.exe
+
+# Local environments and caches
+.Rhistory
+.RData
+.Renviron
+renv/library/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+Thumbs.db

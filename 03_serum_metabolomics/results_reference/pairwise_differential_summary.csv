@@ -1,0 +1,7 @@
+"Comparison","Rows","NEG_rows","POS_rows","NEG_VIP_required","POS_VIP_required"
+"Control_vs_HQQD",238,115,123,TRUE,TRUE
+"Control_vs_LVX",276,147,129,TRUE,TRUE
+"Control_vs_Model",297,91,206,TRUE,TRUE
+"LVX_vs_HQQD",208,100,108,TRUE,TRUE
+"Model_vs_HQQD",135,73,62,FALSE,FALSE
+"Model_vs_LVX",250,108,142,TRUE,TRUE

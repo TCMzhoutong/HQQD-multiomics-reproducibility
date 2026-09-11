@@ -1,0 +1,3 @@
+"Analysis","Variable","Endpoint_Type","Recommended_Test","P_global","Normality_All_Groups","Min_N","Max_N","Plot_Type","Notes","P_global_adjust_method","Significant_global"
+"02_lung_pathology","Lung Bacterial Load (log10 CFU)","continuous_log10_cfu","Kruskal-Wallis + pairwise median test vs Model",0.000310660070156426,FALSE,4,6,"scatter plot with median and 95% CI","Normality not established; thesis-style nonparametric workflow","none; one global test per endpoint",TRUE
+"02_lung_pathology","Lung Pathology Score","ordinal_score","Kruskal-Wallis + pairwise median test vs Model",0.000414549341438002,FALSE,5,6,"scatter plot with median and 95% CI","Normality not established; thesis-style nonparametric workflow","none; one global test per endpoint",TRUE

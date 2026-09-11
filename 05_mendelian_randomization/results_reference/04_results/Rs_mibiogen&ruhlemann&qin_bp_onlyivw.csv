@@ -1,0 +1,29 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,fdr
+3C1lPZ,J10_PNEUMOBACT,Bacterial pneumoniae,g_Coprococcus2,Inverse variance weighted (multiplicative random effects),11,-0.0184662506355257,0.055326749763941,0.738555286763565,0.964655523797553
+bbcEp8,J10_PNEUMOBACT,Bacterial pneumoniae,g_Butyrivibrio,Inverse variance weighted (multiplicative random effects),16,-0.0194158009388674,0.0187733360211207,0.301032296622643,0.936544922825999
+BCwVGo,J10_PNEUMOBACT,Bacterial pneumoniae,g_Subdoligranulum,Inverse variance weighted (multiplicative random effects),13,0.0722880733245682,0.055465655441482,0.192474301780205,0.858829861051667
+Bt0ck0,J10_PNEUMOBACT,Bacterial pneumoniae,g_Roseburia,Inverse variance weighted (multiplicative random effects),17,0.00233249008255296,0.052637615557419,0.964655523797553,0.964655523797553
+El0EYI,J10_PNEUMOBACT,Bacterial pneumoniae,p_Firmicutes,Inverse variance weighted (multiplicative random effects),18,0.00724441111790069,0.0475796441396659,0.878982958114286,0.964655523797553
+GCST90011328,J10_PNEUMOBACT,Bacterial pneumoniae,G_Clostridium_XlVa abundance,Inverse variance weighted (multiplicative random effects),7,-0.0458063033048781,0.0370685279055826,0.216562841225969,0.858829861051667
+GCST90011329,J10_PNEUMOBACT,Bacterial pneumoniae,G_Coprococcus abundance,Inverse variance weighted (multiplicative random effects),14,0.00154426977677222,0.0258537863215037,0.952369965601478,0.964655523797553
+GCST90011336,J10_PNEUMOBACT,Bacterial pneumoniae,G_Paraprevotella abundance,Inverse variance weighted (multiplicative random effects),15,-0.00633641734663069,0.0259555574931966,0.807133507525846,0.964655523797553
+GCST90011342,J10_PNEUMOBACT,Bacterial pneumoniae,G_Roseburia abundance,Inverse variance weighted (multiplicative random effects),12,0.00728257946515433,0.0383636444864091,0.849442166297922,0.964655523797553
+GCST90011346,J10_PNEUMOBACT,Bacterial pneumoniae,G_Subdoligranulum abundance,Inverse variance weighted (multiplicative random effects),11,0.0538547477882695,0.0422254551961622,0.202164328789507,0.858829861051667
+GCST90011481,J10_PNEUMOBACT,Bacterial pneumoniae,P_Actinobacteria abundance,Inverse variance weighted (multiplicative random effects),16,0.0032663771231913,0.0215355395565555,0.87944422249858,0.964655523797553
+GCST90011483,J10_PNEUMOBACT,Bacterial pneumoniae,P_Firmicutes abundance,Inverse variance weighted (multiplicative random effects),8,0.0448531271105789,0.0386117551450493,0.245379960300476,0.858829861051667
+GCST90032323,J10_PNEUMOBACT,Bacterial pneumoniae,Clostridium I abundance in stool,Inverse variance weighted (multiplicative random effects),13,0.0923864331560929,0.0730974355970257,0.206272874173461,0.858829861051667
+GCST90032326,J10_PNEUMOBACT,Bacterial pneumoniae,Clostridium P abundance in stool,Inverse variance weighted (multiplicative random effects),24,0.00503104387673557,0.0621543457650672,0.935486199745749,0.964655523797553
+GCST90032396,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes A abundance in stool,Inverse variance weighted (multiplicative random effects),19,-0.359409187109011,0.133099789800552,0.00692772500298549,0.193976300083594
+GCST90032397,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes E abundance in stool,Inverse variance weighted (multiplicative random effects),20,0.0436993131028297,0.156015070303806,0.77940328319193,0.964655523797553
+GCST90032398,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes I abundance in stool,Inverse variance weighted (multiplicative random effects),23,-0.548540499400205,0.223141477996452,0.0139610786183803,0.195455100657324
+gD4onr,J10_PNEUMOBACT,Bacterial pneumoniae,g_Coprococcus3,Inverse variance weighted (multiplicative random effects),10,0.0976139689557503,0.080140748230599,0.223211940125691,0.858829861051667
+hECb1U,J10_PNEUMOBACT,Bacterial pneumoniae,g_Clostridiumsensustricto1,Inverse variance weighted (multiplicative random effects),9,-0.013864764397029,0.0494784204489645,0.779309941725018,0.964655523797553
+L9wcrw,J10_PNEUMOBACT,Bacterial pneumoniae,g_Anaerostipes,Inverse variance weighted (multiplicative random effects),15,-0.016761103406773,0.0462074550191512,0.716802169209031,0.964655523797553
+mLW8Jk,J10_PNEUMOBACT,Bacterial pneumoniae,g_Coprococcus1,Inverse variance weighted (multiplicative random effects),14,0.0042188514471303,0.0482913456770282,0.930383396442078,0.964655523797553
+MqunR6,J10_PNEUMOBACT,Bacterial pneumoniae,g_Paraprevotella,Inverse variance weighted (multiplicative random effects),13,-0.0142238616252872,0.0258120710994967,0.581596216781425,0.964655523797553
+NINZE8,J10_PNEUMOBACT,Bacterial pneumoniae,g_Escherichia_Shigella,Inverse variance weighted (multiplicative random effects),15,-0.0020147452417001,0.0239860536005704,0.933059191645009,0.964655523797553
+Oykj5Q,J10_PNEUMOBACT,Bacterial pneumoniae,g_Eisenbergiella,Inverse variance weighted (multiplicative random effects),12,-0.0113381161603354,0.0495351294247668,0.818954093228828,0.964655523797553
+PuRhZ5,J10_PNEUMOBACT,Bacterial pneumoniae,p_Actinobacteria,Inverse variance weighted (multiplicative random effects),17,0.00439453020944756,0.0511020983859134,0.931470310120617,0.964655523797553
+QvK04c,J10_PNEUMOBACT,Bacterial pneumoniae,g_Lachnoclostridium,Inverse variance weighted (multiplicative random effects),14,0.0258365538558221,0.0680727184356758,0.704284351146642,0.964655523797553
+Ss8cmW,J10_PNEUMOBACT,Bacterial pneumoniae,g_Clostridiuminnocuumgroup,Inverse variance weighted (multiplicative random effects),11,-0.0177787533795685,0.0387482393456087,0.646358126752094,0.964655523797553
+Wc2kVO,J10_PNEUMOBACT,Bacterial pneumoniae,g_Dorea,Inverse variance weighted (multiplicative random effects),13,0.0385530396021364,0.0688401556720708,0.57545414766156,0.964655523797553

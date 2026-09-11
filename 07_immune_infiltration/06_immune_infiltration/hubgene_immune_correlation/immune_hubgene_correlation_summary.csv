@@ -1,0 +1,15 @@
+"Metric","Value"
+"Hub genes requested",9
+"Hub genes found",9
+"Hub genes missing",0
+"Immune cell types",22
+"Total comparisons",198
+"Significant (p < 0.05)",69
+"Significant (p < 0.01)",52
+"Significant (p < 0.001)",42
+"Positive correlations",68
+"Negative correlations",94
+"Mean correlation (all)",-0.02
+"Mean correlation (significant)",0.004
+"Max positive correlation",0.782
+"Max negative correlation",-0.792

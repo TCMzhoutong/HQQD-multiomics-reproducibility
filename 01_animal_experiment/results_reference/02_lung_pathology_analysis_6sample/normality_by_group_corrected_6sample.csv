@@ -1,0 +1,13 @@
+"Analysis","Variable","Group","N","Shapiro_P"
+"02_lung_pathology","Lung Bacterial Load (log10 CFU)","Control",4,0.00712128629216022
+"02_lung_pathology","Lung Bacterial Load (log10 CFU)","Model",5,0.781083429460341
+"02_lung_pathology","Lung Bacterial Load (log10 CFU)","LVX",6,0.0197868967279056
+"02_lung_pathology","Lung Bacterial Load (log10 CFU)","HQQD-L",5,0.0267203957981029
+"02_lung_pathology","Lung Bacterial Load (log10 CFU)","HQQD-M",5,0.878962057804157
+"02_lung_pathology","Lung Bacterial Load (log10 CFU)","HQQD-H",5,0.892220061660588
+"02_lung_pathology","Lung Pathology Score","Control",6,2.07292443849816e-05
+"02_lung_pathology","Lung Pathology Score","Model",6,0.157538642036152
+"02_lung_pathology","Lung Pathology Score","LVX",6,0.156102430012423
+"02_lung_pathology","Lung Pathology Score","HQQD-L",5,0.421149656082093
+"02_lung_pathology","Lung Pathology Score","HQQD-M",6,0.0721078206715061
+"02_lung_pathology","Lung Pathology Score","HQQD-H",5,0.681184681779116

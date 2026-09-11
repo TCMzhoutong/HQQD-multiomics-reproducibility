@@ -1,0 +1,8 @@
+﻿item	value
+retained_metabolites	5
+shared_targets	30
+ingredient_nodes	37
+nodes_without_disease	74
+edges_without_disease	254
+nodes_with_disease	75
+edges_with_disease	284

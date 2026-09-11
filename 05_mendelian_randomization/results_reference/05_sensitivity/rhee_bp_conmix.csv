@@ -1,0 +1,4 @@
+id.exposure,id.outcome,exposure,outcome,b,se,pval,method
+jd9BgS,J10_PNEUMOBACT,isoleucine,Bacterial pneumoniae,-0.0223481297682904,0.0127551020408163,0.25234397980618,Contamination mixture
+qF47S1,J10_PNEUMOBACT,serotonin,Bacterial pneumoniae,0.0724631340439372,0.048469387755102,0.166088812830412,Contamination mixture
+uXhzUk,J10_PNEUMOBACT,thyroxine,Bacterial pneumoniae,-0.0336448602949442,0.0153061224489796,0.0987516130324933,Contamination mixture

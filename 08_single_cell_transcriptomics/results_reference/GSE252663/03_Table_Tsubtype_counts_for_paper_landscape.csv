@@ -1,0 +1,31 @@
+"T_major_paper","Infection_Status","n_cells"
+"CD4 Tn","Control",632
+"CD4 Tn","KP",724
+"CD4 Tcm","Control",256
+"CD4 Tcm","KP",447
+"CD4 Tc","Control",62
+"CD4 Tc","KP",259
+"CD8 Temra","Control",9
+"CD8 Temra","KP",710
+"CD8 Tem","Control",43
+"CD8 Tem","KP",375
+"Tgd","Control",198
+"Tgd","KP",394
+"CD8 Tn","Control",470
+"CD8 Tn","KP",552
+"CD8 Tc","Control",17
+"CD8 Tc","KP",271
+"CD4 Treg","Control",192
+"CD4 Treg","KP",729
+"CD4 Tem","Control",89
+"CD4 Tem","KP",574
+"CD8 Tcm","Control",229
+"CD8 Tcm","KP",432
+"MAIT","Control",216
+"MAIT","KP",742
+"CD4 Temra","Control",39
+"CD4 Temra","KP",387
+"CD4 Th17","Control",98
+"CD4 Th17","KP",736
+"CD4 Th1","Control",53
+"CD4 Th1","KP",715

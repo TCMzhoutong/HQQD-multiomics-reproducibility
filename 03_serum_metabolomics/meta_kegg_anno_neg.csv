@@ -1,0 +1,857 @@
+#ID,name,KEGG_annotation,KEGG_pathway_annotation
+neg_10000,Cucurbic acid,C08482,--
+neg_10013,Gentamicin C1,C07656,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_10024,Fosteabine,C21596,--
+neg_10025,Cyclohexanecarboxylic acid,C09822,Metabolic pathways(ko01100)
+neg_10026,"16alpha-Hydroxyandrost-4-ene-3,17-dione",C05140,Steroid hormone biosynthesis(ko00140)
+neg_10042,Pregnanolone,C05480,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100)
+neg_10044,Ajmalicine,C09024,Metabolic pathways(ko01100)
+neg_10054,13(S)-HpODE,C04717,Linoleic acid metabolism(ko00591);;Metabolic pathways(ko01100)
+neg_10056,"3alpha-Hydroxy-3,5-dihydromonacolin L acid",C20852,Metabolic pathways(ko01100)
+neg_10063,Gentamicin C2,C02033,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_10064,(3R)-11-cis-3-Hydroxyretinal,C18195,Phototransduction - fly(ko04745)
+neg_10070,Myriocin,C19914,--
+neg_10080,Serotonin,C00780,Tryptophan metabolism(ko00380);;Metabolic pathways(ko01100);;cAMP signaling pathway(ko04024);;Neuroactive ligand-receptor interaction(ko04080);;Axon regeneration(ko04361);;Gap junction(ko04540);;Synaptic vesicle cycle(ko04721);;Serotonergic synapse(ko04726);;Taste transduction(ko04742);;Inflammatory mediator regulation of TRP channels(ko04750);;Bile secretion(ko04976);;Chemical carcinogenesis - receptor activation(ko05207)
+neg_10082,4-Heptyloxyphenol,C14236,--
+neg_10084,20-Oxo-5-O-beta-mycaminosyltylactone,C20760,Metabolic pathways(ko01100)
+neg_10092,Palustrine,C10608,--
+neg_10107,Xanthosine,C01762,Purine metabolism(ko00230);;Caffeine metabolism(ko00232);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232);;ABC transporters(ko02010)
+neg_10111,Piperdial,C09711,--
+neg_10130,Nootkatol,C17915,--
+neg_10137,L-Glutamine,C00064,"Arginine biosynthesis(ko00220);;Purine metabolism(ko00230);;Pyrimidine metabolism(ko00240);;Alanine, aspartate and glutamate metabolism(ko00250);;D-Amino acid metabolism(ko00470);;Glyoxylate and dicarboxylate metabolism(ko00630);;Vitamin B6 metabolism(ko00750);;Nitrogen metabolism(ko00910);;Aminoacyl-tRNA biosynthesis(ko00970);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230);;Nucleotide metabolism(ko01232);;Biosynthesis of cofactors(ko01240);;ABC transporters(ko02010);;Glutamatergic synapse(ko04724);;GABAergic synapse(ko04727);;Proximal tubule bicarbonate reclamation(ko04964);;Protein digestion and absorption(ko04974);;Mineral absorption(ko04978);;Central carbon metabolism in cancer(ko05230)"
+neg_10139,(S)-DNPA,C12434,Metabolic pathways(ko01100)
+neg_10145,octanoate,C06423,Fatty acid biosynthesis(ko00061);;Lipoic acid metabolism(ko00785);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_10167,20-COOH-Leukotriene B4,C05950,Arachidonic acid metabolism(ko00590)
+neg_10213,"11beta,17alpha,21-Trihydroxy-5beta-pregnane-3,20-dione",C05471,Steroid hormone biosynthesis(ko00140)
+neg_10219,Geldanamycin,C11222,--
+neg_10243,Allopregnanolone,C13712,Steroid hormone biosynthesis(ko00140)
+neg_10256,Leukotriene D4,C05951,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100);;Neuroactive ligand-receptor interaction(ko04080);;Fc epsilon RI signaling pathway(ko04664);;Asthma(ko05310)
+neg_10295,(Z)-3-Ureidoacrylate peracid,C20231,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100)
+neg_10296,"L-Arabinono-1,4-lactone",C01114,Ascorbate and aldarate metabolism(ko00053);;Metabolic pathways(ko01100)
+neg_10383,2-n-Propyl-4-pentenoic acid,C16648,Drug metabolism - cytochrome P450(ko00982)
+neg_10405,Biochanin A,C00814,Metabolic pathways(ko01100)
+neg_10572,L-Norvaline,C01826,--
+neg_10576,Nebramine,C21259,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_10580,Brassinolide,C08814,Metabolic pathways(ko01100)
+neg_10596,Juvenile hormone III acid,C16504,Insect hormone biosynthesis(ko00981)
+neg_10605,Taurine,C00245,Primary bile acid biosynthesis(ko00120);;Taurine and hypotaurine metabolism(ko00430);;Sulfur metabolism(ko00920);;Metabolic pathways(ko01100);;ABC transporters(ko02010);;Neuroactive ligand-receptor interaction(ko04080)
+neg_10622,Etherolenic acid,C16319,alpha-Linolenic acid metabolism(ko00592)
+neg_10658,"5-(N-Methyl-4,5-dihydro-1H-pyrrol-2-yl)pyridin-2-ol",C21075,Nicotinate and nicotinamide metabolism(ko00760);;Metabolic pathways(ko01100)
+neg_10659,Cannabigerolate,C20406,Metabolic pathways(ko01100)
+neg_10705,Taurodeoxycholic acid,C05463,--
+neg_10709,Urate,C00366,Purine metabolism(ko00230);;Metabolic pathways(ko01100);;Bile secretion(ko04976)
+neg_10720,"4-Hydroxy-2,2'-bipyrrole-5-carbaldehyde",C21569,Metabolic pathways(ko01100)
+neg_10725,Parthenin,C09523,--
+neg_10730,Glycocholate,C01921,Primary bile acid biosynthesis(ko00120);;Metabolic pathways(ko01100);;Bile secretion(ko04976);;Cholesterol metabolism(ko04979)
+neg_10736,Prodigiosin,C21565,Metabolic pathways(ko01100)
+neg_10763,Cannabidiolic acid,C10784,Metabolic pathways(ko01100)
+neg_10784,Caprylic acid,C06423,Fatty acid biosynthesis(ko00061);;Lipoic acid metabolism(ko00785);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_10837,Glycocholic acid,C01921,Primary bile acid biosynthesis(ko00120);;Metabolic pathways(ko01100);;Bile secretion(ko04976);;Cholesterol metabolism(ko04979)
+neg_10846,2-(4'-Methylthio)butylmalic acid,C17218,2-Oxocarboxylic acid metabolism(ko01210)
+neg_10849,5(S)-HpETE,C05356,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100);;Serotonergic synapse(ko04726);;Ovarian steroidogenesis(ko04913)
+neg_10851,strophanthidin,C19988,--
+neg_10868,Reduced riboflavin,C01007,Riboflavin metabolism(ko00740);;Metabolic pathways(ko01100)
+neg_10882,PGD2,C00696,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100);;Neuroactive ligand-receptor interaction(ko04080);;Fc epsilon RI signaling pathway(ko04664);;Serotonergic synapse(ko04726);;African trypanosomiasis(ko05143);;Asthma(ko05310)
+neg_10890,Nebramycin factor 4,C18000,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_10919,Fenpyroximate,C11098,--
+neg_10957,Fumitremorgin B,C20630,Metabolic pathways(ko01100)
+neg_10961,5(S)-HETE,C04805,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100);;Inflammatory mediator regulation of TRP channels(ko04750)
+neg_10980,NORETHINDRONE ACETATE,C08152,--
+neg_10982,Dronabinol,C06972,Metabolic pathways(ko01100)
+neg_10983,Leukotriene B4,C02165,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100);;PPAR signaling pathway(ko03320);;Neuroactive ligand-receptor interaction(ko04080);;Serotonergic synapse(ko04726);;Inflammatory mediator regulation of TRP channels(ko04750);;Bile secretion(ko04976)
+neg_11010,Sphingosine 1-phosphate,C06124,Sphingolipid metabolism(ko00600);;Metabolic pathways(ko01100);;Calcium signaling pathway(ko04020);;Sphingolipid signaling pathway(ko04071);;Phospholipase D signaling pathway(ko04072);;Neuroactive ligand-receptor interaction(ko04080);;Apelin signaling pathway(ko04371);;Fc gamma R-mediated phagocytosis(ko04666);;Tuberculosis(ko05152)
+neg_11013,Neurosporaxanthin,C08607,Metabolic pathways(ko01100)
+neg_11029,4-Hydroxynonenal,C21642,Pathways in cancer(ko05200);;Hepatocellular carcinoma(ko05225)
+neg_11030,2(R)-HOT,C16342,alpha-Linolenic acid metabolism(ko00592)
+neg_1105,Glycerone,C00184,Glycerolipid metabolism(ko00561);;Metabolic pathways(ko01100);;Carbon metabolism(ko01200)
+neg_11054,Taurolithocholic acid 3-sulfate,C03642,Bile secretion(ko04976)
+neg_11105,"9,10-Epoxyoctadecanoic acid",C19418,"Cutin, suberine and wax biosynthesis(ko00073)"
+neg_11109,Ricinoleic acid,C08365,--
+neg_11113,Retinal,C00376,Retinol metabolism(ko00830);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;Phototransduction(ko04744);;Vitamin digestion and absorption(ko04977)
+neg_11141,3-Methyldioxyindole,C05834,Tryptophan metabolism(ko00380)
+neg_11142,3-Succinoylpyridine,C19569,Nicotinate and nicotinamide metabolism(ko00760);;Metabolism of xenobiotics by cytochrome P450(ko00980);;Metabolic pathways(ko01100);;Chemical carcinogenesis - DNA adducts(ko05204)
+neg_11152,13(S)-HODE,C14762,Linoleic acid metabolism(ko00591);;PPAR signaling pathway(ko03320)
+neg_11154,Sphinganine 1-phosphate,C01120,Sphingolipid metabolism(ko00600);;Metabolic pathways(ko01100);;Neuroactive ligand-receptor interaction(ko04080)
+neg_11166,"L-alpha-Acetyl-N,N-dinormethadol",C16662,Drug metabolism - cytochrome P450(ko00982)
+neg_11167,bufalin,C16922,--
+neg_11181,Resolvin D2,C18179,--
+neg_11182,Lathosterol,C01189,Steroid biosynthesis(ko00100);;Metabolic pathways(ko01100)
+neg_11215,9(S)-HpODE,C14827,Linoleic acid metabolism(ko00591);;Metabolic pathways(ko01100)
+neg_11226,22alpha-Hydroxy-campesterol,C15795,Metabolic pathways(ko01100)
+neg_11300,(-)-alpha-Bisabolol,C09621,Metabolic pathways(ko01100)
+neg_11304,"2,3-Dinor-8-iso prostaglandin F2alpha",C14794,Arachidonic acid metabolism(ko00590)
+neg_11305,"3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate",C04722,Primary bile acid biosynthesis(ko00120);;Metabolic pathways(ko01100)
+neg_11338,Dihydrostreptomycin 6-phosphate,C01221,Metabolic pathways(ko01100)
+neg_11355,Mifepristone,C07652,--
+neg_11359,10-Deoxymethymycin,C11994,Metabolic pathways(ko01100)
+neg_11361,Taurolithocholic acid,C02592,--
+neg_11406,"di-trans,poly-cis-Undecaprenyl diphosphate",C04574,Terpenoid backbone biosynthesis(ko00900)
+neg_11422,(9Z)-Hexadecenoic acid,C08362,Fatty acid biosynthesis(ko00061);;Metabolic pathways(ko01100)
+neg_11459,6beta-Hydroxy-17beta-estradiol,C03935,Steroid hormone biosynthesis(ko00140)
+neg_115,Nitrous oxide,C00887,Nitrogen metabolism(ko00910);;Metabolic pathways(ko01100)
+neg_11506,Galactosylsphingosine,C01747,Sphingolipid metabolism(ko00600)
+neg_11521,Ciliatocholate,C05683,Phosphonate and phosphinate metabolism(ko00440)
+neg_11528,Hexadecanedioic acid,C19615,"Cutin, suberine and wax biosynthesis(ko00073);;Metabolic pathways(ko01100)"
+neg_11535,Viomycin,C01540,--
+neg_11542,16-Hydroxyhexadecanoic acid,C18218,"Cutin, suberine and wax biosynthesis(ko00073);;Metabolic pathways(ko01100)"
+neg_11545,Desmosterol,C01802,Steroid biosynthesis(ko00100);;Metabolic pathways(ko01100)
+neg_11577,2-(5'-Methylthio)pentylmalic acid,C17222,2-Oxocarboxylic acid metabolism(ko01210)
+neg_11581,Tirofiban,C07965,--
+neg_11592,"8,9-DHET",C14773,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100);;Serotonergic synapse(ko04726)
+neg_11643,Methymycin,C11996,Metabolic pathways(ko01100)
+neg_11644,Deforolimus,C15183,--
+neg_11724,Taurolithocholate sulfate,C03642,Bile secretion(ko04976)
+neg_11748,Dihomo-gamma-linolenate,C03242,Linoleic acid metabolism(ko00591);;Biosynthesis of unsaturated fatty acids(ko01040);;Metabolic pathways(ko01100)
+neg_11751,Penitrem D,C20596,--
+neg_11760,Cytarabine,C02961,--
+neg_11831,6'-Oxo-G418,C21268,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_11836,13-OxoODE,C14765,Linoleic acid metabolism(ko00591)
+neg_11847,Dslet,C20165,--
+neg_11850,7-Deoxyloganetic alcohol,C22014,Metabolic pathways(ko01100)
+neg_11886,N-Methylmyosmine,C21154,Nicotinate and nicotinamide metabolism(ko00760);;Metabolic pathways(ko01100)
+neg_11887,Oxotremorine,C07485,--
+neg_11905,Apramycin,C01555,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_11914,"9,10-Dihydroxy-12,13-epoxyoctadecanoate",C14837,Linoleic acid metabolism(ko00591)
+neg_11916,3'-N-Debenzoyltaxol,C16524,Metabolic pathways(ko01100)
+neg_11919,Angiotensin IV,C15849,Renin-angiotensin system(ko04614)
+neg_1193,gamma-Amino-gamma-cyanobutanoate,C05715,Metabolic pathways(ko01100)
+neg_11940,Cucurbitacin C,C08795,--
+neg_11951,Maytansine,C10606,--
+neg_11972,Monacolin J acid,C20854,Metabolic pathways(ko01100)
+neg_11992,Stearolic acid,C08459,--
+neg_12046,Miglitol,C07708,--
+neg_1208,1-Phospho-alpha-D-galacturonate,C04037,Ascorbate and aldarate metabolism(ko00053);;Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;Biosynthesis of nucleotide sugars(ko01250)
+neg_12100,1-Deoxypentalenate,C20404,Metabolic pathways(ko01100)
+neg_12110,5-Oxoavermectin ''1a'' aglycone,C11978,Metabolic pathways(ko01100)
+neg_12111,Janthitrem B,C20600,--
+neg_12150,Taurochenodeoxycholate,C05465,Primary bile acid biosynthesis(ko00120);;Bile secretion(ko04976);;Cholesterol metabolism(ko04979)
+neg_12156,"3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane",C05446,Primary bile acid biosynthesis(ko00120);;Metabolic pathways(ko01100)
+neg_12161,Feruloylputrescine,C10497,Arginine and proline metabolism(ko00330);;Metabolic pathways(ko01100)
+neg_12170,Avermectin A1b monosaccharide,C11966,Metabolic pathways(ko01100)
+neg_12179,Thebaine,C06173,Metabolic pathways(ko01100)
+neg_1229,Swertiamarin,C09800,--
+neg_12290,4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol,C19574,Metabolism of xenobiotics by cytochrome P450(ko00980);;Chemical carcinogenesis - DNA adducts(ko05204)
+neg_12306,Ascaridole,C09836,--
+neg_12307,"3alpha,11beta,21-Trihydroxy-20-oxo-5beta-pregnan-18-al",C05474,Steroid hormone biosynthesis(ko00140)
+neg_12336,"14,15-Epoxyemindole SB",C20529,Metabolic pathways(ko01100)
+neg_12367,11-Deoxycortisol,C05488,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100);;Cortisol synthesis and secretion(ko04927);;Cushing syndrome(ko04934)
+neg_12391,Trypanothione disulfide,C03170,Glutathione metabolism(ko00480);;Metabolic pathways(ko01100)
+neg_12405,12-OPDA,C01226,alpha-Linolenic acid metabolism(ko00592);;Metabolic pathways(ko01100)
+neg_12439,Calcitriol,C01673,"Steroid biosynthesis(ko00100);;Metabolic pathways(ko01100);;Parathyroid hormone synthesis, secretion and action(ko04928);;Endocrine and other factor-regulated calcium reabsorption(ko04961);;Mineral absorption(ko04978);;Tuberculosis(ko05152)"
+neg_12488,9(S)-HPOT,C16321,alpha-Linolenic acid metabolism(ko00592)
+neg_12583,Hexadecanoic acid,C00249,"Fatty acid biosynthesis(ko00061);;Fatty acid elongation(ko00062);;Fatty acid degradation(ko00071);;Cutin, suberine and wax biosynthesis(ko00073);;Biosynthesis of unsaturated fatty acids(ko01040);;Metabolic pathways(ko01100);;Fatty acid metabolism(ko01212)"
+neg_12631,"11beta,21-Dihydroxy-5beta-pregnane-3,20-dione",C05475,Steroid hormone biosynthesis(ko00140)
+neg_12636,Fumitremorgin A,C20564,Metabolic pathways(ko01100)
+neg_12639,Contignasterol,C19902,--
+neg_12667,Gymnodimine,C20025,--
+neg_12704,20alpha-Hydroxycholesterol,C05500,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100)
+neg_12707,2'''-N-Acetyl-6'''-deamino-6'''-hydroxyneomycin C,C17587,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_12713,Pikromycin,C11999,Metabolic pathways(ko01100)
+neg_12718,Abietinal,C11887,Metabolic pathways(ko01100)
+neg_12829,Pelargonic acid,C01601,--
+neg_12830,"(9S,10S)-9,10-dihydroxyoctadecanoate",C15988,--
+neg_12893,Indinavir,C07051,Bile secretion(ko04976)
+neg_13082,Cucurbitacin A,C08793,--
+neg_13091,17alpha-Hydroxyprogesterone,C01176,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100);;Ovarian steroidogenesis(ko04913);;Cortisol synthesis and secretion(ko04927);;Cushing syndrome(ko04934)
+neg_13117,Succinate,C00042,"Citrate cycle (TCA cycle)(ko00020);;Oxidative phosphorylation(ko00190);;Alanine, aspartate and glutamate metabolism(ko00250);;Lysine degradation(ko00310);;Tyrosine metabolism(ko00350);;Phenylalanine metabolism(ko00360);;Pyruvate metabolism(ko00620);;Glyoxylate and dicarboxylate metabolism(ko00630);;Propanoate metabolism(ko00640);;Butanoate metabolism(ko00650);;Nicotinate and nicotinamide metabolism(ko00760);;Sulfur metabolism(ko00920);;Metabolic pathways(ko01100);;Carbon metabolism(ko01200);;cAMP signaling pathway(ko04024);;GABAergic synapse(ko04727);;Glucagon signaling pathway(ko04922);;Central carbon metabolism in cancer(ko05230)"
+neg_13119,beta-Phellandrene,C19818,--
+neg_13120,Geranic acid,C16461,--
+neg_13143,Homotrypanothione disulfide,C16568,Glutathione metabolism(ko00480)
+neg_13154,"Cyclooctat-9-ene-5,7-diol",C21978,Metabolic pathways(ko01100)
+neg_13157,Calcidiol,C01561,"Steroid biosynthesis(ko00100);;Metabolic pathways(ko01100);;Parathyroid hormone synthesis, secretion and action(ko04928);;Tuberculosis(ko05152)"
+neg_13166,16-Oxopalmitate,C19614,"Cutin, suberine and wax biosynthesis(ko00073);;Metabolic pathways(ko01100)"
+neg_13167,Ethisterone,C14487,--
+neg_13168,11-Dehydrocorticosterone,C05490,Steroid hormone biosynthesis(ko00140)
+neg_13182,"1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one",C15606,Cysteine and methionine metabolism(ko00270);;Metabolic pathways(ko01100)
+neg_13186,isopimaric acid,C09118,--
+neg_13197,"20alpha,22beta-Dihydroxycholesterol",C05501,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100)
+neg_13214,16-Hydroxypalmitate,C18218,"Cutin, suberine and wax biosynthesis(ko00073);;Metabolic pathways(ko01100)"
+neg_13248,(9Z)-Octadecenoic acid,C00712,"Fatty acid biosynthesis(ko00061);;Cutin, suberine and wax biosynthesis(ko00073);;Biosynthesis of unsaturated fatty acids(ko01040);;Longevity regulating pathway - worm(ko04212)"
+neg_13319,Plastoquinol-1,C02185,Metabolic pathways(ko01100)
+neg_13325,"6,8a-Seco-6,8a-deoxy-5-oxoavermectin ''1a'' aglycone",C11977,Metabolic pathways(ko01100)
+neg_13340,Lupinine,C10773,--
+neg_13372,Testosterone propionate,C08158,--
+neg_13439,Himbacine,C10598,--
+neg_13475,5-O-beta-D-Mycaminosyltylonolide,C12002,Metabolic pathways(ko01100)
+neg_13499,D-Xylonate,C00502,Pentose and glucuronate interconversions(ko00040);;Metabolic pathways(ko01100)
+neg_13513,Leukotriene A4,C00909,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100);;Serotonergic synapse(ko04726)
+neg_13558,Emindole SB,C20527,Metabolic pathways(ko01100)
+neg_13592,p-Coumaroylagmatine,C04498,Metabolic pathways(ko01100)
+neg_13695,(-)-alpha-Terpineol,C11393,Metabolic pathways(ko01100)
+neg_13714,Veratramine,C10829,--
+neg_13718,Erythromycin C,C06616,Metabolic pathways(ko01100)
+neg_13736,"L-Rhamnono-1,4-lactone",C02991,Fructose and mannose metabolism(ko00051);;Metabolic pathways(ko01100)
+neg_13742,2-Arachidonoylglycerol,C13856,Neuroactive ligand-receptor interaction(ko04080);;Thermogenesis(ko04714);;Retrograde endocannabinoid signaling(ko04723)
+neg_13744,"2,22-Dideoxy-3-dehydroecdysone",C16498,Insect hormone biosynthesis(ko00981)
+neg_13760,"4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol",C11508,Steroid biosynthesis(ko00100);;Metabolic pathways(ko01100)
+neg_13764,"1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphoethanolamine",C21480,Ferroptosis(ko04216)
+neg_13781,"17alpha,21-Dihydroxypregnenolone",C05487,Steroid hormone biosynthesis(ko00140)
+neg_13794,19-Oxotestosterone,C05295,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100)
+neg_13795,Deoxycholic acid,C04483,Bile secretion(ko04976)
+neg_13871,Castasterone,C15794,Metabolic pathways(ko01100)
+neg_13873,6-Deoxocastasterone,C15802,Metabolic pathways(ko01100)
+neg_13910,Octadecanoic acid,C01530,Fatty acid biosynthesis(ko00061);;Biosynthesis of unsaturated fatty acids(ko01040);;Metabolic pathways(ko01100);;Phototransduction - fly(ko04745)
+neg_13914,Ginkgolic Acid,C10794,--
+neg_13938,Cytidine,C00475,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232);;ABC transporters(ko02010)
+neg_1396,Dimethylglycine,C01026,"Glycine, serine and threonine metabolism(ko00260);;Metabolic pathways(ko01100)"
+neg_13975,"3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoate",C20199,Metabolic pathways(ko01100)
+neg_13994,3-O-alpha-Mycarosylerythronolide B,C06630,Metabolic pathways(ko01100)
+neg_14027,Undecaprenyl phosphate alpha-L-Ara4N,C16157,Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100)
+neg_1403,Ornithine,C01602,--
+neg_1405,L-Glutamate,C00025,"Arginine biosynthesis(ko00220);;Alanine, aspartate and glutamate metabolism(ko00250);;Arginine and proline metabolism(ko00330);;Histidine metabolism(ko00340);;Taurine and hypotaurine metabolism(ko00430);;D-Amino acid metabolism(ko00470);;Glutathione metabolism(ko00480);;Neomycin, kanamycin and gentamicin biosynthesis(ko00524);;Glyoxylate and dicarboxylate metabolism(ko00630);;Butanoate metabolism(ko00650);;C5-Branched dibasic acid metabolism(ko00660);;Porphyrin metabolism(ko00860);;Nitrogen metabolism(ko00910);;Aminoacyl-tRNA biosynthesis(ko00970);;Metabolic pathways(ko01100);;Carbon metabolism(ko01200);;2-Oxocarboxylic acid metabolism(ko01210);;Biosynthesis of amino acids(ko01230);;Biosynthesis of cofactors(ko01240);;ABC transporters(ko02010);;FoxO signaling pathway(ko04068);;Phospholipase D signaling pathway(ko04072);;Neuroactive ligand-receptor interaction(ko04080);;Ferroptosis(ko04216);;Gap junction(ko04540);;Circadian entrainment(ko04713);;Long-term potentiation(ko04720);;Synaptic vesicle cycle(ko04721);;Retrograde endocannabinoid signaling(ko04723);;Glutamatergic synapse(ko04724);;GABAergic synapse(ko04727);;Long-term depression(ko04730);;Taste transduction(ko04742);;Proximal tubule bicarbonate reclamation(ko04964);;Protein digestion and absorption(ko04974);;Amyotrophic lateral sclerosis(ko05014);;Huntington disease(ko05016);;Spinocerebellar ataxia(ko05017);;Pathways of neurodegeneration - multiple diseases(ko05022);;Cocaine addiction(ko05030);;Amphetamine addiction(ko05031);;Nicotine addiction(ko05033);;Alcoholism(ko05034);;Central carbon metabolism in cancer(ko05230)"
+neg_14058,Tetrahydrocorticosterone,C05476,Steroid hormone biosynthesis(ko00140)
+neg_14059,"3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al",C01301,Primary bile acid biosynthesis(ko00120);;Metabolic pathways(ko01100)
+neg_14067,Nervonic acid,C08323,Biosynthesis of unsaturated fatty acids(ko01040)
+neg_14081,Stearic acid,C01530,Fatty acid biosynthesis(ko00061);;Biosynthesis of unsaturated fatty acids(ko01040);;Metabolic pathways(ko01100);;Phototransduction - fly(ko04745)
+neg_14084,docosanedioate,C19625,"Cutin, suberine and wax biosynthesis(ko00073)"
+neg_14088,3-epi-6-deoxocathasterone,C16251,--
+neg_14095,"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate",C04742,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100);;Inflammatory mediator regulation of TRP channels(ko04750)
+neg_14096,Cyclooctatin,C21979,Metabolic pathways(ko01100)
+neg_1410,3-Dehydroquinate,C00944,"Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)"
+neg_14107,Surfactin,C12043,--
+neg_1411,D-Xylose,C00181,Pentose and glucuronate interconversions(ko00040);;Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;ABC transporters(ko02010)
+neg_1412,N-Hydroxy-L-tyrosine,C03004,Metabolic pathways(ko01100)
+neg_14187,6'-Oxogentamicin X2,C21267,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_14224,9(S)-HETE,C14779,Arachidonic acid metabolism(ko00590)
+neg_14233,Docosanedioic acid,C19625,"Cutin, suberine and wax biosynthesis(ko00073)"
+neg_14243,24-Methylenelophenol,C11522,Steroid biosynthesis(ko00100);;Metabolic pathways(ko01100)
+neg_14249,Vindoline,C01626,Metabolic pathways(ko01100)
+neg_14252,5''-Phosphoribostamycin,C18004,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_14268,Nicotinamide-beta-riboside,C03150,Nicotinate and nicotinamide metabolism(ko00760);;Metabolic pathways(ko01100);;Longevity regulating pathway - worm(ko04212)
+neg_14277,Microcystin LR,C05371,Bile secretion(ko04976)
+neg_14299,Eicosapentaenoic acid,C06428,Biosynthesis of unsaturated fatty acids(ko01040)
+neg_14306,22alpha-Hydroxy-campest-4-en-3-one,C15796,Metabolic pathways(ko01100)
+neg_14309,Oleandrin,C19987,--
+neg_14320,Torulene,C08613,Metabolic pathways(ko01100)
+neg_14332,Nalbuphine,C07251,--
+neg_1434,dGMP,C00362,Purine metabolism(ko00230);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232)
+neg_14342,gamma-Linolenic acid,C06426,Linoleic acid metabolism(ko00591);;Biosynthesis of unsaturated fatty acids(ko01040);;Metabolic pathways(ko01100)
+neg_14374,6'-Oxokanamycin C,C21252,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_14380,Pregnenolone,C01953,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100);;Ovarian steroidogenesis(ko04913);;Aldosterone synthesis and secretion(ko04925);;Cortisol synthesis and secretion(ko04927);;Cushing syndrome(ko04934)
+neg_14386,Cortol,C05482,Steroid hormone biosynthesis(ko00140)
+neg_14433,Chaps,C11321,--
+neg_14435,"(1R,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate",C05817,Ubiquinone and other terpenoid-quinone biosynthesis(ko00130);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_14459,"14alpha-Hydroxy-5beta-cholest-7-ene-3,6-dione",C16509,Insect hormone biosynthesis(ko00981)
+neg_14460,Crepenynate,C07289,Linoleic acid metabolism(ko00591)
+neg_1447,N-Acetyl-L-2-amino-6-oxopimelate,C05539,Monobactam biosynthesis(ko00261);;Lysine biosynthesis(ko00300);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)
+neg_14483,9-Fluoroprednisolone,C14484,--
+neg_14496,3-Ethylmalate,C01989,Glyoxylate and dicarboxylate metabolism(ko00630)
+neg_14499,Icosenoic acid,C16526,Biosynthesis of unsaturated fatty acids(ko01040)
+neg_14531,all-trans-Retinoyl-beta-glucuronide,C11061,Retinol metabolism(ko00830)
+neg_14575,"5,10-Methenyltetrahydrofolate",C00445,One carbon pool by folate(ko00670);;Metabolic pathways(ko01100);;Carbon metabolism(ko01200);;Biosynthesis of cofactors(ko01240)
+neg_14611,RU-0211,C13707,--
+neg_14627,2-Oxohept-3-enedioate,C03063,Tyrosine metabolism(ko00350);;Metabolic pathways(ko01100)
+neg_14634,"2,3-Dimethyl-5-phytylquinol",C15883,Ubiquinone and other terpenoid-quinone biosynthesis(ko00130);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_14668,"5,7,24(28)-Ergostatrienol",C15780,Steroid biosynthesis(ko00100);;Metabolic pathways(ko01100)
+neg_14691,3-Butyn-1-al,C06145,Butanoate metabolism(ko00650)
+neg_14694,"3alpha,7alpha-Dihydroxy-5beta-cholestane",C05452,Primary bile acid biosynthesis(ko00120);;Metabolic pathways(ko01100)
+neg_14703,"1-Octadecanoyl-2-(7Z,10Z,13Z,16Z-docosatetraenoyl)-sn-glycero-3-phosphoethanolamine",C21481,Ferroptosis(ko04216)
+neg_1471,UDP,C00015,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232);;Biosynthesis of cofactors(ko01240);;Neuroactive ligand-receptor interaction(ko04080)
+neg_14725,20alpha-Hydroxy-4-pregnen-3-one,C04042,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100)
+neg_14761,Oleoylethanolamide,C20792,cAMP signaling pathway(ko04024)
+neg_14788,"6-Geranylgeranyl-2-methylbenzene-1,4-diol",C20737,Ubiquinone and other terpenoid-quinone biosynthesis(ko00130);;Metabolic pathways(ko01100)
+neg_14816,Stearidonic acid,C16300,alpha-Linolenic acid metabolism(ko00592)
+neg_14830,delta-Tocopherol,C14151,Ubiquinone and other terpenoid-quinone biosynthesis(ko00130);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_14831,L-Metanephrine,C05588,Tyrosine metabolism(ko00350);;Metabolic pathways(ko01100)
+neg_14832,6-Deoxocathasterone,C15798,Metabolic pathways(ko01100)
+neg_14836,Dyphylline,C07819,--
+neg_14840,Hydroxyspheroidene,C15902,Metabolic pathways(ko01100)
+neg_14849,Prostaglandin J2,C05957,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100);;Serotonergic synapse(ko04726)
+neg_14868,Icosanoic acid,C06425,Biosynthesis of unsaturated fatty acids(ko01040)
+neg_14886,Urocortisol,C05472,Steroid hormone biosynthesis(ko00140)
+neg_1491,2-Aminoethylphosphonate,C03557,Phosphonate and phosphinate metabolism(ko00440);;Metabolic pathways(ko01100);;ABC transporters(ko02010)
+neg_1492,5-Aminopentanal,C12455,Lysine degradation(ko00310);;Metabolic pathways(ko01100)
+neg_1493,3-Sulfinoalanine,C00606,Cysteine and methionine metabolism(ko00270);;Taurine and hypotaurine metabolism(ko00430);;Metabolic pathways(ko01100)
+neg_14934,Gentisate aldehyde,C05585,Tyrosine metabolism(ko00350);;Metabolic pathways(ko01100)
+neg_14965,Pregnanediol,C05484,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100)
+neg_14979,aclacinomycin S,C18635,--
+neg_14996,"17alpha,20alpha-Dihydroxycholesterol",C05499,Steroid hormone biosynthesis(ko00140)
+neg_150,"Bromobenzene-2,3-oxide",C14840,Metabolism of xenobiotics by cytochrome P450(ko00980)
+neg_15023,Testololactone,C04676,Steroid hormone biosynthesis(ko00140)
+neg_15046,Hydroxytamoxifen,C05011,Drug metabolism - cytochrome P450(ko00982)
+neg_15062,Epothilone B,C12154,--
+neg_15110,Ecdysone,C00477,Insect hormone biosynthesis(ko00981);;Apoptosis - fly(ko04214)
+neg_15126,Rishitin,C09715,--
+neg_15131,6-Ethylchenodeoxycholic acid,C15636,--
+neg_15143,3-Hexaprenyl-4-hydroxy-5-methoxybenzoate,C05313,--
+neg_15144,"3,4-Dihydrospheroidene",C15895,Metabolic pathways(ko01100)
+neg_1519,Phosphoglycolic acid,C00988,Glyoxylate and dicarboxylate metabolism(ko00630);;Metabolic pathways(ko01100);;Carbon metabolism(ko01200)
+neg_15191,L-Urobilinogen,C05789,Porphyrin metabolism(ko00860)
+neg_15202,Bufotalin,C16923,--
+neg_1521,Isomaltose,C00252,Starch and sucrose metabolism(ko00500);;Metabolic pathways(ko01100)
+neg_15242,Tylosin,C01457,Metabolic pathways(ko01100)
+neg_15258,(S)-8-Oxocitronellyl enol,C22225,Metabolic pathways(ko01100)
+neg_15269,Adrenic acid,C16527,Biosynthesis of unsaturated fatty acids(ko01040);;Ferroptosis(ko04216)
+neg_15303,3-Dehydro-2-deoxyecdysone,C16497,Insect hormone biosynthesis(ko00981)
+neg_15317,Neamine,C01441,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_15318,Dihomo-gamma-linolenic acid,C03242,Linoleic acid metabolism(ko00591);;Biosynthesis of unsaturated fatty acids(ko01040);;Metabolic pathways(ko01100)
+neg_15357,"7alpha,12alpha-Dihydroxy-5beta-cholestan-3-one",C05453,Primary bile acid biosynthesis(ko00120);;Metabolic pathways(ko01100)
+neg_15373,2-Octaprenyl-6-hydroxyphenol,C05811,--
+neg_15384,Allotetrahydrodeoxycorticosterone,C13713,Steroid hormone biosynthesis(ko00140)
+neg_15416,"(3S)-3-Hydroxy-N6,N6,N6-trimethyl-L-lysine",C01259,Lysine degradation(ko00310);;Metabolic pathways(ko01100)
+neg_1543,Raffinose,C00492,Galactose metabolism(ko00052);;Metabolic pathways(ko01100);;ABC transporters(ko02010)
+neg_15438,Lactic acid,C01432,--
+neg_15464,2-O-(alpha-D-Mannosyl)-D-glycerate,C11544,Fructose and mannose metabolism(ko00051);;Metabolic pathways(ko01100)
+neg_15487,Mupirocin,C11758,--
+neg_15490,Estriol,C05141,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100)
+neg_15509,Gibberellin A12,C11857,Metabolic pathways(ko01100)
+neg_15515,Levomethadyl acetate,C08012,Drug metabolism - cytochrome P450(ko00982)
+neg_15526,"(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid",C06429,Biosynthesis of unsaturated fatty acids(ko01040)
+neg_15542,Dehydroeburicoic acid,C16950,--
+neg_1557,Maltotetraose,C02052,--
+neg_1576,Aniline,C00292,--
+neg_1583,sn-Glycerol 3-phosphate,C00093,Glycerolipid metabolism(ko00561);;Glycerophospholipid metabolism(ko00564);;Metabolic pathways(ko01100);;ABC transporters(ko02010);;Choline metabolism in cancer(ko05231)
+neg_1593,Pseudouridine,C02067,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100)
+neg_161,Phosphonoacetate,C05682,Phosphonate and phosphinate metabolism(ko00440);;Metabolic pathways(ko01100)
+neg_1651,N-Acetylornithine,C00437,Arginine biosynthesis(ko00220);;Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210);;Biosynthesis of amino acids(ko01230)
+neg_168,N-Acetyl-alpha-D-glucosamine 1-phosphate,C04501,Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_1708,2-C-Methyl-D-erythritol 4-phosphate,C11434,Terpenoid backbone biosynthesis(ko00900);;Metabolic pathways(ko01100)
+neg_175,5-Fluorodeoxyuridine diphosphate,C21750,Drug metabolism - other enzymes(ko00983)
+neg_1797,Sulfate,C00059,Purine metabolism(ko00230);;Monobactam biosynthesis(ko00261);;Cysteine and methionine metabolism(ko00270);;Sulfur metabolism(ko00920);;Metabolic pathways(ko01100);;ABC transporters(ko02010)
+neg_1806,"2-Hydroxy-2-hydropyrone-4,6-dicarboxylate",C05375,Metabolic pathways(ko01100)
+neg_1831,N6-Acetyl-L-lysine,C02727,Lysine degradation(ko00310);;Metabolic pathways(ko01100)
+neg_1834,2-epi-5-epi-Valiolone,C17691,Metabolic pathways(ko01100)
+neg_1841,Shikimate 3-phosphate,C03175,"Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)"
+neg_1844,N-(5-Phospho-D-ribosyl)anthranilate,C04302,"Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)"
+neg_1904,Aminoimidazole ribotide,C03373,Purine metabolism(ko00230);;Thiamine metabolism(ko00730);;Porphyrin metabolism(ko00860);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_1906,N-Acetylmuramic acid alpha-1-phosphate,C21027,Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_1912,5-Fluorouridine diphosphate,C21748,Drug metabolism - other enzymes(ko00983)
+neg_1913,2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate,C11038,Pyrimidine metabolism(ko00240)
+neg_1931,Glutathione disulfide,C00127,Glutathione metabolism(ko00480);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;Ferroptosis(ko04216);;Thyroid hormone synthesis(ko04918);;Chemical carcinogenesis - reactive oxygen species(ko05208);;Diabetic cardiomyopathy(ko05415)
+neg_1968,Pseudouridine 5'-phosphate,C01168,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100)
+neg_1972,dUMP,C00365,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232);;Antifolate resistance(ko01523)
+neg_1986,dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene,C21352,Polyketide sugar unit biosynthesis(ko00523)
+neg_1988,2-(alpha-Hydroxypropyl)thiamine diphosphate,C21017,Propanoate metabolism(ko00640);;Metabolic pathways(ko01100)
+neg_1992,dTDP-L-epivancosamine,C12321,Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_1995,UDP-L-Ara4FN,C16154,Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100)
+neg_1996,UDP-kanosamine,C12211,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524);;Biosynthesis of nucleotide sugars(ko01250)"
+neg_1997,"UDP-2-acetamido-4-dehydro-2,6-dideoxyglucose",C04613,Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_2026,Sulfoacetaldehyde,C00593,Taurine and hypotaurine metabolism(ko00430);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_2045,6-Thioxanthine 5'-monophosphate,C16618,Drug metabolism - other enzymes(ko00983)
+neg_2048,dUDP,C01346,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232)
+neg_2050,dIDP,C01344,Purine metabolism(ko00230);;Nucleotide metabolism(ko01232)
+neg_2061,UDP-L-Ara4N,C16153,Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_2095,Itaconyl-CoA,C00531,C5-Branched dibasic acid metabolism(ko00660);;Metabolic pathways(ko01100)
+neg_2100,Phosphonoacetaldehyde,C03167,Phosphonate and phosphinate metabolism(ko00440);;Metabolic pathways(ko01100)
+neg_2106,"2-C-Methyl-D-erythritol 2,4-cyclodiphosphate",C11453,Terpenoid backbone biosynthesis(ko00900);;Metabolic pathways(ko01100)
+neg_2122,L-Ascorbic acid,C00072,Ascorbate and aldarate metabolism(ko00053);;Glutathione metabolism(ko00480);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;HIF-1 signaling pathway(ko04066);;Vitamin digestion and absorption(ko04977)
+neg_2169,2-Furoate,C01546,Metabolic pathways(ko01100)
+neg_2173,L-Methionine,C00073,Cysteine and methionine metabolism(ko00270);;D-Amino acid metabolism(ko00470);;Aminoacyl-tRNA biosynthesis(ko00970);;Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210);;Biosynthesis of amino acids(ko01230);;Biosynthesis of cofactors(ko01240);;Antifolate resistance(ko01523);;Protein digestion and absorption(ko04974);;Mineral absorption(ko04978);;Central carbon metabolism in cancer(ko05230)
+neg_2174,Dehydroascorbate,C05422,Ascorbate and aldarate metabolism(ko00053);;Glutathione metabolism(ko00480);;Metabolic pathways(ko01100)
+neg_2176,L-beta-Ethynylserine,C22141,Metabolic pathways(ko01100)
+neg_2204,Fluazifop,C18527,--
+neg_2205,"2',3'-Cyclic CMP",C02354,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100)
+neg_2209,dCDP,C00705,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232)
+neg_2210,N-Acetylneuraminate 9-phosphate,C06241,Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_2223,Urocanate,C00785,Histidine metabolism(ko00340);;Metabolic pathways(ko01100)
+neg_2226,4-Aminoazobenzene,C19187,--
+neg_2232,Dhurrin,C05143,Metabolic pathways(ko01100)
+neg_2251,Itaconic acid,C00490,C5-Branched dibasic acid metabolism(ko00660);;Metabolic pathways(ko01100)
+neg_2260,Paramethadione,C07411,--
+neg_2267,"(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate",C20258,Monobactam biosynthesis(ko00261);;Lysine biosynthesis(ko00300);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)
+neg_2271,3-Dehydroquinic acid,C00944,"Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)"
+neg_2272,Quinate,C00296,"Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Metabolic pathways(ko01100)"
+neg_2283,L-Arogenate,C00826,"Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)"
+neg_2295,2-Methylbutyrate,C18319,Protein digestion and absorption(ko04974)
+neg_2296,Xanthurenic acid,C02470,Tryptophan metabolism(ko00380)
+neg_2299,Inosine,C00294,Purine metabolism(ko00230);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232);;ABC transporters(ko02010)
+neg_23,Trichloroethanol glucuronide,C14869,Metabolism of xenobiotics by cytochrome P450(ko00980)
+neg_2303,Sulfamethopyrazine,C12616,--
+neg_2309,Thiamine aldehyde,C05856,Thiamine metabolism(ko00730);;Metabolic pathways(ko01100)
+neg_2321,Protoviolaceinic acid,C21134,Metabolic pathways(ko01100)
+neg_2325,Violaceinic acid,C21135,Metabolic pathways(ko01100)
+neg_2326,(R)-S-Lactoylglutathione,C03451,Pyruvate metabolism(ko00620);;Metabolic pathways(ko01100)
+neg_2343,Roseoflavin,C21647,Metabolic pathways(ko01100)
+neg_2345,"N6-(1,2-Dicarboxyethyl)-AMP",C03794,"Purine metabolism(ko00230);;Alanine, aspartate and glutamate metabolism(ko00250);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232);;Biosynthesis of cofactors(ko01240)"
+neg_2356,"alpha-1,5-L-Arabinotetraose",C20572,ABC transporters(ko02010)
+neg_2380,Coenzyme F420-1,C19152,Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_2381,Stachyose,C01613,Galactose metabolism(ko00052);;Metabolic pathways(ko01100)
+neg_2389,1-(5-Phosphoribosyl)imidazole-4-acetate,C04437,Histidine metabolism(ko00340)
+neg_2393,Homotrypanothione,C16567,Glutathione metabolism(ko00480)
+neg_2400,"5,6,7,8-Tetrahydromethanopterin",C01217,Folate biosynthesis(ko00790);;Metabolic pathways(ko01100);;Carbon metabolism(ko01200);;Biosynthesis of cofactors(ko01240)
+neg_2445,dTDP-4-oxo-5-C-methyl-L-rhamnose,C11460,Polyketide sugar unit biosynthesis(ko00523);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_2449,GDP-L-fucose,C00325,Fructose and mannose metabolism(ko00051);;Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_2469,N-Phospho-D-lombricine,C02855,D-Amino acid metabolism(ko00470);;Metabolic pathways(ko01100)
+neg_2474,dGTP,C00286,Purine metabolism(ko00230);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232)
+neg_2479,L-Sorbose,C00247,Fructose and mannose metabolism(ko00051);;Metabolic pathways(ko01100)
+neg_2512,"7,8-Dihydro-7,8-dihydroxykynurenate",C01249,Tryptophan metabolism(ko00380)
+neg_2524,L-Tyrosine,C00082,"Ubiquinone and other terpenoid-quinone biosynthesis(ko00130);;Monobactam biosynthesis(ko00261);;Tyrosine metabolism(ko00350);;Phenylalanine metabolism(ko00360);;Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Thiamine metabolism(ko00730);;Aminoacyl-tRNA biosynthesis(ko00970);;Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210);;Biosynthesis of amino acids(ko01230);;Biosynthesis of cofactors(ko01240);;Dopaminergic synapse(ko04728);;Melanogenesis(ko04916);;Prolactin signaling pathway(ko04917);;Protein digestion and absorption(ko04974);;Parkinson disease(ko05012);;Cocaine addiction(ko05030);;Amphetamine addiction(ko05031);;Alcoholism(ko05034);;Central carbon metabolism in cancer(ko05230)"
+neg_2528,Pretyrosine,C00826,"Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)"
+neg_253,Dimethylarsinous acid,C20300,Chemical carcinogenesis - reactive oxygen species(ko05208)
+neg_2534,S-Adenosyl-L-homocysteine,C00021,Cysteine and methionine metabolism(ko00270);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230);;Biosynthesis of cofactors(ko01240);;Chemical carcinogenesis - reactive oxygen species(ko05208)
+neg_2546,Succinic anhydride,C19524,--
+neg_2547,Methylmalonic acid,C02170,"Pyrimidine metabolism(ko00240);;Valine, leucine and isoleucine degradation(ko00280);;Propanoate metabolism(ko00640);;Metabolic pathways(ko01100)"
+neg_2554,2-(3'-Methylthio)propylmalic acid,C17214,2-Oxocarboxylic acid metabolism(ko01210)
+neg_2596,Phosphatidylserine,C02737,"Glycine, serine and threonine metabolism(ko00260);;Glycerophospholipid metabolism(ko00564);;Metabolic pathways(ko01100);;Leishmaniasis(ko05140);;Amoebiasis(ko05146);;Systemic lupus erythematosus(ko05322)"
+neg_2608,"5-(2'-Formylethyl)-4,6-dihydroxypicolinate",C05654,Tryptophan metabolism(ko00380)
+neg_2620,N2-Succinyl-L-arginine,C03296,Arginine and proline metabolism(ko00330);;Metabolic pathways(ko01100)
+neg_2627,4-Pyridoxic acid,C00847,Vitamin B6 metabolism(ko00750);;Metabolic pathways(ko01100)
+neg_2635,Thioguanine,C07648,Drug metabolism - other enzymes(ko00983)
+neg_2637,Xanthine,C00385,Purine metabolism(ko00230);;Caffeine metabolism(ko00232);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232)
+neg_2639,4-Hydroxy-1-(3-pyridinyl)-1-butanone,C19565,Metabolism of xenobiotics by cytochrome P450(ko00980);;Chemical carcinogenesis - DNA adducts(ko05204)
+neg_2661,Glutaconic acid,C02214,--
+neg_2700,3-Butyn-1-ol,C06146,Butanoate metabolism(ko00650)
+neg_2709,Pyridoxine phosphate,C00627,Vitamin B6 metabolism(ko00750);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_2710,"L-2,3-Diaminopropanoate",C03401,Metabolic pathways(ko01100)
+neg_2724,Estradiol-17beta 3-sulfate,C08357,Steroid hormone biosynthesis(ko00140);;Bile secretion(ko04976)
+neg_2725,Indolylmethyl-desulfoglucosinolate,C16517,Tryptophan metabolism(ko00380);;Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210)
+neg_2727,1'-Hydroxyversicolorone,C20503,Metabolic pathways(ko01100)
+neg_2728,"7,8-Didemethyl-8-hydroxy-5-deazariboflavin",C19154,Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_2729,4'-DEMETHYLEPIPODOPHYLLOTOXIN,C21185,--
+neg_2730,Versiconal hemiacetal acetate,C20505,Metabolic pathways(ko01100)
+neg_2731,"2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate",C04479,Phenylalanine metabolism(ko00360);;Metabolic pathways(ko01100)
+neg_2735,Glucolesquerellin,C17250,2-Oxocarboxylic acid metabolism(ko01210)
+neg_2740,Validamycin A,C12112,Metabolic pathways(ko01100)
+neg_2745,Rutin,C05625,Metabolic pathways(ko01100)
+neg_2753,5-Hydroxy-L-tryptophan,C00643,Tryptophan metabolism(ko00380);;Metabolic pathways(ko01100);;Axon regeneration(ko04361);;Serotonergic synapse(ko04726)
+neg_2758,gamma-L-Glutamyl-L-cysteine,C00669,Glutathione metabolism(ko00480);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;Ferroptosis(ko04216)
+neg_2759,"(R)-2,3-Dihydroxy-3-methylpentanoate",C06007,"Valine, leucine and isoleucine biosynthesis(ko00290);;Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210);;Biosynthesis of amino acids(ko01230)"
+neg_279,Sucrose 6'-phosphate,C02591,Starch and sucrose metabolism(ko00500);;Metabolic pathways(ko01100)
+neg_2807,"2-Hydroxy-1,4-benzoquinone",C07103,Metabolic pathways(ko01100)
+neg_2812,5-(3-Pyridyl)-2-hydroxytetrahydrofuran,C19578,Metabolism of xenobiotics by cytochrome P450(ko00980);;Chemical carcinogenesis - DNA adducts(ko05204)
+neg_2815,"(1R,6S)-1,6-Dihydroxycyclohexa-2,4-diene-1-carboxylate",C06321,Metabolic pathways(ko01100)
+neg_2816,Butanal,C01412,Butanoate metabolism(ko00650);;Metabolic pathways(ko01100)
+neg_2822,Fagomine,C10144,--
+neg_2829,(R)-Mevalonate,C00418,Terpenoid backbone biosynthesis(ko00900);;Metabolic pathways(ko01100);;Ferroptosis(ko04216)
+neg_2833,6-Aminopenicillanate,C02954,Penicillin and cephalosporin biosynthesis(ko00311)
+neg_2836,2-Hydroxybutyric acid,C05984,Propanoate metabolism(ko00640)
+neg_2860,"7,8-Dihydroxykynurenate",C01111,Tryptophan metabolism(ko00380)
+neg_2867,alpha-Ribazole,C05775,Porphyrin metabolism(ko00860);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_2907,15(S)-HPETE,C05966,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100);;Serotonergic synapse(ko04726);;Inflammatory mediator regulation of TRP channels(ko04750);;Ovarian steroidogenesis(ko04913)
+neg_3002,"3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestane",C05454,Primary bile acid biosynthesis(ko00120);;Metabolic pathways(ko01100)
+neg_3062,Kaur-16-en-18-oic acid,C11874,Metabolic pathways(ko01100)
+neg_3066,Aldosterone,C01780,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100);;Aldosterone synthesis and secretion(ko04925);;Aldosterone-regulated sodium reabsorption(ko04960)
+neg_314,UDP-L-rhamnose,C02199,Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_315,UDP-3-ketoglucose,C12210,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524);;Biosynthesis of nucleotide sugars(ko01250)"
+neg_3155,Bis(beta-D-glucosyl) crocetin,C19868,Metabolic pathways(ko01100)
+neg_3219,Argentine,C10753,--
+neg_3239,Guanethidine,C07036,--
+neg_3262,cis-trans-Nepetalactol,C09804,Metabolic pathways(ko01100)
+neg_3312,D-Glucose,C00031,"Glycolysis / Gluconeogenesis(ko00010);;Pentose phosphate pathway(ko00030);;Galactose metabolism(ko00052);;Starch and sucrose metabolism(ko00500);;Amino sugar and nucleotide sugar metabolism(ko00520);;Neomycin, kanamycin and gentamicin biosynthesis(ko00524);;Metabolic pathways(ko01100);;ABC transporters(ko02010);;HIF-1 signaling pathway(ko04066);;FoxO signaling pathway(ko04068);;AMPK signaling pathway(ko04152);;Taste transduction(ko04742);;Insulin signaling pathway(ko04910);;Insulin secretion(ko04911);;Prolactin signaling pathway(ko04917);;Glucagon signaling pathway(ko04922);;Type II diabetes mellitus(ko04930);;Insulin resistance(ko04931);;Non-alcoholic fatty liver disease(ko04932);;AGE-RAGE signaling pathway in diabetic complications(ko04933);;Carbohydrate digestion and absorption(ko04973);;Bile secretion(ko04976);;Mineral absorption(ko04978);;Central carbon metabolism in cancer(ko05230);;Diabetic cardiomyopathy(ko05415)"
+neg_3322,Gibberellin A20,C02035,Metabolic pathways(ko01100)
+neg_3347,Secoisolariciresinol,C18167,Metabolic pathways(ko01100)
+neg_3348,21-Deoxycortisol,C05497,Steroid hormone biosynthesis(ko00140)
+neg_3539,"11,14,15-THETA",C14814,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100)
+neg_3540,Cycloeucalenone,C22121,Steroid biosynthesis(ko00100);;Metabolic pathways(ko01100)
+neg_3558,Polypropylene,C19505,--
+neg_3566,6-Hydroxytryprostatin B,C20513,Metabolic pathways(ko01100)
+neg_358,1-(5-Phospho-D-ribosyl)-ATP,C02739,Histidine metabolism(ko00340);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)
+neg_3666,(+)-Pinoresinol,C05366,Metabolic pathways(ko01100)
+neg_3684,Hydroxyspheroidenone,C15905,Metabolic pathways(ko01100)
+neg_3702,3-Methyl-2-oxobutanoic acid,C00141,"Valine, leucine and isoleucine degradation(ko00280);;Valine, leucine and isoleucine biosynthesis(ko00290);;Pantothenate and CoA biosynthesis(ko00770);;Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210);;Biosynthesis of amino acids(ko01230);;Biosynthesis of cofactors(ko01240)"
+neg_3739,"2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate",C20246,Thiamine metabolism(ko00730);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_3740,"D-Glucono-1,5-lactone 6-phosphate",C01236,Pentose phosphate pathway(ko00030);;Metabolic pathways(ko01100);;Carbon metabolism(ko01200)
+neg_3831,2-Oxo-3-hydroxy-4-phosphobutanoate,C06054,Vitamin B6 metabolism(ko00750);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_3862,Cobinamide,C05774,Porphyrin metabolism(ko00860)
+neg_3867,Nystatin,C06572,--
+neg_3869,Campestanol,C15787,Metabolic pathways(ko01100)
+neg_3891,Matairesinol,C10682,Metabolic pathways(ko01100)
+neg_4111,Methylphosphonate,C20396,Phosphonate and phosphinate metabolism(ko00440);;Metabolic pathways(ko01100)
+neg_4195,Sirolimus,C07909,Longevity regulating pathway(ko04211);;Longevity regulating pathway - worm(ko04212);;Cellular senescence(ko04218)
+neg_4402,Syringic acid,C10833,--
+neg_4405,Nicotinamide,C00153,Nicotinate and nicotinamide metabolism(ko00760);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;Longevity regulating pathway - worm(ko04212);;Vitamin digestion and absorption(ko04977)
+neg_4420,2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate,C16519,Ubiquinone and other terpenoid-quinone biosynthesis(ko00130);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_448,dTDP,C00363,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232)
+neg_4559,"(1R,2S)-Naphthalene 1,2-oxide",C14786,Metabolism of xenobiotics by cytochrome P450(ko00980)
+neg_457,dITP,C01345,Purine metabolism(ko00230);;Nucleotide metabolism(ko01232)
+neg_4577,Hymenoxon,C09482,--
+neg_4581,Secologanin,C01852,Metabolic pathways(ko01100)
+neg_4616,L-Tryptophan,C00078,"Glycine, serine and threonine metabolism(ko00260);;Tryptophan metabolism(ko00380);;Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Aminoacyl-tRNA biosynthesis(ko00970);;Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210);;Biosynthesis of amino acids(ko01230);;Biosynthesis of cofactors(ko01240);;Axon regeneration(ko04361);;Serotonergic synapse(ko04726);;Protein digestion and absorption(ko04974);;Mineral absorption(ko04978);;African trypanosomiasis(ko05143);;Central carbon metabolism in cancer(ko05230)"
+neg_4620,Xylobiose,C01630,ABC transporters(ko02010)
+neg_4622,L-Histidinol phosphate,C01100,Histidine metabolism(ko00340);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)
+neg_4637,Indole-3-acetamide,C02693,Tryptophan metabolism(ko00380);;Metabolic pathways(ko01100)
+neg_4640,5-Phosphooxy-L-lysine,C03366,Lysine degradation(ko00310);;Metabolic pathways(ko01100)
+neg_4642,5-Acetylamino-6-formylamino-3-methyluracil,C16365,Caffeine metabolism(ko00232);;Metabolic pathways(ko01100)
+neg_4653,Methotrexate,C01937,Bile secretion(ko04976)
+neg_4667,Protodeoxyviolaceinic acid,C21131,Metabolic pathways(ko01100)
+neg_4671,4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0,C21339,Metabolic pathways(ko01100)
+neg_4674,Benazeprilat,C21541,--
+neg_4675,Premithramycin A3',C12386,Metabolic pathways(ko01100)
+neg_4676,Hydroxymethylbilane,C01024,Porphyrin metabolism(ko00860);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_4678,UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine,C04738,Metabolic pathways(ko01100)
+neg_4687,Valienone 7-phosphate,C17697,Metabolic pathways(ko01100)
+neg_4691,2-Dehydro-3-deoxy-6-phospho-D-galactonate,C01286,Galactose metabolism(ko00052);;Metabolic pathways(ko01100)
+neg_4692,5'-Phosphoribosylglycinamide,C03838,Purine metabolism(ko00230);;Metabolic pathways(ko01100)
+neg_4694,Deacetoxycephalosporin C,C06565,Penicillin and cephalosporin biosynthesis(ko00311);;Metabolic pathways(ko01100)
+neg_4703,Hydroquinone,C00530,Tyrosine metabolism(ko00350);;Metabolic pathways(ko01100);;Chemical carcinogenesis - reactive oxygen species(ko05208)
+neg_4705,(S)-5-Amino-3-oxohexanoate,C03656,Lysine degradation(ko00310);;Metabolic pathways(ko01100)
+neg_4706,N-Formylmethionine,C03145,Cysteine and methionine metabolism(ko00270)
+neg_4714,GDP-mannose,C00096,Fructose and mannose metabolism(ko00051);;Ascorbate and aldarate metabolism(ko00053);;N-Glycan biosynthesis(ko00510);;Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;Biosynthesis of nucleotide sugars(ko01250)
+neg_4716,UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine,C06022,Metabolic pathways(ko01100)
+neg_4729,Graveoline,C10689,--
+neg_4740,GTP,C00044,Purine metabolism(ko00230);;Riboflavin metabolism(ko00740);;Folate biosynthesis(ko00790);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232);;Biosynthesis of cofactors(ko01240);;Ras signaling pathway(ko04014);;Rap1 signaling pathway(ko04015);;Sulfur relay system(ko04122);;Autophagy - animal(ko04140);;Endocytosis(ko04144)
+neg_4742,"N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate",C20562,Folate biosynthesis(ko00790);;Biosynthesis of cofactors(ko01240)
+neg_4747,Deamino-NAD+,C00857,Nicotinate and nicotinamide metabolism(ko00760);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_4761,CMP-N-trimethyl-2-aminoethylphosphonate,C05674,Phosphonate and phosphinate metabolism(ko00440);;Metabolic pathways(ko01100)
+neg_4763,Thiamin triphosphate,C03028,Thiamine metabolism(ko00730);;Metabolic pathways(ko01100)
+neg_4764,NAD+,C00003,Oxidative phosphorylation(ko00190);;Thiamine metabolism(ko00730);;Nicotinate and nicotinamide metabolism(ko00760);;Drug metabolism - other enzymes(ko00983);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;AMPK signaling pathway(ko04152);;Longevity regulating pathway(ko04211);;Longevity regulating pathway - worm(ko04212);;Aldosterone synthesis and secretion(ko04925);;Alcoholic liver disease(ko04936);;Vitamin digestion and absorption(ko04977);;Chemical carcinogenesis - reactive oxygen species(ko05208)
+neg_4769,FR 900098,C17942,Phosphonate and phosphinate metabolism(ko00440)
+neg_4776,Pantoprazole,C11806,--
+neg_4778,6-Methylthiopurine 5'-monophosphate ribonucleotide,C16615,Drug metabolism - other enzymes(ko00983)
+neg_4781,Phosphonoformyl-CMP,C17945,Phosphonate and phosphinate metabolism(ko00440)
+neg_4792,"Bis(1L-myo-inositol)-3,1'-phosphate 1-phosphate",C19799,Inositol phosphate metabolism(ko00562);;Metabolic pathways(ko01100)
+neg_4797,Ceftizoxime,C06890,Bile secretion(ko04976)
+neg_4804,S-(Indolylmethylthiohydroximoyl)-L-cysteine,C16518,Tryptophan metabolism(ko00380);;Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210)
+neg_4809,dTDP-alpha-D-fucofuranose,C20682,Polyketide sugar unit biosynthesis(ko00523);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_4811,N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide,C04916,Histidine metabolism(ko00340);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)
+neg_4812,dTDP-D-glucuronate,C06017,Polyketide sugar unit biosynthesis(ko00523)
+neg_4815,dTDP-acarviose-7-phosphate,C21208,Metabolic pathways(ko01100)
+neg_4822,4-Hydroxyphenylacetaldehyde,C03765,Tyrosine metabolism(ko00350);;Metabolic pathways(ko01100)
+neg_4823,Benzofuran,C14512,--
+neg_4834,"2-Hydroxy-6-oxo-6-(2-hydroxyphenoxy)-hexa-2,4-dienoate",C07734,Metabolic pathways(ko01100)
+neg_4847,"3D-3,5/4-Trihydroxycyclohexane-1,2-dione",C04287,Inositol phosphate metabolism(ko00562);;Metabolic pathways(ko01100)
+neg_4865,"3-(3,4-Dihydroxyphenyl)pyruvate",C04045,Tyrosine metabolism(ko00350);;Metabolic pathways(ko01100)
+neg_4874,4-Demethylpremithramycinone,C12382,Metabolic pathways(ko01100)
+neg_4895,Calicheamicin PsAg,C21340,Metabolic pathways(ko01100)
+neg_4898,N-Acetyl-L-glutamate 5-phosphate,C04133,Arginine biosynthesis(ko00220);;Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210);;Biosynthesis of amino acids(ko01230)
+neg_4902,ADP-D-glycero-beta-D-manno-heptose,C06397,Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_4904,"UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate",C19725,Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_4915,(S)-3-Sulfolactate,C11499,Cysteine and methionine metabolism(ko00270);;Metabolic pathways(ko01100)
+neg_4921,CMP-2-aminoethylphosphonate,C05673,Phosphonate and phosphinate metabolism(ko00440);;Metabolic pathways(ko01100)
+neg_4944,2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate,C11039,Pyrimidine metabolism(ko00240)
+neg_4961,Pyroglutamic acid,C01879,Glutathione metabolism(ko00480);;Metabolic pathways(ko01100)
+neg_4967,"2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine",C16038,Pathways in cancer(ko05200);;Chemical carcinogenesis - DNA adducts(ko05204);;Chemical carcinogenesis - reactive oxygen species(ko05208);;Prostate cancer(ko05215)
+neg_4974,"2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one",C01304,Riboflavin metabolism(ko00740);;Folate biosynthesis(ko00790);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_4975,FAD,C00016,Riboflavin metabolism(ko00740);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;Vitamin digestion and absorption(ko04977)
+neg_4976,3-Oxopropanoate,C00222,Pyrimidine metabolism(ko00240);;beta-Alanine metabolism(ko00410);;Inositol phosphate metabolism(ko00562);;Propanoate metabolism(ko00640);;Metabolic pathways(ko01100);;Carbon metabolism(ko01200)
+neg_4981,2-Aminophenoxazin-3-one,C02161,Tryptophan metabolism(ko00380);;Metabolic pathways(ko01100)
+neg_4987,(R)-(Indol-3-yl)lactate,C22006,Tryptophan metabolism(ko00380);;Metabolic pathways(ko01100)
+neg_4989,Dehypoxanthine futalosine,C17010,Ubiquinone and other terpenoid-quinone biosynthesis(ko00130);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_4991,dADP,C00206,Purine metabolism(ko00230);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232)
+neg_5012,Azamethiphos,C18702,--
+neg_5029,5-Methylbarbiturate,C05281,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100)
+neg_5050,Genipin,C09780,--
+neg_5053,2-(alpha-D-Mannosyl)-3-phosphoglycerate,C11516,Fructose and mannose metabolism(ko00051);;Metabolic pathways(ko01100)
+neg_5054,Sweroside,C17071,--
+neg_5056,L-Valine,C00183,"Valine, leucine and isoleucine degradation(ko00280);;Valine, leucine and isoleucine biosynthesis(ko00290);;Penicillin and cephalosporin biosynthesis(ko00311);;Pantothenate and CoA biosynthesis(ko00770);;Aminoacyl-tRNA biosynthesis(ko00970);;Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210);;Biosynthesis of amino acids(ko01230);;Biosynthesis of cofactors(ko01240);;ABC transporters(ko02010);;Protein digestion and absorption(ko04974);;Mineral absorption(ko04978);;Central carbon metabolism in cancer(ko05230)"
+neg_5060,5-Amino-6-(1-D-ribitylamino)uracil,C04732,Riboflavin metabolism(ko00740);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_5062,2-Deoxy-5-keto-D-gluconic acid 6-phosphate,C06893,Inositol phosphate metabolism(ko00562);;Metabolic pathways(ko01100)
+neg_5063,Biflorin,C08996,--
+neg_5071,Phenylpyruvic acid,C00166,"Phenylalanine metabolism(ko00360);;Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;D-Amino acid metabolism(ko00470);;Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210);;Biosynthesis of amino acids(ko01230)"
+neg_5084,"3,4-Dihydroanhydrorhodovibrin",C15886,Metabolic pathways(ko01100)
+neg_5093,Geranyl-hydroxybenzoate,C18131,Ubiquinone and other terpenoid-quinone biosynthesis(ko00130)
+neg_5096,(1'S)-Averantin,C20499,Metabolic pathways(ko01100)
+neg_5099,Glaucarubin,C08760,--
+neg_5107,4-Hydroxyphenylacetylglutamic acid,C05595,Tyrosine metabolism(ko00350)
+neg_5113,2-Methylquinolin-4-ol,C21873,Metabolic pathways(ko01100)
+neg_5116,8-Methoxykynurenate,C05830,Tryptophan metabolism(ko00380)
+neg_5118,2-Amino-2-deoxyisochorismate,C18054,Metabolic pathways(ko01100)
+neg_5126,Terazosin,C07127,--
+neg_5128,9(S)-HOT,C16326,alpha-Linolenic acid metabolism(ko00592)
+neg_5129,Trovafloxacin,C07664,--
+neg_5133,4-Oxo-1-(3-pyridyl)-1-butanone,C19567,Nicotinate and nicotinamide metabolism(ko00760);;Metabolism of xenobiotics by cytochrome P450(ko00980);;Metabolic pathways(ko01100);;Chemical carcinogenesis - DNA adducts(ko05204)
+neg_5171,L-Anticapsin,C20941,Metabolic pathways(ko01100)
+neg_5180,Furan,C14275,--
+neg_5185,Ascorbic acid,C00072,Ascorbate and aldarate metabolism(ko00053);;Glutathione metabolism(ko00480);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;HIF-1 signaling pathway(ko04066);;Vitamin digestion and absorption(ko04977)
+neg_5202,ferulic acid,C01494,Metabolic pathways(ko01100)
+neg_5219,Indoxyl,C05658,Tryptophan metabolism(ko00380)
+neg_5230,IDP,C00104,Purine metabolism(ko00230);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232)
+neg_5255,Gynocardin,C08331,--
+neg_5265,Cyclo(L-Trp-L-Phe),C22142,Metabolic pathways(ko01100)
+neg_5277,2-Oxosuberate,C16589,Metabolic pathways(ko01100);;2-Oxocarboxylic acid metabolism(ko01210);;Biosynthesis of cofactors(ko01240)
+neg_5283,5'-Phosphoribosyl-N-formylglycinamide,C04376,Purine metabolism(ko00230);;Metabolic pathways(ko01100)
+neg_5292,Acetone cyanohydrin,C02659,Metabolic pathways(ko01100)
+neg_5317,Dihydroxycarbazepine,C07495,Drug metabolism - cytochrome P450(ko00982)
+neg_5331,4-(2-Hydroxyethoxycarbonyl)benzoate,C21450,Metabolic pathways(ko01100)
+neg_5339,N-Acetylarylamine,C07565,--
+neg_5365,CTP,C00063,Pyrimidine metabolism(ko00240);;Mannose type O-glycan biosynthesis(ko00515);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232);;Biosynthesis of cofactors(ko01240)
+neg_5368,dTDP-L-megosamine,C11919,Polyketide sugar unit biosynthesis(ko00523);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_5369,"UDP-2-acetamido-2,6-dideoxy-beta-L-talose",C20768,Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_5370,"dTDP-4-amino-4,6-dideoxy-5-C-methyl-D-allose",C11461,Polyketide sugar unit biosynthesis(ko00523)
+neg_5374,Idazoxan,C10968,--
+neg_5398,Clorazepate,C06921,--
+neg_5400,Pelargonidin 3-O-glucoside,C12137,Metabolic pathways(ko01100)
+neg_5406,2-[(2-Aminoethylcarbamoyl)methyl]-2-hydroxybutanedioate,C22073,Metabolic pathways(ko01100)
+neg_5410,N-Acetyl-D-glucosamine 6-phosphate,C00357,Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_5426,Fusidic acid,C06694,--
+neg_5432,all-trans-Hexaprenyl diphosphate,C01230,Terpenoid backbone biosynthesis(ko00900)
+neg_5439,ENOXOLONE,C02283,--
+neg_5461,L-Serine-phosphoethanolamine,C03872,Glycerophospholipid metabolism(ko00564)
+neg_5465,1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide,C04677,Purine metabolism(ko00230);;Histidine metabolism(ko00340);;Metabolic pathways(ko01100);;AMPK signaling pathway(ko04152)
+neg_5468,Nogalavinone,C18631,Metabolic pathways(ko01100)
+neg_5470,"3-[(1R,2S,5R,6S)-5-Hydroxy-7-oxabicyclo[4.1.0]heptan-2-yl]-2-oxopropanoate",C21087,Metabolic pathways(ko01100)
+neg_5490,"2,3-Dihydroxybenzoic acid",C00196,--
+neg_5493,2-Propylsuccinic acid,C16657,Drug metabolism - cytochrome P450(ko00982)
+neg_5496,1-Hydroxyanthraquinone,C02980,--
+neg_5498,Sulfamethoxazole,C07315,--
+neg_5499,2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate,C04691,"Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)"
+neg_5503,"D-Ribose 1,5-bisphosphate",C01151,Pentose phosphate pathway(ko00030);;Phosphonate and phosphinate metabolism(ko00440);;Metabolic pathways(ko01100)
+neg_5539,VASICINONE,C10744,--
+neg_5591,Validoxylamine A,C17700,Metabolic pathways(ko01100)
+neg_5721,"4,5-Dioxopentanoate",C02800,Porphyrin metabolism(ko00860)
+neg_5731,Eriodictyol,C05631,Metabolic pathways(ko01100)
+neg_5891,"N6-(L-1,3-Dicarboxypropyl)-L-lysine",C00449,Lysine biosynthesis(ko00300);;Lysine degradation(ko00310);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230)
+neg_5926,N-Isopropylammelide,C06553,Metabolic pathways(ko01100)
+neg_5947,Eicosanoyl-CoA,C02041,Biosynthesis of unsaturated fatty acids(ko01040);;Fatty acid metabolism(ko01212)
+neg_5963,Cerotoyl-CoA,C21932,Biosynthesis of unsaturated fatty acids(ko01040);;Fatty acid metabolism(ko01212)
+neg_6022,Phenylacetylglycine,C05598,Phenylalanine metabolism(ko00360)
+neg_6025,Didanosine,C06953,--
+neg_6027,Stemmadenine,C11691,Metabolic pathways(ko01100)
+neg_6097,Precorrin 6X,C06320,Porphyrin metabolism(ko00860);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_6116,KAPA,C01092,Biotin metabolism(ko00780);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_6175,Morphine-6-glucuronide,C16578,Drug metabolism - cytochrome P450(ko00982);;Bile secretion(ko04976)
+neg_6183,Novobiocin,C05080,Metabolic pathways(ko01100)
+neg_6189,4-Methylthiobutylthiohydroximate,C17243,2-Oxocarboxylic acid metabolism(ko01210)
+neg_6192,D-Glucosaminate-6-phosphate,C20589,Pentose phosphate pathway(ko00030)
+neg_6195,Rutarin,C09309,--
+neg_6223,2-Hydroxypyridine,C02502,--
+neg_6257,Squalamine,C16841,--
+neg_6271,(10S)-Juvenile hormone III diol phosphate,C16507,Insect hormone biosynthesis(ko00981)
+neg_6282,Lividomycin A,C17707,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_6287,o-Cresol,C01542,Metabolic pathways(ko01100)
+neg_6288,4-Hydroxybenzaldehyde,C00633,Metabolic pathways(ko01100)
+neg_6291,5-Hydroxyferulate,C05619,Metabolic pathways(ko01100)
+neg_6308,Gentamicin A2,C17701,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_6342,3-alpha(S)-Strictosidine,C03470,Metabolic pathways(ko01100)
+neg_6346,N-Acetyl-L-leucine,C02710,--
+neg_6348,Succinate semialdehyde,C00232,"Alanine, aspartate and glutamate metabolism(ko00250);;Tyrosine metabolism(ko00350);;Butanoate metabolism(ko00650);;Vitamin B6 metabolism(ko00750);;Nicotinate and nicotinamide metabolism(ko00760);;Metabolic pathways(ko01100);;Carbon metabolism(ko01200)"
+neg_6351,"dTDP-3,4-dioxo-2,6-dideoxy-D-glucose",C06620,Polyketide sugar unit biosynthesis(ko00523);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_6366,"2',3'-Cyclic UMP",C02355,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100)
+neg_6367,5-O-Caffeoylshikimic acid,C10434,Metabolic pathways(ko01100)
+neg_6475,sn-Glycero-3-phosphoethanolamine,C01233,Glycerophospholipid metabolism(ko00564);;Ether lipid metabolism(ko00565);;Metabolic pathways(ko01100)
+neg_6486,Suberic acid,C08278,--
+neg_6512,Dialdehyde,C11678,--
+neg_6533,Isomaltotriose,C02160,ABC transporters(ko02010)
+neg_6544,Tamarixetin,C10188,--
+neg_6601,Apigenin 7-O-glucoside,C04608,--
+neg_6614,Tranexamic Acid,C12535,--
+neg_6636,(3Z)-Phycocyanobilin,C05786,Porphyrin metabolism(ko00860)
+neg_6647,"4,21-Dehydrogeissoschizine",C03677,Metabolic pathways(ko01100)
+neg_6668,N(omega)-Hydroxyarginine,C05933,Arginine and proline metabolism(ko00330);;Metabolic pathways(ko01100)
+neg_6671,5-Methoxytryptamine,C05659,Tryptophan metabolism(ko00380)
+neg_6713,Protoporphyrin,C02191,Porphyrin metabolism(ko00860);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_6717,4-Methylthiobutanaldoxime,C17241,2-Oxocarboxylic acid metabolism(ko01210)
+neg_6720,Anhydrotetracycline,C02811,Metabolic pathways(ko01100)
+neg_6732,4-Hydroxystyrene,C05627,--
+neg_6733,4-Hydroxycinnamyl aldehyde,C05608,Metabolic pathways(ko01100)
+neg_6737,"5,6,7,8-Tetrahydromonapterin",C21007,Folate biosynthesis(ko00790)
+neg_6745,(3Z)-Phytochromobilin,C05913,Porphyrin metabolism(ko00860)
+neg_6747,6'''-Deamino-6'''-hydroxyparomomycin II,C21262,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_6754,N1-Acetyl-tabtoxinine-beta-lactam,C20921,Monobactam biosynthesis(ko00261)
+neg_6836,Moxifloxacin,C07663,ABC transporters(ko02010)
+neg_6846,(Z)-3-Peroxyaminoacrylate,C20249,Pyrimidine metabolism(ko00240);;Metabolic pathways(ko01100)
+neg_6849,Ascorbate,C00072,Ascorbate and aldarate metabolism(ko00053);;Glutathione metabolism(ko00480);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;HIF-1 signaling pathway(ko04066);;Vitamin digestion and absorption(ko04977)
+neg_6852,"2,6-Dihydroxypseudooxynicotine",C15986,Nicotinate and nicotinamide metabolism(ko00760);;Metabolic pathways(ko01100)
+neg_6876,(4-{4-[2-(gamma-L-Glutamylamino)ethyl]phenoxymethyl}furan-2-yl)methanamine,C21070,Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_6888,N-Acetylindoxyl,C02298,Tryptophan metabolism(ko00380)
+neg_6921,6'-Oxokanamycin X,C21251,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_7048,9-Oxononanoic acid,C16322,alpha-Linolenic acid metabolism(ko00592)
+neg_7072,Isoniazid,C07054,Drug metabolism - other enzymes(ko00983)
+neg_7116,Umbelliferone,C09315,--
+neg_7120,Indoleacetaldehyde,C00637,Tryptophan metabolism(ko00380);;Metabolic pathways(ko01100)
+neg_7137,2-Methoxyestrone 3-glucuronide,C11132,Steroid hormone biosynthesis(ko00140)
+neg_7143,Deoxyshikonin,C18133,Ubiquinone and other terpenoid-quinone biosynthesis(ko00130)
+neg_7146,"5,7-Dihydroxyflavone",C10028,--
+neg_7151,Dihydrofolate,C00415,One carbon pool by folate(ko00670);;Folate biosynthesis(ko00790);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;Antifolate resistance(ko01523)
+neg_7161,Benomyl,C10896,--
+neg_7167,Cortolone,C05481,Steroid hormone biosynthesis(ko00140)
+neg_7168,"cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol",C11588,Phenylalanine metabolism(ko00360);;Metabolic pathways(ko01100)
+neg_7178,Red chlorophyll catabolite,C18022,Porphyrin metabolism(ko00860)
+neg_7237,6-Thioinosine-5'-monophosphate,C04646,Drug metabolism - other enzymes(ko00983)
+neg_7252,3-Dehydroshikimate,C02637,"Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Metabolic pathways(ko01100);;Biosynthesis of amino acids(ko01230);;Biosynthesis of cofactors(ko01240)"
+neg_7260,IPA imine,C21124,Metabolic pathways(ko01100)
+neg_7275,Linatine,C05939,D-Amino acid metabolism(ko00470)
+neg_7280,L-xylo-Hexulonolactone,C03289,Ascorbate and aldarate metabolism(ko00053);;Metabolic pathways(ko01100)
+neg_7282,Norlaudanosoline,C06350,--
+neg_7288,Aloin A,C10305,--
+neg_7290,RSL3,C21479,Ferroptosis(ko04216)
+neg_7293,FMN,C00061,Oxidative phosphorylation(ko00190);;Riboflavin metabolism(ko00740);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240);;Vitamin digestion and absorption(ko04977)
+neg_7294,Premithramycinone,C12383,Metabolic pathways(ko01100)
+neg_7298,5-phosphonooxy-L-lysine,C03366,Lysine degradation(ko00310);;Metabolic pathways(ko01100)
+neg_7301,Poncirin,C09830,--
+neg_7321,"dTDP-4-oxo-2,3,6-trideoxy-D-glucose",C18032,Polyketide sugar unit biosynthesis(ko00523);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_7323,9-Hydroxy-12-oxo-15(Z)-octadecenoic acid,C21924,alpha-Linolenic acid metabolism(ko00592)
+neg_7362,Didemethylcitalopram,C16609,Drug metabolism - cytochrome P450(ko00982)
+neg_7386,"(1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate",C19831,Metabolic pathways(ko01100)
+neg_7418,D-Lactic acid,C00256,Pyruvate metabolism(ko00620);;Metabolic pathways(ko01100)
+neg_7437,Staphyloferrin B,C22075,Metabolic pathways(ko01100)
+neg_7446,2-Oxo-5-methylthiopentanoic acid,C17211,2-Oxocarboxylic acid metabolism(ko01210)
+neg_7447,5-Methoxyindoleacetate,C05660,Tryptophan metabolism(ko00380)
+neg_7450,2'''-N-Acetyl-6'''-deamino-6'''-hydroxyparomomycin II,C21261,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_7456,D-Erythrose 4-phosphate,C00279,"Pentose phosphate pathway(ko00030);;Phenylalanine, tyrosine and tryptophan biosynthesis(ko00400);;Vitamin B6 metabolism(ko00750);;Metabolic pathways(ko01100);;Carbon metabolism(ko01200);;Biosynthesis of amino acids(ko01230);;Biosynthesis of cofactors(ko01240)"
+neg_7459,Sedoheptulose,C02076,Metabolic pathways(ko01100)
+neg_7465,Dihydrodemethylsterigmatocystin,C20444,Metabolic pathways(ko01100)
+neg_7466,(7R)-7-(5-Carboxy-5-oxopentanoyl)aminocephalosporinate,C04712,Penicillin and cephalosporin biosynthesis(ko00311)
+neg_7476,Hypoxanthine,C00262,Purine metabolism(ko00230);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232)
+neg_7485,4-Coumaroylshikimate,C02947,Metabolic pathways(ko01100)
+neg_7488,Verbenalin,C09802,--
+neg_7522,Irilone,C10467,--
+neg_7533,(S)-2-Hydroxypropylphosphonate,C06452,Metabolic pathways(ko01100)
+neg_7535,Coumarin,C05851,--
+neg_7537,D-Xylonolactone,C02266,Pentose and glucuronate interconversions(ko00040);;Metabolic pathways(ko01100)
+neg_7539,"5-Phenyl-1,3-oxazinane-2,4-dione",C16596,Drug metabolism - cytochrome P450(ko00982)
+neg_7546,"1-Nitro-5,6-dihydroxy-dihydronaphthalene",C14801,Metabolism of xenobiotics by cytochrome P450(ko00980)
+neg_7561,S-Formylglutathione,C01031,Metabolic pathways(ko01100)
+neg_7564,1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole,C04823,Purine metabolism(ko00230);;Metabolic pathways(ko01100)
+neg_7568,ITP,C00081,Purine metabolism(ko00230);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232)
+neg_7571,dTDP-4-oxo-2-deoxy-beta-L-xylose,C21353,Polyketide sugar unit biosynthesis(ko00523)
+neg_7572,"2,5-Diaminopyrimidine nucleoside triphosphate",C05923,Folate biosynthesis(ko00790);;Metabolic pathways(ko01100)
+neg_7573,dTDP-4-deoxy-4-thio-alpha-D-digitoxose,C21349,Polyketide sugar unit biosynthesis(ko00523)
+neg_7601,Hydroxymethylphosphonate,C06455,Phosphonate and phosphinate metabolism(ko00440)
+neg_7602,D-Arabinose 5-phosphate,C01112,Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_7607,Cephaloridine,C11754,Bile secretion(ko04976)
+neg_7608,Maltotriose,C01835,ABC transporters(ko02010);;Carbohydrate digestion and absorption(ko04973)
+neg_7618,4-Ethylphenol,C13637,--
+neg_7635,(S)-Coclaurine,C06161,Metabolic pathways(ko01100)
+neg_7647,all-trans-Decaprenyl diphosphate,C17432,Terpenoid backbone biosynthesis(ko00900)
+neg_7727,Azatyrosine,C21325,Metabolic pathways(ko01100)
+neg_7728,Guanidinoproclavaminic acid,C06657,Metabolic pathways(ko01100)
+neg_7746,Bis(glutathionyl)spermine disulfide,C16564,Glutathione metabolism(ko00480)
+neg_7758,Skatole,C08313,Tryptophan metabolism(ko00380)
+neg_7773,Butanoylphosphate,C02527,Butanoate metabolism(ko00650);;Metabolic pathways(ko01100)
+neg_7775,Aloin,C10305,--
+neg_7787,(S)-Ureidoglycine,C02091,Purine metabolism(ko00230);;Metabolic pathways(ko01100)
+neg_7788,5-Amino-4-imidazolecarboxyamide,C04051,Purine metabolism(ko00230);;Metabolic pathways(ko01100)
+neg_7798,3-Methylindolepyruvate,C05644,Tryptophan metabolism(ko00380);;Metabolic pathways(ko01100)
+neg_7803,Salicylic acid,C00805,Metabolic pathways(ko01100);;Bile secretion(ko04976)
+neg_7810,Oxytetracycline,C06624,Metabolic pathways(ko01100)
+neg_7848,S-Adenosylmethioninamine,C01137,Cysteine and methionine metabolism(ko00270);;Arginine and proline metabolism(ko00330);;Metabolic pathways(ko01100)
+neg_7850,"1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate",C06720,Metabolic pathways(ko01100)
+neg_7851,Pravastatin,C01844,Bile secretion(ko04976)
+neg_7854,"Benzo[a]pyrene-9,10-oxide",C14849,Metabolism of xenobiotics by cytochrome P450(ko00980);;Chemical carcinogenesis - DNA adducts(ko05204)
+neg_7862,Licoisoflavone A,C10486,--
+neg_7863,Cycloheximide,C06685,--
+neg_7867,3-Hydroxypicolinic acid,C18620,--
+neg_7869,Pseudaminic acid,C20082,Amino sugar and nucleotide sugar metabolism(ko00520);;Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_7871,Biliverdin-IX-beta,C21724,Porphyrin metabolism(ko00860)
+neg_7874,Paraoxon,C06606,--
+neg_7875,Biapenem,C11268,--
+neg_7898,Colforsin,C09076,--
+neg_7917,5-epi-Valiolol 7-phosphate,C21204,Metabolic pathways(ko01100)
+neg_7918,Arbutin 6-phosphate,C06187,Glycolysis / Gluconeogenesis(ko00010)
+neg_7929,"3,3'-Dimethoxybenzidine",C19231,--
+neg_7962,Sphingosyl-phosphocholine,C03640,Sphingolipid metabolism(ko00600)
+neg_8006,Carnosine,C00386,Histidine metabolism(ko00340);;beta-Alanine metabolism(ko00410);;Metabolic pathways(ko01100)
+neg_8043,"6-Carboxy-5,6,7,8-tetrahydropterin",C20239,Folate biosynthesis(ko00790);;Metabolic pathways(ko01100)
+neg_8044,Kievitone hydrate,C02549,--
+neg_8051,Dehydroepiandrosterone sulfate,C04555,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100);;Bile secretion(ko04976)
+neg_8055,D-Alanyl-D-alanine,C00993,D-Amino acid metabolism(ko00470);;Metabolic pathways(ko01100)
+neg_8104,4-(Nitrosoamino)-1-(3-pyridinyl)-1-butanone,C19564,Metabolism of xenobiotics by cytochrome P450(ko00980);;Chemical carcinogenesis - DNA adducts(ko05204)
+neg_8110,Blasticidin S,C02010,--
+neg_8112,Stercobilin,C05793,Porphyrin metabolism(ko00860)
+neg_8123,Strictosidine aglycone,C03309,Metabolic pathways(ko01100)
+neg_8145,D-Fructose 6-phosphate,C00085,Galactose metabolism(ko00052);;Starch and sucrose metabolism(ko00500);;Metabolic pathways(ko01100);;Carbon metabolism(ko01200);;AMPK signaling pathway(ko04152);;Glucagon signaling pathway(ko04922);;Insulin resistance(ko04931);;Central carbon metabolism in cancer(ko05230);;Diabetic cardiomyopathy(ko05415)
+neg_8172,Toluene-cis-dihydrodiol,C04592,Metabolic pathways(ko01100)
+neg_8175,Dihydrolipoate,C02147,Lipoic acid metabolism(ko00785);;Metabolic pathways(ko01100)
+neg_8177,"2-Phytyl-1,4-naphthoquinone",C13309,Ubiquinone and other terpenoid-quinone biosynthesis(ko00130);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_8183,"cis-2,3-Dihydroxy-2,3-dihydro-p-cumate",C06579,Metabolic pathways(ko01100)
+neg_8212,Estrone glucuronide,C11133,Steroid hormone biosynthesis(ko00140)
+neg_8214,"2-Hydroxy-6-oxoocta-2,4,7-trienoate",C07087,Metabolic pathways(ko01100)
+neg_8223,3'-Amino-3'-deoxy-AMP,C07026,Metabolic pathways(ko01100)
+neg_8237,Trihomomethionine,C17221,2-Oxocarboxylic acid metabolism(ko01210)
+neg_8241,S-sulfanylglutathione,C17267,Sulfur metabolism(ko00920);;Metabolic pathways(ko01100)
+neg_8243,Phorbol,C09155,Inflammatory mediator regulation of TRP channels(ko04750)
+neg_8266,O-Acetylcarnitine,C02571,Insulin resistance(ko04931)
+neg_8273,4-(beta-D-Glucosyloxy)benzoate,C03993,Ubiquinone and other terpenoid-quinone biosynthesis(ko00130)
+neg_8309,Brevianamide F,C20563,Metabolic pathways(ko01100)
+neg_8330,"11,12-EET",C14770,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100);;Vascular smooth muscle contraction(ko04270);;Serotonergic synapse(ko04726);;Ovarian steroidogenesis(ko04913)
+neg_8331,Peimine,C10830,--
+neg_8348,"2-Hexaprenyl-3-methyl-6-methoxy-1,4-benzoquinone",C05804,--
+neg_8353,Ubiquinone-6,C17568,--
+neg_8374,Demethyllactenocin,C12003,Metabolic pathways(ko01100)
+neg_8392,Dinophysistoxin 1,C16870,--
+neg_8405,alpha-D-Sedoheptulopyranose 7-phosphate,C20956,Metabolic pathways(ko01100)
+neg_8406,5-Fluorouridine monophosphate,C16634,Drug metabolism - other enzymes(ko00983)
+neg_8438,10-Deacetyl-2-debenzoylbaccatin III,C11899,Metabolic pathways(ko01100)
+neg_8445,"12,13-Epoxy-9-hydroxy-10-octadecenoate",C14832,Linoleic acid metabolism(ko00591)
+neg_8459,"2-Hydroxy-2,4-pentadienoate",C00596,Phenylalanine metabolism(ko00360);;Metabolic pathways(ko01100)
+neg_8460,Itaconate,C00490,C5-Branched dibasic acid metabolism(ko00660);;Metabolic pathways(ko01100)
+neg_8462,Wyerone,C08465,--
+neg_8463,Acacetin,C01470,--
+neg_8477,Dimethyl sulfoxide,C11143,Sulfur metabolism(ko00920);;Metabolic pathways(ko01100)
+neg_8488,dl-alpha-Tocopherol nicotinate,C12981,Vitamin digestion and absorption(ko04977)
+neg_8492,"(2R,3R)-3-Methylglutamyl-5-semialdehyde-N6-lysine",C20279,Lysine biosynthesis(ko00300);;Metabolic pathways(ko01100)
+neg_8516,Tetracycline,C06570,Metabolic pathways(ko01100);;Bile secretion(ko04976)
+neg_8542,Lithocholic acid,C03990,Bile secretion(ko04976)
+neg_8544,Pyrimidodiazepine,C02587,Folate biosynthesis(ko00790)
+neg_8579,triptolide,C09204,--
+neg_8691,Antibiotic JI-20B,C17705,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_8693,"Taxa-4(20),11(12)-dien-5alpha,13alpha-diol",C11897,Metabolic pathways(ko01100)
+neg_8700,"L-3,4-Dihydroxybutan-2-one 4-phosphate",C15556,Riboflavin metabolism(ko00740);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_8703,Zalcitabine,C07207,Bile secretion(ko04976)
+neg_8720,Fludrocortisone acetate,C08186,--
+neg_8721,beta-Tocotrienol,C14154,Ubiquinone and other terpenoid-quinone biosynthesis(ko00130);;Metabolic pathways(ko01100)
+neg_8744,(6S)-Hydroxyhyoscyamine,C03325,Metabolic pathways(ko01100)
+neg_8755,Pyridoxine,C00314,Vitamin B6 metabolism(ko00750);;Metabolic pathways(ko01100);;Biosynthesis of cofactors(ko01240)
+neg_8788,Isoxanthopterin,C03975,--
+neg_8792,5-Formiminotetrahydrofolate,C00664,One carbon pool by folate(ko00670);;Metabolic pathways(ko01100)
+neg_8798,2'-Deamino-2'-hydroxyparomamine,C20353,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_8799,18-Hydroxycorticosterone,C01124,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100);;Aldosterone synthesis and secretion(ko04925)
+neg_8824,Dehydrovomifoliol,C02533,--
+neg_8829,3-(5'-Methylthio)pentylmalic acid,C17223,2-Oxocarboxylic acid metabolism(ko01210)
+neg_8835,Quinine,C06526,Taste transduction(ko04742);;Bile secretion(ko04976)
+neg_8868,Genistein,C06563,Metabolic pathways(ko01100)
+neg_8880,N-Acetylhistamine,C05135,Histidine metabolism(ko00340)
+neg_8898,Lovastatin acid,C21130,Metabolic pathways(ko01100)
+neg_8910,(-)-5'-Demethylyatein,C21184,Metabolic pathways(ko01100)
+neg_8924,Bilirubin,C00486,Porphyrin metabolism(ko00860);;Metabolic pathways(ko01100);;Bile secretion(ko04976)
+neg_8929,Lividomycin B,C18003,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_8930,APC,C16542,Drug metabolism - other enzymes(ko00983)
+neg_8946,"(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoyl-CoA",C16169,Biosynthesis of unsaturated fatty acids(ko01040);;Metabolic pathways(ko01100);;Fatty acid metabolism(ko01212)
+neg_8962,Estradiol,C00951,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100);;Endocrine resistance(ko01522);;Thermogenesis(ko04714);;Ovarian steroidogenesis(ko04913);;Estrogen signaling pathway(ko04915);;Prolactin signaling pathway(ko04917);;GnRH secretion(ko04929);;Endocrine and other factor-regulated calcium reabsorption(ko04961);;Pathways in cancer(ko05200);;Chemical carcinogenesis - receptor activation(ko05207);;Chemical carcinogenesis - reactive oxygen species(ko05208);;Prostate cancer(ko05215);;Breast cancer(ko05224)
+neg_8981,Dihydrolipoamide,C00579,--
+neg_9013,Lusitanicoside,C10474,--
+neg_9026,Guanosine,C00387,Purine metabolism(ko00230);;Metabolic pathways(ko01100);;Nucleotide metabolism(ko01232);;ABC transporters(ko02010)
+neg_9050,Acarbose,C06802,Metabolic pathways(ko01100)
+neg_9051,Paromomycin,C00832,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_9053,trans-2-Enoyl-OPC6-CoA,C16332,alpha-Linolenic acid metabolism(ko00592);;Metabolic pathways(ko01100)
+neg_9065,Ergocornine,C09162,--
+neg_9078,Bisindolylmaleimide i,C11238,--
+neg_9094,Danazol,C06938,--
+neg_9102,Hydrocortisone,C00735,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100);;Neuroactive ligand-receptor interaction(ko04080);;Cortisol synthesis and secretion(ko04927);;Cushing syndrome(ko04934);;Aldosterone-regulated sodium reabsorption(ko04960);;Bile secretion(ko04976);;Pathways in cancer(ko05200);;Prostate cancer(ko05215)
+neg_9132,Citalopram N-oxide,C16607,Drug metabolism - cytochrome P450(ko00982)
+neg_9136,6-Keto-prostaglandin F1a,C05961,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100)
+neg_9162,Benzoic acid,C00180,Metabolic pathways(ko01100)
+neg_9168,Glycitin,C16195,--
+neg_9169,"5-(2'-Carboxyethyl)-4,6-dihydroxypicolinate",C05655,Tryptophan metabolism(ko00380)
+neg_9185,"2-Hydroxy-6-oxo-(2'-aminophenyl)-hexa-2,4-dienoate",C08062,Metabolic pathways(ko01100)
+neg_9192,6-Keto-prostaglandin E1,C05962,Arachidonic acid metabolism(ko00590);;Metabolic pathways(ko01100)
+neg_9198,BQ 123,C11587,Bile secretion(ko04976)
+neg_9221,Solasodine,C10822,--
+neg_9261,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate,C00692,D-Amino acid metabolism(ko00470);;Metabolic pathways(ko01100)
+neg_9274,Cyclohex-1-ene-1-carboxyl-CoA,C09811,Metabolic pathways(ko01100)
+neg_9280,Validamine 7-phosphate,C21216,Metabolic pathways(ko01100)
+neg_9284,1-Oleoyl-sn-glycero-3-phosphocholine,C03916,--
+neg_9292,Glycochenodeoxycholate,C05466,Primary bile acid biosynthesis(ko00120);;Bile secretion(ko04976);;Cholesterol metabolism(ko04979)
+neg_9295,Cathenamine,C11680,Metabolic pathways(ko01100)
+neg_9335,Encelin,C09404,--
+neg_9342,Avermectin A1b aglycone,C11964,Metabolic pathways(ko01100)
+neg_9363,Cortisol,C00735,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100);;Neuroactive ligand-receptor interaction(ko04080);;Cortisol synthesis and secretion(ko04927);;Cushing syndrome(ko04934);;Aldosterone-regulated sodium reabsorption(ko04960);;Bile secretion(ko04976);;Pathways in cancer(ko05200);;Prostate cancer(ko05215)
+neg_9366,Aurachin A,C21875,Metabolic pathways(ko01100)
+neg_9369,Mibefradil,C07222,--
+neg_9404,3'-Demethylstaurosporine,C07349,Metabolic pathways(ko01100)
+neg_9407,THF-L-glutamate,C09332,Folate biosynthesis(ko00790);;Biosynthesis of cofactors(ko01240)
+neg_9425,Tetrahydrocortisone,C05470,Steroid hormone biosynthesis(ko00140)
+neg_9469,Phenylacetylglutamine,C04148,Phenylalanine metabolism(ko00360)
+neg_9479,16-Glucuronide-estriol,C05504,Steroid hormone biosynthesis(ko00140)
+neg_9488,Abscisic aldehyde,C13455,Metabolic pathways(ko01100)
+neg_9501,Androsterone glucuronide,C11135,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100)
+neg_9534,"3',4'-Anhydrovinblastine",C11641,Metabolic pathways(ko01100)
+neg_9547,10-Hydroxycarbazepine,C07493,Drug metabolism - cytochrome P450(ko00982)
+neg_9549,Formononetin,C00858,Metabolic pathways(ko01100)
+neg_9554,Butirosin A,C17585,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_9562,N-Methyltryptamine,C06213,Tryptophan metabolism(ko00380);;Metabolic pathways(ko01100)
+neg_9564,Gemfibrozil,C07020,Chemical carcinogenesis - receptor activation(ko05207)
+neg_9586,(10S)-Juvenile hormone III acid diol,C16506,Insect hormone biosynthesis(ko00981)
+neg_9609,3-Carbamoyl-2-phenylpropionic acid,C16591,Drug metabolism - cytochrome P450(ko00982)
+neg_9632,Prostaglandin E3,C06439,--
+neg_969,Thiosulfate,C00320,Sulfur metabolism(ko00920);;Metabolic pathways(ko01100);;ABC transporters(ko02010)
+neg_9709,gamma-L-Glutamyl-butirosin B,C18005,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_9720,(+)-7-Isojasmonic acid CoA,C16339,alpha-Linolenic acid metabolism(ko00592);;Metabolic pathways(ko01100)
+neg_9752,Reserpine,C06539,--
+neg_9763,Menadione,C05377,Vitamin digestion and absorption(ko04977)
+neg_9771,Hexadecanedioate,C19615,"Cutin, suberine and wax biosynthesis(ko00073);;Metabolic pathways(ko01100)"
+neg_9773,Androstenedione,C00280,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100);;Endocrine resistance(ko01522);;Ovarian steroidogenesis(ko04913);;Prolactin signaling pathway(ko04917);;Pathways in cancer(ko05200);;Prostate cancer(ko05215)
+neg_9816,Lovastatin,C07074,--
+neg_9828,Pentamidine,C07420,--
+neg_9878,10-OPDA,C16325,alpha-Linolenic acid metabolism(ko00592)
+neg_9896,"2,3-Dinor-8-iso prostaglandin F1alpha",C14795,Arachidonic acid metabolism(ko00590)
+neg_9924,"9,12,13-TriHOME",C14833,Linoleic acid metabolism(ko00591)
+neg_9945,Ponasterone A,C08835,--
+neg_9948,L-alpha-Acetyl-N-normethadol,C16661,Drug metabolism - cytochrome P450(ko00982)
+neg_9958,5-N-Acetyl-7-N-(D-alanyl)-legionaminic acid,C22250,Metabolic pathways(ko01100);;Biosynthesis of nucleotide sugars(ko01250)
+neg_9965,Prometon,C14186,--
+neg_9972,4'-Oxonebramine,C21258,"Neomycin, kanamycin and gentamicin biosynthesis(ko00524)"
+neg_9976,4-(Methylnitrosamino)-1-(1-oxido-3-pyridinyl)-1-butanone,C19602,Metabolism of xenobiotics by cytochrome P450(ko00980);;Chemical carcinogenesis - DNA adducts(ko05204)
+neg_9990,Nopaline,C01682,Arginine and proline metabolism(ko00330);;Metabolic pathways(ko01100);;ABC transporters(ko02010)
+neg_9997,19-Hydroxytestosterone,C05294,Steroid hormone biosynthesis(ko00140);;Metabolic pathways(ko01100)

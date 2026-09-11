@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+openpyxl
+requests
+Pillow
+rdkit
+selenium
+scanpy
+MDAnalysis
+STCAT

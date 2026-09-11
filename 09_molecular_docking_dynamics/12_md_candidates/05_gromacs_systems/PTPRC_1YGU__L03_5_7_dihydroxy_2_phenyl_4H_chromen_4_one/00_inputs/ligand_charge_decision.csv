@@ -1,0 +1,2 @@
+pair_id,ligand_id,ligand_name,net_charge,protonation_state,charge_method,force_field,status,note
+PTPRC_1YGU__L03_5_7_dihydroxy_2_phenyl_4H_chromen_4_one,L03_5_7_dihydroxy_2_phenyl_4H_chromen_4_one,"5,7-dihydroxy-2-phenyl-4H-chromen-4-one",0,neutral flavone form,AM1-BCC via ACPYPE/AmberTools,GAFF,locked,Used for both the PTPRC and BCL2 molecular-dynamics systems.

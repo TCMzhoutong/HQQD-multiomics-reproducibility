@@ -1,0 +1,4 @@
+method	source_file	source_count	selection_rule	selected_count	standardized_output	source_sha256
+cytoHubba	NCC.csv	10	provided Top 10	10	06.hub_genes/MCC.csv	3b61a7d4720efc9ea94fb519017a08ed4c7bf1cbf5df807c017bffa38d602e67
+CytoNCA	cytonca.txt	28	top 20 by reported Subgragh rank	20	06.hub_genes/cytoNCA.csv	18ce604465ec76c99c65f4f6c5d6081126df5414a9b069db1169e509ed254e47
+MCODE	mcode.csv	9	all nodes in exported highest-scoring cluster	9	06.hub_genes/MCODE.csv	20483d5e5da79b2dcea2d72bcc55aeda34eb8093cb4d4c982a04b8cddb4edbb1

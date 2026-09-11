@@ -1,0 +1,7 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+jd9BgS,J10_PNEUMOBACT,Bacterial pneumoniae,isoleucine,MR Egger,7.76773787623141,9,0.557711613465328
+jd9BgS,J10_PNEUMOBACT,Bacterial pneumoniae,isoleucine,Inverse variance weighted,9.11835452629057,10,0.520909407719444
+qF47S1,J10_PNEUMOBACT,Bacterial pneumoniae,serotonin,MR Egger,6.06691711829901,6,0.415735918122493
+qF47S1,J10_PNEUMOBACT,Bacterial pneumoniae,serotonin,Inverse variance weighted,6.67895680482649,7,0.463054177715584
+uXhzUk,J10_PNEUMOBACT,Bacterial pneumoniae,thyroxine,MR Egger,5.1660330498816,5,0.39595535806291
+uXhzUk,J10_PNEUMOBACT,Bacterial pneumoniae,thyroxine,Inverse variance weighted,5.70376081956905,6,0.457179261099722

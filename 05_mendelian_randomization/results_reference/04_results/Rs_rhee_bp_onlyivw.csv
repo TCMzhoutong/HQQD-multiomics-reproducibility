@@ -1,0 +1,4 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,fdr
+jd9BgS,J10_PNEUMOBACT,Bacterial pneumoniae,isoleucine,Inverse variance weighted (multiplicative random effects),11,-0.00374414463909636,0.0133191593748898,0.778626276313581,0.778626276313581
+qF47S1,J10_PNEUMOBACT,Bacterial pneumoniae,serotonin,Inverse variance weighted (multiplicative random effects),8,0.0399652873121755,0.0203487148752821,0.0495277479558868,0.14858324386766
+uXhzUk,J10_PNEUMOBACT,Bacterial pneumoniae,thyroxine,Inverse variance weighted (multiplicative random effects),7,-0.0207130436860458,0.0172273161751094,0.229232896352992,0.343849344529489

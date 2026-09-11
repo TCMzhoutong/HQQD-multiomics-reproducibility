@@ -1,0 +1,29 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+0Rtwbb,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Coprococcus1,Weighted median,14,-0.0375694117680282,0.0892229906726197,0.673701617846838
+2ceLcs,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Clostridiumsensustricto1,Weighted median,9,0.0750899128978727,0.0959938242040727,0.434075353628485
+3SIwNH,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",p_Firmicutes,Weighted median,17,-0.0232243754125804,0.0846032103737986,0.783693190860482
+5Tx4np,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Escherichia_Shigella,Weighted median,15,-0.0520075908351364,0.0789369628371954,0.509992316790617
+abBjaX,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Lachnoclostridium,Weighted median,14,-0.0888966219374828,0.0935119089478248,0.341784653470302
+b57lAH,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Coprococcus2,Weighted median,11,-0.0137222361625347,0.0866379100555184,0.874152607258264
+DL0nTm,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Eisenbergiella,Weighted median,12,-0.00204645819761341,0.0594797727518508,0.972553437389805
+GCST90011328,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Clostridium_XlVa abundance,Weighted median,7,-0.0223249740949381,0.0937625360750763,0.811802589638676
+GCST90011329,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Coprococcus abundance,Weighted median,14,0.0538765099360192,0.0563640856817074,0.339139967017401
+GCST90011336,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Paraprevotella abundance,Weighted median,15,-0.0492430426368872,0.0352463015405481,0.162379793143293
+GCST90011342,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Roseburia abundance,Weighted median,12,0.0423020331112073,0.0659220960808184,0.521069722509539
+GCST90011346,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Subdoligranulum abundance,Weighted median,10,-0.0109137966754338,0.080599658281654,0.892289709841604
+GCST90011481,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",P_Actinobacteria abundance,Weighted median,16,-0.00556601231939424,0.0560507307466189,0.920897602990338
+GCST90011483,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",P_Firmicutes abundance,Weighted median,8,0.0732333735920541,0.0790889078361314,0.354465398065273
+GCST90032323,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Clostridium I abundance in stool,Weighted median,13,0.190801847019934,0.192604070673451,0.321860002462658
+GCST90032326,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Clostridium P abundance in stool,Weighted median,24,0.0464956951080204,0.125295369586443,0.710571471414912
+GCST90032396,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Firmicutes A abundance in stool,Weighted median,19,0.118033496936231,0.266642457883997,0.658007483159488
+GCST90032397,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Firmicutes E abundance in stool,Weighted median,20,-0.103058698969586,0.290548744590215,0.72281161941453
+GCST90032398,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Firmicutes I abundance in stool,Weighted median,23,-0.378143147158292,0.612162612554266,0.536762017349407
+hwr8uN,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Coprococcus3,Weighted median,10,0.0394490580402467,0.125254250823044,0.752798212632359
+kYZi2a,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Roseburia,Weighted median,17,-0.134722945104233,0.0905542759089984,0.136814443937763
+SqPjyB,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Paraprevotella,Weighted median,13,-0.000294226119623458,0.0604187395180615,0.996114491096073
+t0b6Ao,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Subdoligranulum,Weighted median,13,0.0734705785449351,0.0938232468850446,0.433583449666906
+uJZmym,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Dorea,Weighted median,13,0.043329226435577,0.0950040684672623,0.648334185628978
+Uu05GB,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Clostridiuminnocuumgroup,Weighted median,11,-0.0810547892185831,0.0529942023930866,0.126139806784808
+wodMEV,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Anaerostipes,Weighted median,15,-0.145322518952194,0.0976705835930642,0.136781432948841
+XK1LhR,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Butyrivibrio,Weighted median,16,-0.0748848078766747,0.0403768746868022,0.0636467991368482
+XSQUzn,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",p_Actinobacteria,Weighted median,17,-0.0713753599558464,0.0922757712171115,0.439226202299652

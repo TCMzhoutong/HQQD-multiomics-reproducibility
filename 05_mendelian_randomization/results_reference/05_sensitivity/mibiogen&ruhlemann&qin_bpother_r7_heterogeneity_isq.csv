@@ -1,0 +1,29 @@
+id.exposure,id.outcome,exposure,outcome,I2,H2,QE,QEp
+0Rtwbb,J10_PNEUMOBACTEROTH,g_Coprococcus1,"Bacterial pneumonia, not elsewhere classified",0,0.908770557610807,11.8140172489405,0.542950340534065
+2ceLcs,J10_PNEUMOBACTEROTH,g_Clostridiumsensustricto1,"Bacterial pneumonia, not elsewhere classified",0,0.783197500286965,6.26558000229572,0.617509868288054
+3SIwNH,J10_PNEUMOBACTEROTH,p_Firmicutes,"Bacterial pneumonia, not elsewhere classified",0,0.698024734638781,11.1683957542205,0.798973722314663
+5Tx4np,J10_PNEUMOBACTEROTH,g_Escherichia_Shigella,"Bacterial pneumonia, not elsewhere classified",0,0.778979151980361,10.9057081277251,0.693427025862533
+abBjaX,J10_PNEUMOBACTEROTH,g_Lachnoclostridium,"Bacterial pneumonia, not elsewhere classified",0,0.864258543000548,11.2353610590071,0.591107920741294
+b57lAH,J10_PNEUMOBACTEROTH,g_Coprococcus2,"Bacterial pneumonia, not elsewhere classified",0,0.981337645764204,9.81337645764204,0.457016301077029
+DL0nTm,J10_PNEUMOBACTEROTH,g_Eisenbergiella,"Bacterial pneumonia, not elsewhere classified",29.0392288290352,1.40922932980916,15.5015226279008,0.160668478566032
+GCST90011328,J10_PNEUMOBACTEROTH,G_Clostridium_XlVa abundance,"Bacterial pneumonia, not elsewhere classified",30.5645925355151,1.44018741520525,8.64112449123151,0.194789487432165
+GCST90011329,J10_PNEUMOBACTEROTH,G_Coprococcus abundance,"Bacterial pneumonia, not elsewhere classified",0,0.704303957261896,9.15595144440464,0.761065827987011
+GCST90011336,J10_PNEUMOBACTEROTH,G_Paraprevotella abundance,"Bacterial pneumonia, not elsewhere classified",20.5259448435656,1.25827227267016,17.6158118173822,0.224842659065905
+GCST90011342,J10_PNEUMOBACTEROTH,G_Roseburia abundance,"Bacterial pneumonia, not elsewhere classified",3.61244445276468,1.03747832832003,11.4122616115204,0.409399069991985
+GCST90011346,J10_PNEUMOBACTEROTH,G_Subdoligranulum abundance,"Bacterial pneumonia, not elsewhere classified",54.4391632261053,2.19486750202309,19.7538075182078,0.0194940409870341
+GCST90011481,J10_PNEUMOBACTEROTH,P_Actinobacteria abundance,"Bacterial pneumonia, not elsewhere classified",0,0.836282413630917,12.5442362044637,0.63745490496123
+GCST90011483,J10_PNEUMOBACTEROTH,P_Firmicutes abundance,"Bacterial pneumonia, not elsewhere classified",0,0.534751605999248,3.74326124199474,0.808828170659975
+GCST90032323,J10_PNEUMOBACTEROTH,Clostridium I abundance in stool,"Bacterial pneumonia, not elsewhere classified",0,0.53473827576385,6.4168593091662,0.893628811742951
+GCST90032326,J10_PNEUMOBACTEROTH,Clostridium P abundance in stool,"Bacterial pneumonia, not elsewhere classified",18.2294417529321,1.2229340503932,28.1274831590436,0.210999204278419
+GCST90032396,J10_PNEUMOBACTEROTH,Firmicutes A abundance in stool,"Bacterial pneumonia, not elsewhere classified",0,0.647667668804008,11.6580180384721,0.86438131963114
+GCST90032397,J10_PNEUMOBACTEROTH,Firmicutes E abundance in stool,"Bacterial pneumonia, not elsewhere classified",0,0.54027206008446,10.2651691416047,0.946098408217176
+GCST90032398,J10_PNEUMOBACTEROTH,Firmicutes I abundance in stool,"Bacterial pneumonia, not elsewhere classified",0,0.675796416309969,14.8675211588193,0.867860300958395
+hwr8uN,J10_PNEUMOBACTEROTH,g_Coprococcus3,"Bacterial pneumonia, not elsewhere classified",44.5186350984637,1.80240699156323,16.2216629240691,0.062394514569949
+kYZi2a,J10_PNEUMOBACTEROTH,g_Roseburia,"Bacterial pneumonia, not elsewhere classified",0,0.943877458836732,15.1020393413877,0.517178066231906
+SqPjyB,J10_PNEUMOBACTEROTH,g_Paraprevotella,"Bacterial pneumonia, not elsewhere classified",0,0.707016754352394,8.48420105222873,0.746240138664127
+t0b6Ao,J10_PNEUMOBACTEROTH,g_Subdoligranulum,"Bacterial pneumonia, not elsewhere classified",0,0.972291531282564,11.6674983753908,0.472739089774281
+uJZmym,J10_PNEUMOBACTEROTH,g_Dorea,"Bacterial pneumonia, not elsewhere classified",0,0.886341248397508,10.6360949807701,0.560335571256937
+Uu05GB,J10_PNEUMOBACTEROTH,g_Clostridiuminnocuumgroup,"Bacterial pneumonia, not elsewhere classified",16.948315824778,1.20406950193834,12.0406950193834,0.282342169080568
+wodMEV,J10_PNEUMOBACTEROTH,g_Anaerostipes,"Bacterial pneumonia, not elsewhere classified",2.52523485048546,1.02590654972712,14.3626916961797,0.423054577665896
+XK1LhR,J10_PNEUMOBACTEROTH,g_Butyrivibrio,"Bacterial pneumonia, not elsewhere classified",0,0.74986691705211,11.2480037557817,0.734823837351618
+XSQUzn,J10_PNEUMOBACTEROTH,p_Actinobacteria,"Bacterial pneumonia, not elsewhere classified",0,0.99196426758198,15.8714282813117,0.461969717693021

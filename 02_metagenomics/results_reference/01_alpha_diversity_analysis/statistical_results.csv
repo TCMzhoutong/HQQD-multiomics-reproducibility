@@ -1,0 +1,7 @@
+"Index","Test","P_value","Significant"
+"ACE","One-way ANOVA",5.2268638162132e-13,"Yes"
+"Chao1","One-way ANOVA",5.26362600933175e-13,"Yes"
+"Shannon","Kruskal-Wallis",0.00218558370587129,"Yes"
+"Simpson","Kruskal-Wallis",0.00390717822415108,"Yes"
+"goods_Coverage","Kruskal-Wallis",0.00231952729621006,"Yes"
+"pielou_evenness","Kruskal-Wallis",0.00170083463256901,"Yes"

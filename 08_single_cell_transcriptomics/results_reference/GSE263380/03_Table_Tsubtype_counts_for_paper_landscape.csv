@@ -1,0 +1,25 @@
+"T_subtype","n_cells","in_paper_landscape"
+"CD4 Tn",4633,TRUE
+"CD4 Tcm",3963,TRUE
+"CD4 Tc",2884,TRUE
+"CD8 Temra",2136,TRUE
+"CD8 Tem",1891,TRUE
+"Tgd",1703,TRUE
+"CD8 Tn",1701,TRUE
+"CD8 Tc",428,TRUE
+"CD4 Treg",416,TRUE
+"CD4 Tem",377,TRUE
+"CD8 Tcm",327,TRUE
+"MAIT",294,TRUE
+"CD4 Temra",250,TRUE
+"CD4 Trm naive-like",220,FALSE
+"CD8 Trm naive-like",158,FALSE
+"CD4 Trm cell-death",157,FALSE
+"CD4 Th17",133,TRUE
+"CD4 Th1",123,TRUE
+"CD4 Tisg cell-death",73,FALSE
+"CD8 proliferation",47,FALSE
+"CD8 Trm",23,FALSE
+"CD4 proliferation",16,FALSE
+"CD4 Tem cytotoxicity",4,FALSE
+"CD8 Tn IFN-response",2,FALSE

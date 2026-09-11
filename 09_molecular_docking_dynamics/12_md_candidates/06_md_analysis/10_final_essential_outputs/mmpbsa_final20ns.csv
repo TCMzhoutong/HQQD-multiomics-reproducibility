@@ -1,0 +1,6 @@
+﻿Original output (gmx_MMPBSA),Paper-style term,MAPK14-Pelargonidin,MAPK14-Thyroxine,PTPRC-Flavone,BCL2-Flavone
+Delta VDWAALS,$\Delta E_{vdw}$,-24.15 ± 0.69,-43.71 ± 0.57,-19.04 ± 0.86,-27.93 ± 0.58
+Delta EEL,$\Delta E_{elec}$,-184.32 ± 2.64,75.30 ± 3.65,-10.66 ± 1.41,-9.58 ± 1.22
+Delta EPB,$\Delta G_{PB}$,184.99 ± 2.23,-57.72 ± 3.02,20.04 ± 1.38,22.13 ± 1.00
+Delta ENPOLAR,$\Delta G_{nonpolar}$,-3.51 ± 0.01,-4.04 ± 0.03,-2.43 ± 0.06,-2.58 ± 0.03
+Delta TOTAL,$\Delta G_{bind}$ (MM/PBSA),-26.99 ± 0.65,-30.17 ± 0.90,-12.09 ± 0.79,-17.96 ± 0.54

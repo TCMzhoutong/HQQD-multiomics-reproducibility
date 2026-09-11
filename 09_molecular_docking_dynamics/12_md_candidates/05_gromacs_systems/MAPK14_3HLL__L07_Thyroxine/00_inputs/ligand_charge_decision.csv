@@ -1,0 +1,2 @@
+pair_id,ligand_id,ligand_name,net_charge,protonation_state,charge_method,force_field,status,note
+MAPK14_3HLL__L07_Thyroxine,L07_Thyroxine,Thyroxine,-1,physiological monoanion approximation,AM1-BCC via ACPYPE/AmberTools,GAFF,locked,Ionisable amino acid and phenolic groups; -1 is the selected physiological approximation.

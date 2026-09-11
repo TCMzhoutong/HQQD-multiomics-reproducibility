@@ -1,0 +1,29 @@
+id.exposure,id.outcome,exposure,outcome,b,se,pval,method
+0perSf,J10_PNEUMOBACT,g_Roseburia,Bacterial pneumoniae,0.0649749543901139,0.076530612244898,0.405201868182592,Contamination mixture
+0uansG,J10_PNEUMOBACT,g_Butyrivibrio,Bacterial pneumoniae,-0.0247065488699773,0.0535714285714286,0.530715179975977,Contamination mixture
+19r4CB,J10_PNEUMOBACT,p_Firmicutes,Bacterial pneumoniae,0.0460348696504972,0.0586734693877551,0.60047615134734,Contamination mixture
+2v0Q66,J10_PNEUMOBACT,g_Anaerostipes,Bacterial pneumoniae,0.0339142777759892,0.122448979591837,0.55765243938789,Contamination mixture
+7Pe0PR,J10_PNEUMOBACT,g_Coprococcus3,Bacterial pneumoniae,0.192028024513843,0.14030612244898,0.249042570916613,Contamination mixture
+CHDghv,J10_PNEUMOBACT,g_Ruminiclostridium6,Bacterial pneumoniae,-9.01177352244931e-05,0.0841836734693878,1,Contamination mixture
+Cnza8c,J10_PNEUMOBACT,g_Subdoligranulum,Bacterial pneumoniae,0.17579301807943,0.104591836734694,0.0718930426759335,Contamination mixture
+dEyO43,J10_PNEUMOBACT,g_Erysipelatoclostridium,Bacterial pneumoniae,0.0453786032494334,0.0586734693877551,0.361656888650761,Contamination mixture
+DqHONl,J10_PNEUMOBACT,g_Paraprevotella,Bacterial pneumoniae,-0.0407340097067072,0.0714285714285714,0.377715308285402,Contamination mixture
+feuRup,J10_PNEUMOBACT,g_Clostridiumsensustricto1,Bacterial pneumoniae,-0.0490549576959649,0.086734693877551,0.365718839463516,Contamination mixture
+GCST90011328,J10_PNEUMOBACT,G_Clostridium_XlVa abundance,Bacterial pneumoniae,-0.0754825016618952,0.076530612244898,0.180747804420321,Contamination mixture
+GCST90011329,J10_PNEUMOBACT,G_Coprococcus abundance,Bacterial pneumoniae,0.0146874369077146,0.0637755102040816,0.56588318276149,Contamination mixture
+GCST90011336,J10_PNEUMOBACT,G_Paraprevotella abundance,Bacterial pneumoniae,-0.0267032145223979,0.0229591836734694,0.338842842172446,Contamination mixture
+GCST90011342,J10_PNEUMOBACT,G_Roseburia abundance,Bacterial pneumoniae,0.00264867890049064,0.107142857142857,1,Contamination mixture
+GCST90011346,J10_PNEUMOBACT,G_Subdoligranulum abundance,Bacterial pneumoniae,0.054033237923789,0.10969387755102,0.294183378818387,Contamination mixture
+GCST90011483,J10_PNEUMOBACT,P_Firmicutes abundance,Bacterial pneumoniae,0.0281950855972443,0.11734693877551,0.573544563788782,Contamination mixture
+GCST90032323,J10_PNEUMOBACT,Clostridium I abundance in stool,Bacterial pneumoniae,0.116658272943836,0.224489795918367,0.428889063938743,Contamination mixture
+GCST90032326,J10_PNEUMOBACT,Clostridium P abundance in stool,Bacterial pneumoniae,0.0624493461704267,0.114795918367347,0.38851198475075,Contamination mixture
+GCST90032396,J10_PNEUMOBACT,Firmicutes A abundance in stool,Bacterial pneumoniae,-0.285742689413498,0.331632653061225,0.306575306009713,Contamination mixture
+GCST90032397,J10_PNEUMOBACT,Firmicutes E abundance in stool,Bacterial pneumoniae,-0.202209079147533,0.224489795918367,0.249219075889377,Contamination mixture
+GCST90032398,J10_PNEUMOBACT,Firmicutes I abundance in stool,Bacterial pneumoniae,-0.892149440431583,0.443877551020408,0.038679517890468,Contamination mixture
+IaV7ha,J10_PNEUMOBACT,g_Clostridiuminnocuumgroup,Bacterial pneumoniae,-0.110919765954225,0.102040816326531,0.135295301836672,Contamination mixture
+Pf9yo3,J10_PNEUMOBACT,g_Eisenbergiella,Bacterial pneumoniae,0.0119192876057451,0.107142857142857,0.761148789368148,Contamination mixture
+tYBQdJ,J10_PNEUMOBACT,g_Coprococcus2,Bacterial pneumoniae,-0.0639596437671476,0.125,0.274052308530021,Contamination mixture
+vEZ3Ql,J10_PNEUMOBACT,g_Lachnoclostridium,Bacterial pneumoniae,0.142365158512277,0.178571428571429,0.243400726770897,Contamination mixture
+YDZwuO,J10_PNEUMOBACT,g_Coprococcus1,Bacterial pneumoniae,0.144136217798455,0.155612244897959,0.21379419293478,Contamination mixture
+YoyR09,J10_PNEUMOBACT,g_Dorea,Bacterial pneumoniae,-0.109389688542738,0.0943877551020408,0.308125427970359,Contamination mixture
+YoyR09,J10_PNEUMOBACT,g_Dorea,Bacterial pneumoniae,-0.109389688542738,0.0484693877551021,0.308125427970359,Contamination mixture

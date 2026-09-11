@@ -1,0 +1,57 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+0Rtwbb,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Coprococcus1,MR Egger,11.644576355447,12,0.474629559228933
+0Rtwbb,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Coprococcus1,Inverse variance weighted,11.8140172489405,13,0.542950340534065
+2ceLcs,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Clostridiumsensustricto1,MR Egger,5.43912262804289,7,0.606536629325065
+2ceLcs,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Clostridiumsensustricto1,Inverse variance weighted,6.26558000229572,8,0.617509868288054
+3SIwNH,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",p_Firmicutes,MR Egger,10.9149136720076,15,0.758602344411713
+3SIwNH,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",p_Firmicutes,Inverse variance weighted,11.1683957542205,16,0.798973722314663
+5Tx4np,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Escherichia_Shigella,MR Egger,9.90153398677823,13,0.701965784211901
+5Tx4np,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Escherichia_Shigella,Inverse variance weighted,10.9057081277251,14,0.693427025862533
+abBjaX,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Lachnoclostridium,MR Egger,11.2143817100987,12,0.51064104341138
+abBjaX,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Lachnoclostridium,Inverse variance weighted,11.2353610590071,13,0.591107920741294
+b57lAH,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Coprococcus2,MR Egger,9.63112442793959,9,0.381164319156116
+b57lAH,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Coprococcus2,Inverse variance weighted,9.81337645764204,10,0.457016301077029
+DL0nTm,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Eisenbergiella,MR Egger,13.2704349894626,10,0.208942100760481
+DL0nTm,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Eisenbergiella,Inverse variance weighted,15.5015226279008,11,0.160668478566032
+GCST90011328,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Clostridium_XlVa abundance,MR Egger,7.14796964217666,5,0.209866175556676
+GCST90011328,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Clostridium_XlVa abundance,Inverse variance weighted,8.64112449123151,6,0.194789487432165
+GCST90011329,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Coprococcus abundance,MR Egger,8.92053619442361,12,0.70970230987867
+GCST90011329,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Coprococcus abundance,Inverse variance weighted,9.15595144440464,13,0.761065827987011
+GCST90011336,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Paraprevotella abundance,MR Egger,15.9420032179029,13,0.252275842636936
+GCST90011336,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Paraprevotella abundance,Inverse variance weighted,17.6158118173822,14,0.224842659065905
+GCST90011342,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Roseburia abundance,MR Egger,11.257092595034,10,0.337842131407779
+GCST90011342,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Roseburia abundance,Inverse variance weighted,11.4122616115204,11,0.409399069991985
+GCST90011346,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Subdoligranulum abundance,MR Egger,19.7330443802589,8,0.0113946220417427
+GCST90011346,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",G_Subdoligranulum abundance,Inverse variance weighted,19.7538075182078,9,0.0194940409870341
+GCST90011481,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",P_Actinobacteria abundance,MR Egger,11.1661043552027,14,0.672940631011175
+GCST90011481,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",P_Actinobacteria abundance,Inverse variance weighted,12.5442362044637,15,0.63745490496123
+GCST90011483,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",P_Firmicutes abundance,MR Egger,3.50045272020684,6,0.743909461957959
+GCST90011483,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",P_Firmicutes abundance,Inverse variance weighted,3.74326124199474,7,0.808828170659975
+GCST90032323,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Clostridium I abundance in stool,MR Egger,6.31015816278105,11,0.851888884047345
+GCST90032323,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Clostridium I abundance in stool,Inverse variance weighted,6.41685930916619,12,0.893628811742951
+GCST90032326,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Clostridium P abundance in stool,MR Egger,28.1274699369581,22,0.171495116680134
+GCST90032326,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Clostridium P abundance in stool,Inverse variance weighted,28.1274831590437,23,0.210999204278418
+GCST90032396,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Firmicutes A abundance in stool,MR Egger,11.2294881850941,17,0.844388326906985
+GCST90032396,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Firmicutes A abundance in stool,Inverse variance weighted,11.6580180384721,18,0.86438131963114
+GCST90032397,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Firmicutes E abundance in stool,MR Egger,10.2463965169221,18,0.923566323122758
+GCST90032397,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Firmicutes E abundance in stool,Inverse variance weighted,10.2651691416047,19,0.946098408217176
+GCST90032398,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Firmicutes I abundance in stool,MR Egger,14.8670789271906,21,0.829561847277067
+GCST90032398,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Firmicutes I abundance in stool,Inverse variance weighted,14.8675211588193,22,0.867860300958395
+hwr8uN,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Coprococcus3,MR Egger,10.8123446355503,8,0.212560397238333
+hwr8uN,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Coprococcus3,Inverse variance weighted,16.2216629240691,9,0.0623945145699489
+kYZi2a,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Roseburia,MR Egger,15.0246430858613,15,0.449643577595284
+kYZi2a,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Roseburia,Inverse variance weighted,15.1020393413877,16,0.517178066231906
+SqPjyB,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Paraprevotella,MR Egger,8.21535982670188,11,0.69389218234444
+SqPjyB,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Paraprevotella,Inverse variance weighted,8.48420105222873,12,0.746240138664127
+t0b6Ao,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Subdoligranulum,MR Egger,11.5664907893926,11,0.397094034766833
+t0b6Ao,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Subdoligranulum,Inverse variance weighted,11.6674983753908,12,0.472739089774281
+uJZmym,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Dorea,MR Egger,10.6346831461835,11,0.474355996602215
+uJZmym,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Dorea,Inverse variance weighted,10.6360949807701,12,0.560335571256937
+Uu05GB,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Clostridiuminnocuumgroup,MR Egger,11.9645291240551,9,0.215316380004979
+Uu05GB,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Clostridiuminnocuumgroup,Inverse variance weighted,12.0406950193834,10,0.282342169080568
+wodMEV,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Anaerostipes,MR Egger,13.7703232025684,13,0.390215586968893
+wodMEV,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Anaerostipes,Inverse variance weighted,14.3626916961797,14,0.423054577665896
+XK1LhR,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Butyrivibrio,MR Egger,7.83127503460876,14,0.89792958540174
+XK1LhR,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",g_Butyrivibrio,Inverse variance weighted,11.2480037557817,15,0.734823837351618
+XSQUzn,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",p_Actinobacteria,MR Egger,15.7759201553109,15,0.397098502658288
+XSQUzn,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",p_Actinobacteria,Inverse variance weighted,15.8714282813117,16,0.461969717693022

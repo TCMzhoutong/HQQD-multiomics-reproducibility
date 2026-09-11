@@ -1,0 +1,2 @@
+pair_id,ligand_id,ligand_name,net_charge,protonation_state,charge_method,force_field,status,note
+MAPK14_3HLL__L01_Pelargonidin,L01_Pelargonidin,Pelargonidin,1,flavylium cation consistent with docking SMILES containing [O+],AM1-BCC via ACPYPE/AmberTools,GAFF,locked,pH-dependent anthocyanidin; use +1 for consistency with docking input unless the analysis explicitly models the neutral quinonoid form.

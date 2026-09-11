@@ -1,0 +1,29 @@
+id.exposure,id.outcome,exposure,outcome,b,se,pval,method
+0Rtwbb,J10_PNEUMOBACTEROTH,g_Coprococcus1,"Bacterial pneumonia, not elsewhere classified",-0.195630663404616,0.176020408163265,0.184003291838686,Contamination mixture
+2ceLcs,J10_PNEUMOBACTEROTH,g_Clostridiumsensustricto1,"Bacterial pneumonia, not elsewhere classified",0.0606198857897313,0.114795918367347,0.41105299628324,Contamination mixture
+3SIwNH,J10_PNEUMOBACTEROTH,p_Firmicutes,"Bacterial pneumonia, not elsewhere classified",0.0392641245339032,0.0994897959183673,0.758882271425024,Contamination mixture
+5Tx4np,J10_PNEUMOBACTEROTH,g_Escherichia_Shigella,"Bacterial pneumonia, not elsewhere classified",-0.0454039259980941,0.130102040816327,0.740100115759931,Contamination mixture
+abBjaX,J10_PNEUMOBACTEROTH,g_Lachnoclostridium,"Bacterial pneumonia, not elsewhere classified",-0.174475295213638,0.14030612244898,0.298263798355071,Contamination mixture
+b57lAH,J10_PNEUMOBACTEROTH,g_Coprococcus2,"Bacterial pneumonia, not elsewhere classified",0.0356352346835819,0.076530612244898,0.652335955808606,Contamination mixture
+DL0nTm,J10_PNEUMOBACTEROTH,g_Eisenbergiella,"Bacterial pneumonia, not elsewhere classified",-0.0181187246503091,0.122448979591837,0.737199430762014,Contamination mixture
+GCST90011328,J10_PNEUMOBACTEROTH,G_Clostridium_XlVa abundance,"Bacterial pneumonia, not elsewhere classified",-0.0121870822501889,0.211734693877551,0.851357832438906,Contamination mixture
+GCST90011329,J10_PNEUMOBACTEROTH,G_Coprococcus abundance,"Bacterial pneumonia, not elsewhere classified",0.0569776720316856,0.0714285714285714,0.389289446267715,Contamination mixture
+GCST90011336,J10_PNEUMOBACTEROTH,G_Paraprevotella abundance,"Bacterial pneumonia, not elsewhere classified",-0.0847776372238224,0.0408163265306123,0.104588720056494,Contamination mixture
+GCST90011342,J10_PNEUMOBACTEROTH,G_Roseburia abundance,"Bacterial pneumonia, not elsewhere classified",0.0524826152076454,0.107142857142857,0.315535304670479,Contamination mixture
+GCST90011346,J10_PNEUMOBACTEROTH,G_Subdoligranulum abundance,"Bacterial pneumonia, not elsewhere classified",0.0394076429901106,0.102040816326531,0.609149539759712,Contamination mixture
+GCST90011481,J10_PNEUMOBACTEROTH,P_Actinobacteria abundance,"Bacterial pneumonia, not elsewhere classified",0.0276951473019167,0.0918367346938775,0.627264475155562,Contamination mixture
+GCST90011483,J10_PNEUMOBACTEROTH,P_Firmicutes abundance,"Bacterial pneumonia, not elsewhere classified",0.107931969441518,0.086734693877551,0.116016657581192,Contamination mixture
+GCST90032323,J10_PNEUMOBACTEROTH,Clostridium I abundance in stool,"Bacterial pneumonia, not elsewhere classified",0.296886113530718,0.346938775510204,0.207393885154146,Contamination mixture
+GCST90032326,J10_PNEUMOBACTEROTH,Clostridium P abundance in stool,"Bacterial pneumonia, not elsewhere classified",0.188413726581921,0.219387755102041,0.274059176212829,Contamination mixture
+GCST90032396,J10_PNEUMOBACTEROTH,Firmicutes A abundance in stool,"Bacterial pneumonia, not elsewhere classified",0.211493155029242,0.372448979591837,0.575717925719693,Contamination mixture
+GCST90032397,J10_PNEUMOBACTEROTH,Firmicutes E abundance in stool,"Bacterial pneumonia, not elsewhere classified",-0.211504897848927,0.331632653061225,0.367842320009475,Contamination mixture
+GCST90032398,J10_PNEUMOBACTEROTH,Firmicutes I abundance in stool,"Bacterial pneumonia, not elsewhere classified",-0.738243069238739,0.903061224489796,0.374270578443287,Contamination mixture
+hwr8uN,J10_PNEUMOBACTEROTH,g_Coprococcus3,"Bacterial pneumonia, not elsewhere classified",0.252816600687036,0.316326530612245,0.377964298837886,Contamination mixture
+kYZi2a,J10_PNEUMOBACTEROTH,g_Roseburia,"Bacterial pneumonia, not elsewhere classified",-0.186945996268263,0.10969387755102,0.0410417451186605,Contamination mixture
+SqPjyB,J10_PNEUMOBACTEROTH,g_Paraprevotella,"Bacterial pneumonia, not elsewhere classified",-0.0184701674599962,0.102040816326531,0.695469601028989,Contamination mixture
+t0b6Ao,J10_PNEUMOBACTEROTH,g_Subdoligranulum,"Bacterial pneumonia, not elsewhere classified",0.113283665586599,0.076530612244898,0.134436325129332,Contamination mixture
+uJZmym,J10_PNEUMOBACTEROTH,g_Dorea,"Bacterial pneumonia, not elsewhere classified",-0.0459123808665306,0.135204081632653,0.536098617374135,Contamination mixture
+Uu05GB,J10_PNEUMOBACTEROTH,g_Clostridiuminnocuumgroup,"Bacterial pneumonia, not elsewhere classified",-0.106462921213605,0.0561224489795919,0.0360183244400746,Contamination mixture
+wodMEV,J10_PNEUMOBACTEROTH,g_Anaerostipes,"Bacterial pneumonia, not elsewhere classified",-0.132475680176366,0.0918367346938776,0.130542891436445,Contamination mixture
+XK1LhR,J10_PNEUMOBACTEROTH,g_Butyrivibrio,"Bacterial pneumonia, not elsewhere classified",-0.0661328594911942,0.0459183673469388,0.0840128039593798,Contamination mixture
+XSQUzn,J10_PNEUMOBACTEROTH,p_Actinobacteria,"Bacterial pneumonia, not elsewhere classified",-0.064036932556198,0.0892857142857143,0.334315075510444,Contamination mixture

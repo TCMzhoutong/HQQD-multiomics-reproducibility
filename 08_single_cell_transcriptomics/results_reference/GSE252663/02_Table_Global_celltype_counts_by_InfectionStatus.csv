@@ -1,0 +1,15 @@
+"CellType_paper","Infection_Status","n_cells"
+"T_cells","Control",2603
+"T_cells","KP",8047
+"B_cells","Control",4475
+"B_cells","KP",4942
+"NK_cells","Control",868
+"NK_cells","KP",996
+"Monocyte_Macrophage","Control",2578
+"Monocyte_Macrophage","KP",4785
+"Epithelial","Control",635
+"Epithelial","KP",1226
+"Endothelial","Control",2558
+"Endothelial","KP",5817
+"Fibroblast","Control",1356
+"Fibroblast","KP",2320

@@ -1,0 +1,12 @@
+﻿ligand_id,name,type,ID,HMDB_ID,KEGG_annotation,PubChem_CID,SMILES,slug,source
+L01_Pelargonidin,Pelargonidin,Ingredient,,,,440832.0,C1=CC(=CC=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O,Pelargonidin,ingredients
+L02_Apigenin,Apigenin,Ingredient,,,,5280443.0,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,Apigenin,ingredients
+L03_5_7_dihydroxy_2_phenyl_4H_chromen_4_one,"5,7-dihydroxy-2-phenyl-4H-chromen-4-one",Ingredient,,,,5281607.0,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,5_7_dihydroxy_2_phenyl_4H_chromen_4_one,ingredients
+L04_2_3_4_dihydroxyphenyl_5_7_dihydroxy_3_4_dihydro_2H_1_benzopyran_4_one,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one",Ingredient,,,,11095.0,C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC(=C(C=C3)O)O,2_3_4_dihydroxyphenyl_5_7_dihydroxy_3_4_dihydro_2H_1_benzopyran_4_one,ingredients
+L05_Scoparone,Scoparone,Ingredient,,,,8417.0,COC1=C(C=C2C(=C1)C=CC(=O)O2)OC,Scoparone,ingredients
+L06_5_2_Dihydroxy_6_7_8_6_tetramethoxyflavone,"5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone",Ingredient,,,,124211.0,COC1=CC=CC(=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)OC)OC)OC)O)O,5_2_Dihydroxy_6_7_8_6_tetramethoxyflavone,ingredients
+L07_Thyroxine,Thyroxine,metabolites,pos_7892,,,5819.0,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,Thyroxine,metabolite
+L08_N_Oleoyl_Alanine,N-Oleoyl Alanine,metabolites,pos_8061,,,44423663.0,CCCCCCCCC=CCCCCCCCC(=O)NC(C)C(=O)O,N_Oleoyl_Alanine,metabolite
+L10_8_Amino_7_oxononanoate,8-Amino-7-oxononanoate,metabolites,pos_4360,,,5460197.0,CC(C(=O)CCCCCC(=O)[O-])N,8_Amino_7_oxononanoate,metabolite
+L11_PE_P_18_0_18_1_12Z_2OH_9_10,"PE(P-18:0/18:1(12Z)-2OH(9,10))",metabolites,neg_12260,HMDB0285328,--,156988680.0,CCCCCCCCCCCCCCCCC=COCC(COP(=O)(O)OCCN)OC(=O)CCCCCCCC(C(CC=CCCCCC)O)O,PE_P_18_0_18_1_12Z_2OH_9_10,metabolite
+L12_12_13_DiHODE,"12,13-DiHODE",metabolites,neg_12234,HMDB0010201,--,16061067.0,CCC=CCC(C(CC=CCCCCCCCC(=O)O)O)O,12_13_DiHODE,metabolite

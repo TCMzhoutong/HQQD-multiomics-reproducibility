@@ -1,0 +1,3 @@
+id.exposure,id.outcome,exposure,outcome,snp_r2.exposure,snp_r2.outcome,correct_causal_direction,steiger_pval
+GCST90032396,J10_PNEUMOBACT,Firmicutes A abundance in stool,Bacterial pneumoniae,0.0661460340594637,0.000148441416872032,TRUE,1.93975791708574e-82
+GCST90032398,J10_PNEUMOBACT,Firmicutes I abundance in stool,Bacterial pneumoniae,0.0837215712678941,9.83006269170705e-05,TRUE,5.89859176378619e-108

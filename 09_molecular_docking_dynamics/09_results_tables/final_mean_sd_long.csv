@@ -1,0 +1,45 @@
+﻿pair_id,target,pdb_id,ligand_id,ligand_name,source,mean_affinity_kcal_mol,sd_affinity_kcal_mol,n_runs
+BCL2_8HTS__L03_5_7_dihydroxy_2_phenyl_4H_chromen_4_one,BCL2,8HTS,L03_5_7_dihydroxy_2_phenyl_4H_chromen_4_one,"5,7-dihydroxy-2-phenyl-4H-chromen-4-one",ingredients,-7.149666666666666,0.0061101009266079,3
+BCL2_8HTS__L02_Apigenin,BCL2,8HTS,L02_Apigenin,Apigenin,ingredients,-6.906333333333333,0.0028867513459485,3
+BCL2_8HTS__L01_Pelargonidin,BCL2,8HTS,L01_Pelargonidin,Pelargonidin,ingredients,-6.829000000000001,0.0034641016151378,3
+BCL2_8HTS__L04_2_3_4_dihydroxyphenyl_5_7_dihydroxy_3_4_dihydro_2H_1_benzopyran_4_one,BCL2,8HTS,L04_2_3_4_dihydroxyphenyl_5_7_dihydroxy_3_4_dihydro_2H_1_benzopyran_4_one,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one",ingredients,-6.771999999999999,0.0225166604983958,3
+BCL2_8HTS__L06_5_2_Dihydroxy_6_7_8_6_tetramethoxyflavone,BCL2,8HTS,L06_5_2_Dihydroxy_6_7_8_6_tetramethoxyflavone,"5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone",ingredients,-6.640333333333333,0.0213853532431271,3
+BCL2_8HTS__L07_Thyroxine,BCL2,8HTS,L07_Thyroxine,Thyroxine,metabolite,-6.615666666666667,0.378345521095907,3
+BCL2_8HTS__L05_Scoparone,BCL2,8HTS,L05_Scoparone,Scoparone,ingredients,-6.181,0.002,3
+BCL2_8HTS__L11_PE_P_18_0_18_1_12Z_2OH_9_10,BCL2,8HTS,L11_PE_P_18_0_18_1_12Z_2OH_9_10,"PE(P-18:0/18:1(12Z)-2OH(9,10))",metabolite,-5.900333333333333,0.3497947016941986,3
+BCL2_8HTS__L08_N_Oleoyl_Alanine,BCL2,8HTS,L08_N_Oleoyl_Alanine,N-Oleoyl Alanine,metabolite,-5.775666666666666,0.191745491037816,3
+BCL2_8HTS__L12_12_13_DiHODE,BCL2,8HTS,L12_12_13_DiHODE,"12,13-DiHODE",metabolite,-5.686666666666667,0.1595441422720791,3
+BCL2_8HTS__L10_8_Amino_7_oxononanoate,BCL2,8HTS,L10_8_Amino_7_oxononanoate,8-Amino-7-oxononanoate,metabolite,-4.999,0.1385893213779474,3
+CASP1_6PZP__L04_2_3_4_dihydroxyphenyl_5_7_dihydroxy_3_4_dihydro_2H_1_benzopyran_4_one,CASP1,6PZP,L04_2_3_4_dihydroxyphenyl_5_7_dihydroxy_3_4_dihydro_2H_1_benzopyran_4_one,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one",ingredients,-6.884333333333333,0.0816169916949487,3
+CASP1_6PZP__L03_5_7_dihydroxy_2_phenyl_4H_chromen_4_one,CASP1,6PZP,L03_5_7_dihydroxy_2_phenyl_4H_chromen_4_one,"5,7-dihydroxy-2-phenyl-4H-chromen-4-one",ingredients,-6.848,0.0199749843554379,3
+CASP1_6PZP__L06_5_2_Dihydroxy_6_7_8_6_tetramethoxyflavone,CASP1,6PZP,L06_5_2_Dihydroxy_6_7_8_6_tetramethoxyflavone,"5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone",ingredients,-6.561,0.0060827625302979,3
+CASP1_6PZP__L02_Apigenin,CASP1,6PZP,L02_Apigenin,Apigenin,ingredients,-6.496333333333333,0.01950213663508,3
+CASP1_6PZP__L01_Pelargonidin,CASP1,6PZP,L01_Pelargonidin,Pelargonidin,ingredients,-6.338333333333334,0.0773584729252935,3
+CASP1_6PZP__L07_Thyroxine,CASP1,6PZP,L07_Thyroxine,Thyroxine,metabolite,-5.550666666666667,0.0475114021402576,3
+CASP1_6PZP__L12_12_13_DiHODE,CASP1,6PZP,L12_12_13_DiHODE,"12,13-DiHODE",metabolite,-5.326999999999999,0.3636743048388215,3
+CASP1_6PZP__L05_Scoparone,CASP1,6PZP,L05_Scoparone,Scoparone,ingredients,-5.177333333333333,0.0292631736715853,3
+CASP1_6PZP__L08_N_Oleoyl_Alanine,CASP1,6PZP,L08_N_Oleoyl_Alanine,N-Oleoyl Alanine,metabolite,-4.729666666666667,0.3237164397019915,3
+CASP1_6PZP__L11_PE_P_18_0_18_1_12Z_2OH_9_10,CASP1,6PZP,L11_PE_P_18_0_18_1_12Z_2OH_9_10,"PE(P-18:0/18:1(12Z)-2OH(9,10))",metabolite,-4.682666666666667,0.2206362013209378,3
+CASP1_6PZP__L10_8_Amino_7_oxononanoate,CASP1,6PZP,L10_8_Amino_7_oxononanoate,8-Amino-7-oxononanoate,metabolite,-4.424666666666667,0.0961734544109411,3
+MAPK14_3HLL__L01_Pelargonidin,MAPK14,3HLL,L01_Pelargonidin,Pelargonidin,ingredients,-8.827666666666667,0.009018499505645,3
+MAPK14_3HLL__L02_Apigenin,MAPK14,3HLL,L02_Apigenin,Apigenin,ingredients,-8.664333333333333,0.0077674534651541,3
+MAPK14_3HLL__L03_5_7_dihydroxy_2_phenyl_4H_chromen_4_one,MAPK14,3HLL,L03_5_7_dihydroxy_2_phenyl_4H_chromen_4_one,"5,7-dihydroxy-2-phenyl-4H-chromen-4-one",ingredients,-8.604333333333335,0.0106926766215629,3
+MAPK14_3HLL__L04_2_3_4_dihydroxyphenyl_5_7_dihydroxy_3_4_dihydro_2H_1_benzopyran_4_one,MAPK14,3HLL,L04_2_3_4_dihydroxyphenyl_5_7_dihydroxy_3_4_dihydro_2H_1_benzopyran_4_one,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one",ingredients,-8.458,0.0355387112878338,3
+MAPK14_3HLL__L06_5_2_Dihydroxy_6_7_8_6_tetramethoxyflavone,MAPK14,3HLL,L06_5_2_Dihydroxy_6_7_8_6_tetramethoxyflavone,"5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone",ingredients,-8.344666666666667,0.0105987420637222,3
+MAPK14_3HLL__L07_Thyroxine,MAPK14,3HLL,L07_Thyroxine,Thyroxine,metabolite,-7.414333333333334,0.0028867513459485,3
+MAPK14_3HLL__L08_N_Oleoyl_Alanine,MAPK14,3HLL,L08_N_Oleoyl_Alanine,N-Oleoyl Alanine,metabolite,-6.872333333333333,0.6342431184753473,3
+MAPK14_3HLL__L11_PE_P_18_0_18_1_12Z_2OH_9_10,MAPK14,3HLL,L11_PE_P_18_0_18_1_12Z_2OH_9_10,"PE(P-18:0/18:1(12Z)-2OH(9,10))",metabolite,-6.685666666666666,0.2909473033615078,3
+MAPK14_3HLL__L12_12_13_DiHODE,MAPK14,3HLL,L12_12_13_DiHODE,"12,13-DiHODE",metabolite,-6.553666666666667,0.06900241541666,3
+MAPK14_3HLL__L05_Scoparone,MAPK14,3HLL,L05_Scoparone,Scoparone,ingredients,-6.457333333333334,0.0106926766215634,3
+MAPK14_3HLL__L10_8_Amino_7_oxononanoate,MAPK14,3HLL,L10_8_Amino_7_oxononanoate,8-Amino-7-oxononanoate,metabolite,-5.585,0.0334514573673557,3
+PTPRC_1YGU__L03_5_7_dihydroxy_2_phenyl_4H_chromen_4_one,PTPRC,1YGU,L03_5_7_dihydroxy_2_phenyl_4H_chromen_4_one,"5,7-dihydroxy-2-phenyl-4H-chromen-4-one",ingredients,-8.051,0.00953939201417,3
+PTPRC_1YGU__L02_Apigenin,PTPRC,1YGU,L02_Apigenin,Apigenin,ingredients,-7.817666666666667,0.0135769412362777,3
+PTPRC_1YGU__L04_2_3_4_dihydroxyphenyl_5_7_dihydroxy_3_4_dihydro_2H_1_benzopyran_4_one,PTPRC,1YGU,L04_2_3_4_dihydroxyphenyl_5_7_dihydroxy_3_4_dihydro_2H_1_benzopyran_4_one,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-1-benzopyran-4-one",ingredients,-7.537333333333334,0.0265581123827224,3
+PTPRC_1YGU__L01_Pelargonidin,PTPRC,1YGU,L01_Pelargonidin,Pelargonidin,ingredients,-7.525666666666666,0.0055075705472861,3
+PTPRC_1YGU__L06_5_2_Dihydroxy_6_7_8_6_tetramethoxyflavone,PTPRC,1YGU,L06_5_2_Dihydroxy_6_7_8_6_tetramethoxyflavone,"5,2'-Dihydroxy-6,7,8,6'-tetramethoxyflavone",ingredients,-6.989666666666667,0.009451631252505,3
+PTPRC_1YGU__L05_Scoparone,PTPRC,1YGU,L05_Scoparone,Scoparone,ingredients,-6.539000000000001,0.0147309198626564,3
+PTPRC_1YGU__L07_Thyroxine,PTPRC,1YGU,L07_Thyroxine,Thyroxine,metabolite,-6.234666666666667,0.6270664504925562,3
+PTPRC_1YGU__L10_8_Amino_7_oxononanoate,PTPRC,1YGU,L10_8_Amino_7_oxononanoate,8-Amino-7-oxononanoate,metabolite,-5.852333333333333,0.1306611393388765,3
+PTPRC_1YGU__L08_N_Oleoyl_Alanine,PTPRC,1YGU,L08_N_Oleoyl_Alanine,N-Oleoyl Alanine,metabolite,-5.79,0.3256270873253636,3
+PTPRC_1YGU__L12_12_13_DiHODE,PTPRC,1YGU,L12_12_13_DiHODE,"12,13-DiHODE",metabolite,-5.478333333333333,0.3351437502525347,3
+PTPRC_1YGU__L11_PE_P_18_0_18_1_12Z_2OH_9_10,PTPRC,1YGU,L11_PE_P_18_0_18_1_12Z_2OH_9_10,"PE(P-18:0/18:1(12Z)-2OH(9,10))",metabolite,-5.088333333333334,0.4636564820352817,3

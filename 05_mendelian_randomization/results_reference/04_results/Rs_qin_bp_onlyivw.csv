@@ -1,0 +1,6 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,fdr
+GCST90032323,J10_PNEUMOBACT,Bacterial pneumoniae,Clostridium I abundance in stool,Inverse variance weighted (multiplicative random effects),13,0.0923864331560929,0.0730974355970257,0.206272874173461,0.343788123622435
+GCST90032326,J10_PNEUMOBACT,Bacterial pneumoniae,Clostridium P abundance in stool,Inverse variance weighted (multiplicative random effects),23,0.0143812308032277,0.0641622001227178,0.822649396212596,0.822649396212596
+GCST90032396,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes A abundance in stool,Inverse variance weighted (multiplicative random effects),18,-0.350238182429841,0.141468960491481,0.0132966107988298,0.0349026965459506
+GCST90032397,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes E abundance in stool,Inverse variance weighted (multiplicative random effects),20,0.0436993131028297,0.156015070303806,0.77940328319193,0.822649396212596
+GCST90032398,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes I abundance in stool,Inverse variance weighted (multiplicative random effects),23,-0.548540499400205,0.223141477996452,0.0139610786183803,0.0349026965459506

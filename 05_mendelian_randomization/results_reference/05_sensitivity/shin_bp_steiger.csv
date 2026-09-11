@@ -1,0 +1,3 @@
+id.exposure,id.outcome,exposure,outcome,snp_r2.exposure,snp_r2.outcome,correct_causal_direction,steiger_pval
+GCST90243423,J10_PNEUMOBACT,Isoleucine levels,Bacterial pneumoniae,0.049608133890136,0.000195842131037914,TRUE,3.06313669168295e-77
+GCST90243460,J10_PNEUMOBACT,Serotonin 5HT levels,Bacterial pneumoniae,0.0572149310991954,0.000145792291125461,TRUE,1.03479739863289e-72

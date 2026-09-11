@@ -1,0 +1,30 @@
+id.exposure,id.outcome,exposure,outcome,b,se,pval,method
+3C1lPZ,J10_PNEUMOBACT,g_Coprococcus2,Bacterial pneumoniae,-0.103259251802137,0.13265306122449,0.520962358574036,Contamination mixture
+bbcEp8,J10_PNEUMOBACT,g_Butyrivibrio,Bacterial pneumoniae,0.0097650035288373,0.0612244897959184,0.620393226472593,Contamination mixture
+BCwVGo,J10_PNEUMOBACT,g_Subdoligranulum,Bacterial pneumoniae,0.190632674127711,0.127551020408163,0.282541141811516,Contamination mixture
+Bt0ck0,J10_PNEUMOBACT,g_Roseburia,Bacterial pneumoniae,0.0702480454205923,0.135204081632653,0.394554622239227,Contamination mixture
+El0EYI,J10_PNEUMOBACT,p_Firmicutes,Bacterial pneumoniae,0.057644604100773,0.0637755102040817,0.389978006772127,Contamination mixture
+GCST90011328,J10_PNEUMOBACT,G_Clostridium_XlVa abundance,Bacterial pneumoniae,-0.0780101642627328,0.0739795918367347,0.168491166642599,Contamination mixture
+GCST90011329,J10_PNEUMOBACT,G_Coprococcus abundance,Bacterial pneumoniae,0.0347392643781153,0.0688775510204082,0.486596192897747,Contamination mixture
+GCST90011336,J10_PNEUMOBACT,G_Paraprevotella abundance,Bacterial pneumoniae,-0.0165162950499371,0.0229591836734694,0.349344782922808,Contamination mixture
+GCST90011342,J10_PNEUMOBACT,G_Roseburia abundance,Bacterial pneumoniae,-0.0346873421213139,0.0816326530612245,0.556045305274981,Contamination mixture
+GCST90011346,J10_PNEUMOBACT,G_Subdoligranulum abundance,Bacterial pneumoniae,0.104805833841392,0.102040816326531,0.208249125755165,Contamination mixture
+GCST90011481,J10_PNEUMOBACT,P_Actinobacteria abundance,Bacterial pneumoniae,0.033533821114686,0.0408163265306123,0.374938398455103,Contamination mixture
+GCST90011483,J10_PNEUMOBACT,P_Firmicutes abundance,Bacterial pneumoniae,0.018258756866762,0.102040816326531,0.726955737549094,Contamination mixture
+GCST90032323,J10_PNEUMOBACT,Clostridium I abundance in stool,Bacterial pneumoniae,0.168892386273402,0.196428571428571,0.356657110712666,Contamination mixture
+GCST90032326,J10_PNEUMOBACT,Clostridium P abundance in stool,Bacterial pneumoniae,0.0187577238108922,0.160714285714286,0.82320494485176,Contamination mixture
+GCST90032396,J10_PNEUMOBACT,Firmicutes A abundance in stool,Bacterial pneumoniae,-0.611997558594615,0.272959183673469,0.041316987717077,Contamination mixture
+GCST90032397,J10_PNEUMOBACT,Firmicutes E abundance in stool,Bacterial pneumoniae,-0.299425906706285,0.214285714285714,0.174215936875918,Contamination mixture
+GCST90032398,J10_PNEUMOBACT,Firmicutes I abundance in stool,Bacterial pneumoniae,-1.11839844759867,0.5,0.0563993759729541,Contamination mixture
+gD4onr,J10_PNEUMOBACT,g_Coprococcus3,Bacterial pneumoniae,0.257883855561911,0.135204081632653,0.10666180700197,Contamination mixture
+hECb1U,J10_PNEUMOBACT,g_Clostridiumsensustricto1,Bacterial pneumoniae,-0.0433251851921969,0.104591836734694,0.48345027558921,Contamination mixture
+L9wcrw,J10_PNEUMOBACT,g_Anaerostipes,Bacterial pneumoniae,0.0616201715123254,0.137755102040816,0.369090370117224,Contamination mixture
+mLW8Jk,J10_PNEUMOBACT,g_Coprococcus1,Bacterial pneumoniae,-0.109293947872069,0.145408163265306,0.169482716433067,Contamination mixture
+MqunR6,J10_PNEUMOBACT,g_Paraprevotella,Bacterial pneumoniae,-0.0441758803450398,0.0816326530612245,0.305962618230415,Contamination mixture
+NINZE8,J10_PNEUMOBACT,g_Escherichia_Shigella,Bacterial pneumoniae,0.0188205542184602,0.0816326530612245,0.833545393843736,Contamination mixture
+Oykj5Q,J10_PNEUMOBACT,g_Eisenbergiella,Bacterial pneumoniae,-0.0132486068144193,0.0994897959183673,0.64218723913652,Contamination mixture
+PuRhZ5,J10_PNEUMOBACT,p_Actinobacteria,Bacterial pneumoniae,0.00709911117976425,0.0790816326530613,0.861793927956784,Contamination mixture
+QvK04c,J10_PNEUMOBACT,g_Lachnoclostridium,Bacterial pneumoniae,0.176453382264462,0.191326530612245,0.100944370372955,Contamination mixture
+Ss8cmW,J10_PNEUMOBACT,g_Clostridiuminnocuumgroup,Bacterial pneumoniae,0.0576568456033454,0.10969387755102,0.190591581330006,Contamination mixture
+Wc2kVO,J10_PNEUMOBACT,g_Dorea,Bacterial pneumoniae,-0.0926445478477955,0.0816326530612245,0.26162301515126,Contamination mixture
+Wc2kVO,J10_PNEUMOBACT,g_Dorea,Bacterial pneumoniae,-0.0926445478477955,0.0127551020408163,0.26162301515126,Contamination mixture

@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,egger_intercept,se,pval
+GCST90032396,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes A abundance in stool,0.00157383660317306,0.00921935147231493,0.866591802711721
+GCST90032398,J10_PNEUMOBACT,Bacterial pneumoniae,Firmicutes I abundance in stool,0.00674016133741397,0.00955158945034472,0.488155235629413

@@ -1,0 +1,10 @@
+MCODE::Clusters (1),MCODE::Node Status (1),MCODE::Score (1),name,selected,shared name
+Cluster 1,Clustered,6.805555555555555,MAPK14,False,MAPK14
+Cluster 1,Clustered,6.805555555555555,PTGS2,False,PTGS2
+Cluster 1,Seed,7.0,SIRT1,False,SIRT1
+Cluster 1,Clustered,6.805555555555555,PPARG,False,PPARG
+Cluster 1,Clustered,7.0,PTPRC,False,PTPRC
+Cluster 1,Clustered,6.805555555555555,CASP1,False,CASP1
+Cluster 1,Clustered,6.805555555555555,BCL2,False,BCL2
+Cluster 1,Clustered,6.805555555555555,MMP9,False,MMP9
+Cluster 1,Clustered,6.805555555555555,AKT1,False,AKT1

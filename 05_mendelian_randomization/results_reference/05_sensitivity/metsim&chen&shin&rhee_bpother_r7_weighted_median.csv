@@ -1,0 +1,14 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+053Uc4,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",thyroxine,Weighted median,7,-0.0325779700683134,0.0321147232363262,0.310380119706338
+C100003101,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",METSIM_C100003101_alpha_CEHC_glucuronide,Weighted median,18,-0.005330567891675,0.0205767901337833,0.795591022650474
+C1094,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",METSIM_C1094_thyroxine,Weighted median,20,0.00903897102005239,0.05118945432707,0.859839268991609
+C2029,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",METSIM_C2029_azelate_C9_DC,Weighted median,10,0.00744481552880828,0.0620320934425692,0.904470833494199
+C376,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",METSIM_C376_isoleucine,Weighted median,23,0.047909759643129,0.0458635016258327,0.296200360454139
+C504,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",METSIM_C504_serotonin,Weighted median,19,0.0142122050520429,0.0496136370916327,0.774527638275008
+GCST90200293,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Thyroxine levels,Weighted median,21,-0.0676610110319359,0.0585697322920146,0.24799975319969
+GCST90200399,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Isoleucine levels,Weighted median,22,0.0261730992811391,0.0382712064159084,0.494047864509343
+GCST90200422,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Serotonin levels,Weighted median,25,-0.00172468109500083,0.0484647128495696,0.971612211292249
+GCST90243423,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Isoleucine levels,Weighted median,18,0.432196945644475,0.613155637313716,0.480889180614871
+GCST90243460,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Serotonin 5HT levels,Weighted median,16,-0.0416806149237807,0.24254248217376,0.863556462803189
+o9MEwk,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",isoleucine,Weighted median,11,-0.0136619369443149,0.0277869957707526,0.622955073509996
+Qg2eCT,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",serotonin,Weighted median,8,0.0307851249656226,0.0380683042629311,0.418698499484738
