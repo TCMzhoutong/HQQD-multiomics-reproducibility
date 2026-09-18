@@ -1,0 +1,4 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,fdr
+053Uc4,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",thyroxine,Inverse variance weighted (multiplicative random effects),7,-0.0194924333535953,0.0151068060875965,0.196943726474933,0.692385240888786
+C1094,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",METSIM_C1094_thyroxine,Inverse variance weighted (multiplicative random effects),20,0.00340756386909812,0.0386571358728586,0.929758745012494,0.929758745012494
+GCST90200293,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Thyroxine levels,Inverse variance weighted (multiplicative random effects),21,-0.0322431146199184,0.0393125611718544,0.412117297505027,0.692385240888786

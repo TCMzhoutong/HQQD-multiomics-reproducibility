@@ -1,4 +1,2 @@
 id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
-jd9BgS,J10_PNEUMOBACT,Bacterial pneumoniae,isoleucine,Weighted median,11,-0.0110996606315994,0.0190669252526827,0.560470943988319
-qF47S1,J10_PNEUMOBACT,Bacterial pneumoniae,serotonin,Weighted median,8,0.0493801348030135,0.0287078250207717,0.0854155003541314
 uXhzUk,J10_PNEUMOBACT,Bacterial pneumoniae,thyroxine,Weighted median,7,-0.0309292320646542,0.023085736164213,0.180324987301276

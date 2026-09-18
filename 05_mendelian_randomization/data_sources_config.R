@@ -9,31 +9,8 @@ get_exposure_source_config <- function(source_name) {
   
   configs <- list(
     
-    shin = list(
-      name = "Shin Metabolites",
-      file_path = DATA_FILES$shin,
-      format_params = list(
-        snp_col = "variant_id",
-        beta_col = "beta",
-        se_col = "standard_error",
-        eaf_col = "effect_allele_frequency",
-        effect_allele_col = "effect_allele",
-        other_allele_col = "other_allele",
-        pval_col = "p_value",
-        samplesize_col = "SampleSize",
-        phenotype_col = "reportedTrait",
-        id_col = "GCST",
-        chr_col = "chromosome",
-        pos_col = "base_pair_location",
-        header = TRUE,
-        min_pval = 1e-200,
-        log_pval = FALSE
-      ),
-      need_eaf = FALSE
-    ),
-    
     chen = list(
-      name = "Chen Fecal Metabolites",
+      name = "Chen Plasma Metabolites",
       file_path = DATA_FILES$chen,
       format_params = list(
         snp_col = "variant_id",
@@ -171,30 +148,6 @@ get_exposure_source_config <- function(source_name) {
       need_eaf = FALSE
     ),
 
-    # ---- T cell traits ----
-    tcell = list(
-      name = "T Cell Traits",
-      file_path = DATA_FILES$tcell,
-      format_params = list(
-        snp_col = "variant_id",
-        beta_col = "beta",
-        se_col = "standard_error",
-        eaf_col = "effect_allele_frequency",
-        effect_allele_col = "effect_allele",
-        other_allele_col = "other_allele",
-        pval_col = "p_value",
-        samplesize_col = "n",
-        phenotype_col = "reportedTrait",
-        id_col = "GCST",
-        chr_col = "chromosome",
-        pos_col = "base_pair_location",
-        header = TRUE,
-        min_pval = 1e-200,
-        log_pval = FALSE
-      ),
-      need_eaf = FALSE
-    ),
-    
     plasma_pqtl = list(
       name = "UKB-PPP Plasma Proteins",
       file_path = DATA_FILES$plasma_pqtl,
@@ -294,146 +247,6 @@ get_outcome_source_config <- function(outcome_name) {
         gene_col = "nearest_genes",
         chr_col = "#chrom",
         pos_col = "pos",
-        header = TRUE,
-        min_pval = 1e-200,
-        log_pval = FALSE
-      )
-    ),
-
-    bpr13 = list(
-      name = "Bacterial pneumonia FinnGen R13",
-      short_name = "bpr13",
-      file = "finngen_R13_J10_PNEUMOBACT.gz",
-      cases = 22740,
-      controls = 409571,
-      trait = "Bacterial pneumoniae",
-      id = "J10_PNEUMOBACT",
-      format_params = list(
-        snp_col = "rsids",
-        beta_col = "beta",
-        se_col = "sebeta",
-        eaf_col = "af_alt",
-        effect_allele_col = "alt",
-        other_allele_col = "ref",
-        pval_col = "pval",
-        ncase_col = "cases",
-        ncontrol_col = "controls",
-        phenotype_col = "trait",
-        id_col = "id",
-        gene_col = "nearest_genes",
-        chr_col = "#chrom",
-        pos_col = "pos",
-        header = TRUE,
-        min_pval = 1e-200,
-        log_pval = FALSE
-      )
-    ),
-    
-    pna = list(
-      name = "All pneumonia",
-      short_name = "pna",
-      file = "finngen_R10_J10_PNEUMONIA.gz",
-      cases = 63377,
-      controls = 348804,
-      trait = "All pneumoniae",
-      id = "J10_PNEUMONIA",
-      format_params = list(
-        snp_col = "rsids",
-        beta_col = "beta",
-        se_col = "sebeta",
-        eaf_col = "af_alt",
-        effect_allele_col = "alt",
-        other_allele_col = "ref",
-        pval_col = "pval",
-        ncase_col = "cases",
-        ncontrol_col = "controls",
-        phenotype_col = "trait",
-        id_col = "id",
-        gene_col = "nearest_genes",
-        chr_col = "#chrom",
-        pos_col = "pos",
-        header = TRUE,
-        min_pval = 1e-200,
-        log_pval = FALSE
-      )
-    ),
-    
-    vp = list(
-      name = "Viral pneumonia",
-      short_name = "vp",
-      file = "finngen_R10_J10_VIRALPNEUMO.gz",
-      cases = 3777,
-      controls = 344010,
-      trait = "Viral pneumonia",
-      id = "J10_VIRALPNEUMO",
-      format_params = list(
-        snp_col = "rsids",
-        beta_col = "beta",
-        se_col = "sebeta",
-        eaf_col = "af_alt",
-        effect_allele_col = "alt",
-        other_allele_col = "ref",
-        pval_col = "pval",
-        ncase_col = "cases",
-        ncontrol_col = "controls",
-        phenotype_col = "trait",
-        id_col = "id",
-        gene_col = "nearest_genes",
-        chr_col = "#chrom",
-        pos_col = "pos",
-        header = TRUE,
-        min_pval = 1e-200,
-        log_pval = FALSE
-      )
-    ),
-    
-    copd = list(
-      name = "Chronic obstructive pulmonary disease",
-      short_name = "copd",
-      file = "finngen_R12_J10_COPD.gz",
-      cases = 30000,
-      controls = 400000,
-      trait = "COPD",
-      id = "J10_COPD",
-      format_params = list(
-        snp_col = "rsids",
-        beta_col = "beta",
-        se_col = "sebeta",
-        eaf_col = "af_alt",
-        effect_allele_col = "alt",
-        other_allele_col = "ref",
-        pval_col = "pval",
-        ncase_col = "cases",
-        ncontrol_col = "controls",
-        phenotype_col = "trait",
-        id_col = "id",
-        gene_col = "nearest_genes",
-        chr_col = "#chrom",
-        pos_col = "pos",
-        header = TRUE,
-        min_pval = 1e-200,
-        log_pval = FALSE
-      )
-    ),
-
-    # ---- T cell traits (as outcomes) ----
-    tcell = list(
-      name = "T Cell Traits",
-      short_name = "tcell",
-      file_path = DATA_FILES$tcell_outcome,
-      format_params = list(
-        snp_col = "variant_id",
-        beta_col = "beta",
-        se_col = "standard_error",
-        eaf_col = "effect_allele_frequency",
-        effect_allele_col = "effect_allele",
-        other_allele_col = "other_allele",
-        pval_col = "p_value",
-        samplesize_col = "n",
-        phenotype_col = "reportedTrait",
-        id_col = "GCST",
-        chr_col = "chromosome",
-        pos_col = "base_pair_location",
         header = TRUE,
         min_pval = 1e-200,
         log_pval = FALSE

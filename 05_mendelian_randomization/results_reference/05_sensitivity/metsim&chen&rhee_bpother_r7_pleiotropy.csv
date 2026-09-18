@@ -1,0 +1,4 @@
+id.exposure,id.outcome,outcome,exposure,egger_intercept,se,pval
+053Uc4,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",thyroxine,0.00736269337165686,0.0122674707514307,0.574549223878672
+C1094,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",METSIM_C1094_thyroxine,-0.00318781109687107,0.0113944602524336,0.782844679694847
+GCST90200293,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Thyroxine levels,0.00361209764262206,0.0153865804616599,0.816909212154132

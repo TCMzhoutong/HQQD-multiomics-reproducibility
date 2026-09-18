@@ -1,3 +1,0 @@
-id.exposure,id.outcome,exposure,outcome,b,se,pval,method
-GCST90243423,J10_PNEUMOBACT,Isoleucine levels,Bacterial pneumoniae,0.522566265060241,0.563775510204082,0.120057069084001,Contamination mixture
-GCST90243460,J10_PNEUMOBACT,Serotonin 5HT levels,Bacterial pneumoniae,0.148671232876712,0.13265306122449,0.234220248009087,Contamination mixture

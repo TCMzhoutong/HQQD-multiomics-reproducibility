@@ -1,4 +1,2 @@
 id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
 GCST90200293,J10_PNEUMOBACT,Bacterial pneumoniae,Thyroxine levels,Weighted median,22,-0.103630738796952,0.0432037316271457,0.0164555228695636
-GCST90200399,J10_PNEUMOBACT,Bacterial pneumoniae,Isoleucine levels,Weighted median,22,-0.0127348774749246,0.0256240241694903,0.619196276488066
-GCST90200422,J10_PNEUMOBACT,Bacterial pneumoniae,Serotonin levels,Weighted median,25,-0.032654716820851,0.0340900584511754,0.338115407968193

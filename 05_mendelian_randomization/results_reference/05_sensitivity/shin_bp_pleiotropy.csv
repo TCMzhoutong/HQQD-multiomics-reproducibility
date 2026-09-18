@@ -1,3 +1,0 @@
-id.exposure,id.outcome,outcome,exposure,egger_intercept,se,pval
-GCST90243423,J10_PNEUMOBACT,Bacterial pneumoniae,Isoleucine levels,0.00113573618773475,0.00945610023405179,0.905894279379658
-GCST90243460,J10_PNEUMOBACT,Bacterial pneumoniae,Serotonin 5HT levels,-0.00384236244236479,0.00620656922715542,0.545806468713072

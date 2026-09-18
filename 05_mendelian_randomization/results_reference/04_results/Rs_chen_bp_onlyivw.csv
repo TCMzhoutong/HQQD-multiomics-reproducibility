@@ -1,4 +1,2 @@
 id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,fdr
 GCST90200293,J10_PNEUMOBACT,Bacterial pneumoniae,Thyroxine levels,Inverse variance weighted (multiplicative random effects),22,-0.0397307792449252,0.0293092510127005,0.175235611298086,0.525706833894257
-GCST90200399,J10_PNEUMOBACT,Bacterial pneumoniae,Isoleucine levels,Inverse variance weighted (multiplicative random effects),22,-0.0149350617486724,0.0170537227012344,0.381157536646507,0.571736304969761
-GCST90200422,J10_PNEUMOBACT,Bacterial pneumoniae,Serotonin levels,Inverse variance weighted (multiplicative random effects),25,-0.00536627476734626,0.0219397548733474,0.806772844567662,0.806772844567662

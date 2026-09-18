@@ -1,4 +1,2 @@
 id.exposure,id.outcome,exposure,outcome,snp_r2.exposure,snp_r2.outcome,correct_causal_direction,steiger_pval
-jd9BgS,J10_PNEUMOBACT,isoleucine,Bacterial pneumoniae,0.1205072566389,7.06087810398982e-05,TRUE,4.14556187529223e-58
-qF47S1,J10_PNEUMOBACT,serotonin,Bacterial pneumoniae,0.0813663302550073,7.9683302973763e-05,TRUE,3.43270333564956e-38
 uXhzUk,J10_PNEUMOBACT,thyroxine,Bacterial pneumoniae,0.0749168983401126,5.69361018392267e-05,TRUE,2.16475495975323e-35

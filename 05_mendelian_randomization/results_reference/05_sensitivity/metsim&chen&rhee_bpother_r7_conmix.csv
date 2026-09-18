@@ -1,0 +1,4 @@
+id.exposure,id.outcome,exposure,outcome,b,se,pval,method
+053Uc4,J10_PNEUMOBACTEROTH,thyroxine,"Bacterial pneumonia, not elsewhere classified",-0.0267865596127717,0.0459183673469388,0.355175772248859,Contamination mixture
+C1094,J10_PNEUMOBACTEROTH,METSIM_C1094_thyroxine,"Bacterial pneumonia, not elsewhere classified",0.0940908,0.114795918367347,0.130679135079661,Contamination mixture
+GCST90200293,J10_PNEUMOBACTEROTH,Thyroxine levels,"Bacterial pneumonia, not elsewhere classified",-0.082866677298701,0.0535714285714286,0.114920583999525,Contamination mixture

@@ -1,3 +1,0 @@
-id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
-GCST90243423,J10_PNEUMOBACT,Bacterial pneumoniae,Isoleucine levels,Weighted median,18,0.565544001160852,0.455032007961086,0.213917062982653
-GCST90243460,J10_PNEUMOBACT,Bacterial pneumoniae,Serotonin 5HT levels,Weighted median,16,0.0787630923250825,0.161188731057378,0.62509733229028

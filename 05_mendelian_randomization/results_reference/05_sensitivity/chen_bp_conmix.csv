@@ -1,4 +1,2 @@
 id.exposure,id.outcome,exposure,outcome,b,se,pval,method
 GCST90200293,J10_PNEUMOBACT,Thyroxine levels,Bacterial pneumoniae,-0.0900218759121234,0.0331632653061225,0.00746185377152017,Contamination mixture
-GCST90200399,J10_PNEUMOBACT,Isoleucine levels,Bacterial pneumoniae,-0.0114257563517671,0.0204081632653061,0.646543299727153,Contamination mixture
-GCST90200422,J10_PNEUMOBACT,Serotonin levels,Bacterial pneumoniae,-0.0334051871765391,0.0306122448979592,0.325939803443038,Contamination mixture

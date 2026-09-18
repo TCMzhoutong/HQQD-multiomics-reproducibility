@@ -4,11 +4,20 @@ module	data_category	dataset_or_accession	status	repository_or_url	notes
 02_metagenomics	raw_shotgun_reads	not_available	not_bundled	—	Not available in the current study archive
 02_metagenomics	processed_shotgun_metagenomic_data	OMIX020530	deposited	https://ngdc.cncb.ac.cn/omix/	Processed data and associated analysis files
 03_serum_metabolomics	raw_mass_spectrometry_files	[AUTHOR_INPUT_NEEDED]	not_bundled	[AUTHOR_INPUT_NEEDED]	Raw positive- and negative-ion files
-05_mendelian_randomization	public_GWAS_and_pQTL_inputs	[AUTHOR_INPUT_NEEDED]	not_bundled	[AUTHOR_INPUT_NEEDED]	Record accession and release for each source
+05_mendelian_randomization	gut_microbiota_GWAS	MiBioGen	not_bundled	https://mibiogen.gcc.rug.nl/	Kurilshikov et al. 2021; PMID 33462485; DOI 10.1038/s41588-020-00763-1
+05_mendelian_randomization	gut_microbiota_GWAS	Ruhlemann	not_bundled	https://doi.org/10.1038/s41588-020-00747-1	Rühlemann et al. 2021; PMID 33462482
+05_mendelian_randomization	gut_microbiota_GWAS	Qin_FINRISK_2002	not_bundled	https://doi.org/10.1038/s41588-021-00991-z	Qin et al. 2022; PMID 35115689
+05_mendelian_randomization	plasma_metabolite_GWAS	METSIM_thyroxine	not_bundled	https://pheweb.org/metsim-metab/	Yin et al. 2022; PMID 35347128; DOI 10.1038/s41467-022-29143-5
+05_mendelian_randomization	plasma_metabolite_GWAS	GCST90200293_thyroxine	not_bundled	https://www.ebi.ac.uk/gwas/studies/GCST90200293	Chen et al. 2023; PMID 36635386; DOI 10.1038/s41588-022-01270-1
+05_mendelian_randomization	plasma_metabolite_GWAS	Rhee_thyroxine	not_bundled	https://doi.org/10.1016/j.cmet.2013.06.013	Rhee et al. 2013; PMID 23823483
+05_mendelian_randomization	plasma_pQTL_GWAS	UKB-PPP	not_bundled	https://doi.org/10.1038/s41586-023-06592-6	Sun et al. 2023; PMID 37794186
+05_mendelian_randomization	disease_GWAS	FinnGen_R12_J10_PNEUMOBACT	not_bundled	https://r12.finngen.fi/pheno/J10_PNEUMOBACT	Bacterial pneumonia; Kurki et al. 2023; PMID 36653562
+05_mendelian_randomization	disease_GWAS	FinnGen_R7_J10_PNEUMOBACTEROTH	not_bundled	https://r7.finngen.fi/pheno/J10_PNEUMOBACTEROTH	Bacterial pneumonia, not elsewhere classified; Kurki et al. 2023; PMID 36653562
 05_mendelian_randomization	LD_reference_panel	[AUTHOR_INPUT_NEEDED]	not_bundled	[AUTHOR_INPUT_NEEDED]	Required for local clumping
-07_immune_infiltration	public_bulk_transcriptomic_dataset	[AUTHOR_INPUT_NEEDED]	not_bundled	[AUTHOR_INPUT_NEEDED]	Confirm accession used by the analysis
-08_single_cell_transcriptomics	public_single_cell_dataset	GSE263380	not_bundled	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE263380	Raw public count matrices
-08_single_cell_transcriptomics	public_single_cell_dataset	GSE252663	not_bundled	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE252663	Raw public count matrices
+07_immune_infiltration	public_bulk_transcriptomic_dataset	GSE40012	not_bundled	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE40012	Parnell et al. 2012; PMID 22898401; DOI 10.1186/cc11477
+07_immune_infiltration	public_bulk_transcriptomic_dataset	GSE20346	not_bundled	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE20346	Parnell et al. 2011; PMID 21408152; DOI 10.1371/journal.pone.0017186
+08_single_cell_transcriptomics	public_single_cell_dataset	GSE263380	not_bundled	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE263380	Sun et al. 2024; PMID 38772102; DOI 10.1016/j.compbiomed.2024.108574
+08_single_cell_transcriptomics	public_single_cell_dataset	GSE252663	not_bundled	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE252663	Gonzalez-Ferrer et al. 2024; PMID 38289252; DOI 10.4049/immunohorizons.2300104
 09_molecular_docking_dynamics	MD_trajectory	MAPK14-Pelargonidin	not_bundled	[AUTHOR_INPUT_NEEDED]	Large trajectory and checkpoint files
 09_molecular_docking_dynamics	MD_trajectory	MAPK14-Thyroxine	not_bundled	[AUTHOR_INPUT_NEEDED]	Large trajectory and checkpoint files
 09_molecular_docking_dynamics	MD_trajectory	PTPRC-5,7-dihydroxy-2-phenyl-4H-chromen-4-one	not_bundled	[AUTHOR_INPUT_NEEDED]	Large trajectory and checkpoint files

@@ -61,29 +61,19 @@ SENSITIVITY_THRESHOLDS <- list(
 # ==============================================================================
 # ==============================================================================
 
-#   shin, chen, metsim, rhee
+#   chen, metsim, rhee
 #   mibiogen, ruhlemann, qin
-#   tcell, plasma_pqtl
+#   plasma_pqtl
 ACTIVE_EXPOSURES <- c("mibiogen", "ruhlemann", "qin")
 
-#   "pna", "vp", "copd", "asthma", "tcell"
+#   "bp", "bpother_r7"
 ACTIVE_OUTCOME <- "bp"
 
 # filter_mode:
 EXPOSURE_FILTER_CONFIG <- list(
-  shin = list(
-    filter_mode = "selected",
-    selected_items = c(
-      "Serotonin 5HT levels",
-      "Isoleucine levels"
-    )
-  ),
-
   chen = list(
     filter_mode = "selected",
     selected_items = c(
-      "Serotonin levels",
-      "Isoleucine levels",
       "Thyroxine levels"
     )
   ),
@@ -91,10 +81,6 @@ EXPOSURE_FILTER_CONFIG <- list(
   metsim = list(
     filter_mode = "selected",
     selected_items = c(
-      "METSIM_C504_serotonin",
-      "METSIM_C100003101_alpha_CEHC_glucuronide",
-      "METSIM_C2029_azelate_C9_DC",
-      "METSIM_C376_isoleucine",
       "METSIM_C1094_thyroxine"
     )
   ),
@@ -102,8 +88,6 @@ EXPOSURE_FILTER_CONFIG <- list(
   rhee = list(
     filter_mode = "selected",
     selected_items = c(
-      "serotonin",
-      "isoleucine",
       "thyroxine"
     )
   ),
@@ -173,11 +157,6 @@ EXPOSURE_FILTER_CONFIG <- list(
     )
   ),
 
-  tcell = list(
-    filter_mode = "all",
-    selected_items = c()
-  ),
-
   plasma_pqtl = list(
     filter_mode = "all",
     selected_items = c()
@@ -185,7 +164,6 @@ EXPOSURE_FILTER_CONFIG <- list(
 )
 
 DATA_FILES <- list(
-  shin = file.path(DATA_DIR, "metabolites", "exp_Shin_p1e5.csv"),
   chen = file.path(DATA_DIR, "metabolites", "exp_Chen_p1e5.csv"),
   metsim = file.path(DATA_DIR, "metabolites", "exp_METSIM_p1e5.csv"),
   rhee = file.path(DATA_DIR, "metabolites", "exp_Rhee_modified.csv"),
@@ -193,9 +171,6 @@ DATA_FILES <- list(
   mibiogen = file.path(DATA_DIR, "Taxa_abundance", "MBG.allHits.p1e4.txt"),
   ruhlemann = file.path(DATA_DIR, "Taxa_abundance", "exp_Ruhlemann_p1e5.csv"),
   qin = file.path(DATA_DIR, "Taxa_abundance", "exp_Qin_p1e5.csv"),
-
-  tcell = file.path(DATA_DIR, "Tcell", "exp_Tcell_p1e5.csv"),
-  tcell_outcome = file.path(DATA_DIR, "Tcell", "oc_Tcell_all.csv"),
 
   plasma_pqtl = file.path(DATA_DIR, "plasma_pQTL", "exp_UKB-PPP_p1e5.csv"),
 

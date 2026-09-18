@@ -1,7 +1,3 @@
 id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
 GCST90200293,J10_PNEUMOBACT,Bacterial pneumoniae,Thyroxine levels,MR Egger,19.5364563137724,20,0.487241306542987
 GCST90200293,J10_PNEUMOBACT,Bacterial pneumoniae,Thyroxine levels,Inverse variance weighted,19.5478447975983,21,0.55004031380145
-GCST90200399,J10_PNEUMOBACT,Bacterial pneumoniae,Isoleucine levels,MR Egger,15.6150434809752,20,0.740200760526395
-GCST90200399,J10_PNEUMOBACT,Bacterial pneumoniae,Isoleucine levels,Inverse variance weighted,15.6165338567584,21,0.790794781370435
-GCST90200422,J10_PNEUMOBACT,Bacterial pneumoniae,Serotonin levels,MR Egger,18.5205052689217,23,0.728676545894532
-GCST90200422,J10_PNEUMOBACT,Bacterial pneumoniae,Serotonin levels,Inverse variance weighted,20.184477543583,24,0.686238348243334

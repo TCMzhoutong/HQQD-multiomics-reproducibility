@@ -1,6 +1,6 @@
 # Validation report
 
-Validation date: 2026-09-10
+Validation date: 2026-09-18
 
 ## Manuscript-aligned checks
 
@@ -28,11 +28,12 @@ All 17 automated checks in `workflow/validate_package.py` passed:
 
 - Serum metabolomics: 38 initial reverse-candidate annotations, six prespecified exclusions, and 32 retained annotations; UTF-8 labels verified in both ion modes.
 - Multi-omics correlation: 18 taxa by 32 metabolites, 237 significant Spearman associations, 15 taxon-phenotype and 27 metabolite-phenotype Mantel associations, and the expected five prioritised metabolites.
+- Mendelian randomisation: active jobs and compact reference outputs are limited to manuscript-aligned gut-microbiota exposures, thyroxine from the METSIM, Chen and Rhee plasma-metabolite GWAS resources, UKB-PPP plasma proteins, and the FinnGen R12/R7 bacterial-pneumonia outcomes; immune-cell-trait and non-prioritised-metabolite MR artefacts are absent.
 - Network pharmacology: five metabolite inputs, 30 three-way common targets, a 28-node/105-edge connected STRING network, CytoNCA 28-to-20 selection, and the expected nine-gene hub intersection.
 
 ## Repository-hygiene checks
 
-- All 487 code and text-data files are readable as UTF-8.
+- All 506 code and text-data files are readable as UTF-8.
 - No CJK text remains in distributable code, documentation, or text-data files.
 - No relative filename contains non-ASCII characters.
 - No empty, backup, temporary, `publication_package`, or `pocket` directory remains.

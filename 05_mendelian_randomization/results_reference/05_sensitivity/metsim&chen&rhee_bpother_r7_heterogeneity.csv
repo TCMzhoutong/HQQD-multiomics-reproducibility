@@ -1,0 +1,7 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+053Uc4,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",thyroxine,MR Egger,1.90063991548899,5,0.862715523590864
+053Uc4,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",thyroxine,Inverse variance weighted,2.26085621952411,6,0.894213110587006
+C1094,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",METSIM_C1094_thyroxine,MR Egger,25.459578417425,18,0.112771719940919
+C1094,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",METSIM_C1094_thyroxine,Inverse variance weighted,25.5702857389416,19,0.142614247234802
+GCST90200293,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Thyroxine levels,MR Egger,18.1198992860205,19,0.514442980835023
+GCST90200293,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Thyroxine levels,Inverse variance weighted,18.1750098352094,20,0.575880604631986

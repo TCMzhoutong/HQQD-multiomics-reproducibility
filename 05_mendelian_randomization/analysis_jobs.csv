@@ -1,6 +1,6 @@
 job_id,exposure_group,outcome_group,purpose
 microbiome_primary,mibiogen;ruhlemann;qin,bp,Primary microbiome-to-bacterial-pneumonia analysis
-microbiome_replication_1,mibiogen;ruhlemann;qin,bpother_r7,Microbiome replication outcome
-microbiome_replication_2,mibiogen;ruhlemann;qin,bpr13,Microbiome replication outcome
-metabolite_primary,metsim;chen;shin;rhee,bpother_r7,Metabolite-to-bacterial-pneumonia analysis
+microbiome_supplementary,mibiogen;ruhlemann;qin,bpother_r7,Supplementary microbiome-to-bacterial-pneumonia analysis
+metabolite_primary,metsim;chen;rhee,bp,Primary prioritised-metabolite-to-bacterial-pneumonia analysis
+metabolite_supplementary,metsim;chen;rhee,bpother_r7,Supplementary prioritised-metabolite-to-bacterial-pneumonia analysis
 pqtl_primary,plasma_pqtl,bp,Protein-target analysis

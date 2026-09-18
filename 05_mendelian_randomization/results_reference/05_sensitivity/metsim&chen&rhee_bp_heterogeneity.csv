@@ -1,0 +1,7 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+C1094,J10_PNEUMOBACT,Bacterial pneumoniae,METSIM_C1094_thyroxine,MR Egger,26.0884807228678,19,0.127742388504122
+C1094,J10_PNEUMOBACT,Bacterial pneumoniae,METSIM_C1094_thyroxine,Inverse variance weighted,26.284415130582,20,0.156622670166316
+GCST90200293,J10_PNEUMOBACT,Bacterial pneumoniae,Thyroxine levels,MR Egger,19.5364563137724,20,0.487241306542987
+GCST90200293,J10_PNEUMOBACT,Bacterial pneumoniae,Thyroxine levels,Inverse variance weighted,19.5478447975983,21,0.55004031380145
+uXhzUk,J10_PNEUMOBACT,Bacterial pneumoniae,thyroxine,MR Egger,5.1660330498816,5,0.39595535806291
+uXhzUk,J10_PNEUMOBACT,Bacterial pneumoniae,thyroxine,Inverse variance weighted,5.70376081956905,6,0.457179261099722

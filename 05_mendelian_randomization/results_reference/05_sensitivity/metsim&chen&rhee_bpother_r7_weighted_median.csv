@@ -1,0 +1,4 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+053Uc4,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",thyroxine,Weighted median,7,-0.0325779700683134,0.0321147232363262,0.310380119706338
+C1094,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",METSIM_C1094_thyroxine,Weighted median,20,0.00903897102005239,0.05118945432707,0.859839268991609
+GCST90200293,J10_PNEUMOBACTEROTH,"Bacterial pneumonia, not elsewhere classified",Thyroxine levels,Weighted median,21,-0.0676610110319359,0.0585697322920146,0.24799975319969

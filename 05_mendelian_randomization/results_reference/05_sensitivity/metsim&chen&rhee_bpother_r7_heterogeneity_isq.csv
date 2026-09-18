@@ -1,0 +1,4 @@
+id.exposure,id.outcome,exposure,outcome,I2,H2,QE,QEp
+053Uc4,J10_PNEUMOBACTEROTH,thyroxine,"Bacterial pneumonia, not elsewhere classified",0,0.376809369920684,2.26085621952411,0.894213110587006
+C1094,J10_PNEUMOBACTEROTH,METSIM_C1094_thyroxine,"Bacterial pneumonia, not elsewhere classified",25.6950032002793,1.34580451257587,25.5702857389416,0.142614247234802
+GCST90200293,J10_PNEUMOBACTEROTH,Thyroxine levels,"Bacterial pneumonia, not elsewhere classified",0,0.908750491760472,18.1750098352094,0.575880604631986

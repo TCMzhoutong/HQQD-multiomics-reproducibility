@@ -1,0 +1,4 @@
+id.exposure,id.outcome,exposure,outcome,b,se,pval,method
+C1094,J10_PNEUMOBACT,METSIM_C1094_thyroxine,Bacterial pneumoniae,0.1348292,0.0816326530612245,0.337865334023873,Contamination mixture
+GCST90200293,J10_PNEUMOBACT,Thyroxine levels,Bacterial pneumoniae,-0.0900218759121234,0.0331632653061225,0.00746185377152017,Contamination mixture
+uXhzUk,J10_PNEUMOBACT,thyroxine,Bacterial pneumoniae,-0.0336448602949442,0.0153061224489796,0.0987516130324933,Contamination mixture

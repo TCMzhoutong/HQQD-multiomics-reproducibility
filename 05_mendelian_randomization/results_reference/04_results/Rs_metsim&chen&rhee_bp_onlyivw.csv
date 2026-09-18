@@ -1,0 +1,4 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,fdr
+C1094,J10_PNEUMOBACT,Bacterial pneumoniae,METSIM_C1094_thyroxine,Inverse variance weighted (multiplicative random effects),21,0.0146112930187208,0.0278773588504057,0.600189797282501,0.600189797282501
+GCST90200293,J10_PNEUMOBACT,Bacterial pneumoniae,Thyroxine levels,Inverse variance weighted (multiplicative random effects),22,-0.0397307792449252,0.0293092510127005,0.175235611298086,0.525706833894257
+uXhzUk,J10_PNEUMOBACT,Bacterial pneumoniae,thyroxine,Inverse variance weighted (multiplicative random effects),7,-0.0207130436860458,0.0172273161751094,0.229232896352992,0.343849344529489
