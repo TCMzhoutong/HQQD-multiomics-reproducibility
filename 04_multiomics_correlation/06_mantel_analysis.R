@@ -186,24 +186,27 @@ disease_raw <- read_csv_flexible(disease_file)
 disease_data <- make_sample_ids(disease_raw)
 
 selected_cols <- c(
-  "Serum TNF-α", "Serum IL-17A", "Serum IL-10", "Serum IL-6", "Serum IL-1β",
-  "Ileum TNF-α", "Ileum IL-17A", "Ileum IL-10", "Ileum IL-6", "Ileum IL-1β",
-  "Lung TNF-α", "Lung IL-17A", "Lung IL-10", "Lung IL-6", "Lung IL-1β",
+  "Serum TNFα", "Serum IL17A", "Serum IL10", "Serum IL6", "Serum IL1β",
+  "Ileum TNFα", "Ileum IL17A", "Ileum IL10", "Ileum IL6", "Ileum IL1β",
+  "Lung TNFα", "Lung IL17A", "Lung IL10", "Lung IL6", "Lung IL1β",
   "Lung Bacterial Load (log10 CFU)", "Lung Pathology Score",
   "MLN_treg_CD25+FOXP3+(%)", "MLN_TH17_CD8-IL-17A+(%)",
   "Lung treg_CD25+FOXP3+(%)", "Lung TH17_CD8-IL-17A+(%)"
 )
 
-cols_to_keep <- intersect(selected_cols, colnames(disease_data))
-disease_clean <- disease_data[, cols_to_keep, drop = FALSE] %>%
+missing_cols <- setdiff(selected_cols, colnames(disease_data))
+if (length(missing_cols) > 0) {
+  stop("Disease indicator columns missing from animal_outcomes.csv: ", paste(missing_cols, collapse = ", "))
+}
+disease_clean <- disease_data[, selected_cols, drop = FALSE] %>%
   mutate(across(everything(), clean_numeric)) %>%
   as.data.frame()
 rownames(disease_clean) <- disease_data$SampleID
 
 disease_group_list <- list(
-  "Serum Cytokines" = c("Serum TNF-α", "Serum IL-17A", "Serum IL-10", "Serum IL-6", "Serum IL-1β"),
-  "Ileum Cytokines" = c("Ileum TNF-α", "Ileum IL-17A", "Ileum IL-10", "Ileum IL-6", "Ileum IL-1β"),
-  "Lung Cytokines" = c("Lung TNF-α", "Lung IL-17A", "Lung IL-10", "Lung IL-6", "Lung IL-1β"),
+  "Serum Cytokines" = c("Serum TNFα", "Serum IL17A", "Serum IL10", "Serum IL6", "Serum IL1β"),
+  "Ileum Cytokines" = c("Ileum TNFα", "Ileum IL17A", "Ileum IL10", "Ileum IL6", "Ileum IL1β"),
+  "Lung Cytokines" = c("Lung TNFα", "Lung IL17A", "Lung IL10", "Lung IL6", "Lung IL1β"),
   "Lung Pathology" = c("Lung Bacterial Load (log10 CFU)", "Lung Pathology Score"),
   "Immune Cells" = c("MLN_treg_CD25+FOXP3+(%)", "MLN_TH17_CD8-IL-17A+(%)", "Lung treg_CD25+FOXP3+(%)", "Lung TH17_CD8-IL-17A+(%)")
 )
